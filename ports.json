@@ -1,0 +1,14558 @@
+[
+  {
+    "id": 2125,
+    "name": "AALBORG"
+  },
+  {
+    "id": 1695,
+    "name": "AALST"
+  },
+  {
+    "id": 1696,
+    "name": "AALTER"
+  },
+  {
+    "id": 2126,
+    "name": "AARHUS"
+  },
+  {
+    "id": 3153,
+    "name": "AASIAAT"
+  },
+  {
+    "id": 124,
+    "name": "ABADAN"
+  },
+  {
+    "id": 261,
+    "name": "ABASHIRI"
+  },
+  {
+    "id": 881,
+    "name": "ABBOT POINT"
+  },
+  {
+    "id": 2905,
+    "name": "ABENRA"
+  },
+  {
+    "id": 1470,
+    "name": "ABERDEEN"
+  },
+  {
+    "id": 2490,
+    "name": "ABERDEEN MS"
+  },
+  {
+    "id": 2084,
+    "name": "ABIDJAN"
+  },
+  {
+    "id": 2238,
+    "name": "ABLON"
+  },
+  {
+    "id": 2756,
+    "name": "ABOSHI/HIMEJI"
+  },
+  {
+    "id": 49028,
+    "name": "ABU AL BUKHOOSH"
+  },
+  {
+    "id": 142,
+    "name": "ABU AL FULUS"
+  },
+  {
+    "id": 47297,
+    "name": "ABU GHOSOUN"
+  },
+  {
+    "id": 488,
+    "name": "ABU KAMMASH"
+  },
+  {
+    "id": 2910,
+    "name": "ABU KIR"
+  },
+  {
+    "id": 2185,
+    "name": "ABU RUDEIS"
+  },
+  {
+    "id": 2911,
+    "name": "ABU ZENIMAH"
+  },
+  {
+    "id": 262,
+    "name": "ABURATSU"
+  },
+  {
+    "id": 2199,
+    "name": "ACAJUTLA"
+  },
+  {
+    "id": 47386,
+    "name": "ACAPULCO"
+  },
+  {
+    "id": 2420,
+    "name": "ACHLADI"
+  },
+  {
+    "id": 2327,
+    "name": "ACHMER"
+  },
+  {
+    "id": 1687,
+    "name": "AD DAKHLA"
+  },
+  {
+    "id": 1174,
+    "name": "AD DAMMAM"
+  },
+  {
+    "id": 2492,
+    "name": "ADAK AK"
+  },
+  {
+    "id": 23815,
+    "name": "ADANG BAY"
+  },
+  {
+    "id": 882,
+    "name": "ADELAIDE"
+  },
+  {
+    "id": 1688,
+    "name": "ADEN"
+  },
+  {
+    "id": 14608,
+    "name": "AEGION"
+  },
+  {
+    "id": 2165,
+    "name": "AES ANDRES LNG TERMINAL"
+  },
+  {
+    "id": 630,
+    "name": "AGADIR"
+  },
+  {
+    "id": 3195,
+    "name": "AGIA MARINA FTHIOTIDAS"
+  },
+  {
+    "id": 1095,
+    "name": "AGIGEA"
+  },
+  {
+    "id": 2421,
+    "name": "AGIO THEODOROI"
+  },
+  {
+    "id": 3198,
+    "name": "AGIOS NIKOLAOS, KRITI"
+  },
+  {
+    "id": 2801,
+    "name": "AGOTNES"
+  },
+  {
+    "id": 15609,
+    "name": "AGUADULCE"
+  },
+  {
+    "id": 1083,
+    "name": "AGUIRRE"
+  },
+  {
+    "id": 2802,
+    "name": "AHEIM"
+  },
+  {
+    "id": 1280,
+    "name": "AHUS"
+  },
+  {
+    "id": 263,
+    "name": "AIOI"
+  },
+  {
+    "id": 883,
+    "name": "AIRLIE TERMINAL"
+  },
+  {
+    "id": 988,
+    "name": "AITAPE"
+  },
+  {
+    "id": 3262,
+    "name": "AJACCIO"
+  },
+  {
+    "id": 1455,
+    "name": "AJMAN"
+  },
+  {
+    "id": 3351,
+    "name": "AKCANSA"
+  },
+  {
+    "id": 264,
+    "name": "AKITA"
+  },
+  {
+    "id": 28442,
+    "name": "AKOH"
+  },
+  {
+    "id": 10,
+    "name": "AKRANES"
+  },
+  {
+    "id": 2115,
+    "name": "AKROTIRI"
+  },
+  {
+    "id": 423,
+    "name": "AKTAU"
+  },
+  {
+    "id": 11,
+    "name": "AKUREYRI"
+  },
+  {
+    "id": 648,
+    "name": "AKYAB"
+  },
+  {
+    "id": 2913,
+    "name": "AL ADABIYAH"
+  },
+  {
+    "id": 2773,
+    "name": "AL AQABAH"
+  },
+  {
+    "id": 2862,
+    "name": "AL FUJAYRAH"
+  },
+  {
+    "id": 1456,
+    "name": "AL HAMRIYAH"
+  },
+  {
+    "id": 631,
+    "name": "AL HOCEIMA"
+  },
+  {
+    "id": 1457,
+    "name": "AL JAZEERA"
+  },
+  {
+    "id": 489,
+    "name": "AL KHUMS"
+  },
+  {
+    "id": 49117,
+    "name": "ALANG SBY"
+  },
+  {
+    "id": 884,
+    "name": "ALBANY"
+  },
+  {
+    "id": 2493,
+    "name": "ALBANY NY"
+  },
+  {
+    "id": 1697,
+    "name": "ALBERTKANNAL"
+  },
+  {
+    "id": 656,
+    "name": "ALBLASSERDAM"
+  },
+  {
+    "id": 1229,
+    "name": "ALCANAR"
+  },
+  {
+    "id": 1030,
+    "name": "ALCOY"
+  },
+  {
+    "id": 1230,
+    "name": "ALCUDIA"
+  },
+  {
+    "id": 2803,
+    "name": "ALESUND"
+  },
+  {
+    "id": 2422,
+    "name": "ALEXANDROUPOLIS"
+  },
+  {
+    "id": 1231,
+    "name": "ALGECIRAS"
+  },
+  {
+    "id": 2204,
+    "name": "ALGER (ALGIERS)"
+  },
+  {
+    "id": 1393,
+    "name": "ALIAGA"
+  },
+  {
+    "id": 1232,
+    "name": "ALICANTE"
+  },
+  {
+    "id": 2494,
+    "name": "ALITAK AK"
+  },
+  {
+    "id": 3359,
+    "name": "ALLIANCE LA"
+  },
+  {
+    "id": 1233,
+    "name": "ALMERIA"
+  },
+  {
+    "id": 978,
+    "name": "ALMIRANTE"
+  },
+  {
+    "id": 2964,
+    "name": "ALMOTA WA"
+  },
+  {
+    "id": 989,
+    "name": "ALOTAU"
+  },
+  {
+    "id": 757,
+    "name": "ALTA"
+  },
+  {
+    "id": 590,
+    "name": "ALTAMIRA"
+  },
+  {
+    "id": 2328,
+    "name": "ALTENLINGEN"
+  },
+  {
+    "id": 3022,
+    "name": "ALUMAR"
+  },
+  {
+    "id": 591,
+    "name": "ALVARADO"
+  },
+  {
+    "id": 2804,
+    "name": "ALVIK"
+  },
+  {
+    "id": 2495,
+    "name": "AMA LA"
+  },
+  {
+    "id": 265,
+    "name": "AMAGASAKI"
+  },
+  {
+    "id": 12416,
+    "name": "AMALIAPOLIS"
+  },
+  {
+    "id": 81,
+    "name": "AMAMAPARE, IJ"
+  },
+  {
+    "id": 1394,
+    "name": "AMBARLI"
+  },
+  {
+    "id": 3123,
+    "name": "AMBES"
+  },
+  {
+    "id": 2705,
+    "name": "AMBON, MOLUCAS"
+  },
+  {
+    "id": 3228,
+    "name": "AMBRIZ"
+  },
+  {
+    "id": 657,
+    "name": "AMELAND"
+  },
+  {
+    "id": 125,
+    "name": "AMIRABAD"
+  },
+  {
+    "id": 1698,
+    "name": "AMPSIN"
+  },
+  {
+    "id": 658,
+    "name": "AMSTERDAM"
+  },
+  {
+    "id": 1615,
+    "name": "AMUAY"
+  },
+  {
+    "id": 82,
+    "name": "AMURANG"
+  },
+  {
+    "id": 1351,
+    "name": "AN PING"
+  },
+  {
+    "id": 2980,
+    "name": "ANACORTES"
+  },
+  {
+    "id": 1103,
+    "name": "ANADYR"
+  },
+  {
+    "id": 1104,
+    "name": "ANAPA"
+  },
+  {
+    "id": 2496,
+    "name": "ANCHORAGE"
+  },
+  {
+    "id": 187,
+    "name": "ANCONA"
+  },
+  {
+    "id": 2805,
+    "name": "ANDALSNES"
+  },
+  {
+    "id": 2329,
+    "name": "ANDERNACH"
+  },
+  {
+    "id": 83,
+    "name": "ANGGREK"
+  },
+  {
+    "id": 1699,
+    "name": "ANGLEUR"
+  },
+  {
+    "id": 3210,
+    "name": "ANGOCHE"
+  },
+  {
+    "id": 3023,
+    "name": "ANGRA DOS REIS"
+  },
+  {
+    "id": 1700,
+    "name": "ANHEE"
+  },
+  {
+    "id": 2330,
+    "name": "ANKLAM"
+  },
+  {
+    "id": 2918,
+    "name": "ANNABA"
+  },
+  {
+    "id": 1968,
+    "name": "ANQING"
+  },
+  {
+    "id": 1395,
+    "name": "ANTALYA"
+  },
+  {
+    "id": 2096,
+    "name": "ANTILLA"
+  },
+  {
+    "id": 1944,
+    "name": "ANTOFAGASTA"
+  },
+  {
+    "id": 3007,
+    "name": "ANTOING"
+  },
+  {
+    "id": 3024,
+    "name": "ANTONINA"
+  },
+  {
+    "id": 1701,
+    "name": "ANTWERPEN"
+  },
+  {
+    "id": 84,
+    "name": "ANYER KIDUL"
+  },
+  {
+    "id": 188,
+    "name": "ANZIO"
+  },
+  {
+    "id": 266,
+    "name": "AOMORI"
+  },
+  {
+    "id": 47748,
+    "name": "APARRI, LUZON"
+  },
+  {
+    "id": 1172,
+    "name": "APIA"
+  },
+  {
+    "id": 1702,
+    "name": "APPELS"
+  },
+  {
+    "id": 2468,
+    "name": "APRA"
+  },
+  {
+    "id": 48315,
+    "name": "AQUILA TERMINAL"
+  },
+  {
+    "id": 1830,
+    "name": "ARACAJU"
+  },
+  {
+    "id": 2239,
+    "name": "ARAMON"
+  },
+  {
+    "id": 28449,
+    "name": "ARAR"
+  },
+  {
+    "id": 1831,
+    "name": "ARATU"
+  },
+  {
+    "id": 3372,
+    "name": "ARAYA"
+  },
+  {
+    "id": 189,
+    "name": "ARBATAX"
+  },
+  {
+    "id": 27256,
+    "name": "ARDAL - HJELMELAND"
+  },
+  {
+    "id": 2806,
+    "name": "ARDALSTANGEN"
+  },
+  {
+    "id": 885,
+    "name": "ARDROSSAN, AU"
+  },
+  {
+    "id": 2864,
+    "name": "ARDROSSAN, GB"
+  },
+  {
+    "id": 1832,
+    "name": "AREIA BRANCA"
+  },
+  {
+    "id": 758,
+    "name": "ARENDAL"
+  },
+  {
+    "id": 1703,
+    "name": "ARENDONK"
+  },
+  {
+    "id": 1704,
+    "name": "ARGENTEAU"
+  },
+  {
+    "id": 1875,
+    "name": "ARGENTIA"
+  },
+  {
+    "id": 3140,
+    "name": "ARGOSTOLION"
+  },
+  {
+    "id": 1234,
+    "name": "ARGUINEGUIN"
+  },
+  {
+    "id": 1945,
+    "name": "ARICA"
+  },
+  {
+    "id": 3326,
+    "name": "ARINAGA"
+  },
+  {
+    "id": 1105,
+    "name": "ARKHANGELSK"
+  },
+  {
+    "id": 146,
+    "name": "ARKLOW"
+  },
+  {
+    "id": 527,
+    "name": "ARROYO SECO"
+  },
+  {
+    "id": 12743,
+    "name": "ARSNES"
+  },
+  {
+    "id": 2205,
+    "name": "ARZEW"
+  },
+  {
+    "id": 48099,
+    "name": "AS SIDR"
+  },
+  {
+    "id": 126,
+    "name": "ASALUYEH"
+  },
+  {
+    "id": 2331,
+    "name": "ASCHAFFENBURG"
+  },
+  {
+    "id": 49457,
+    "name": "ASH SHIHR"
+  },
+  {
+    "id": 179,
+    "name": "ASHDOD"
+  },
+  {
+    "id": 47278,
+    "name": "ASHIZURI"
+  },
+  {
+    "id": 180,
+    "name": "ASHKELON"
+  },
+  {
+    "id": 2497,
+    "name": "ASHTABULA"
+  },
+  {
+    "id": 632,
+    "name": "ASILAH"
+  },
+  {
+    "id": 759,
+    "name": "ASKOY"
+  },
+  {
+    "id": 3158,
+    "name": "ASNAESVAERKETS HAVN"
+  },
+  {
+    "id": 2240,
+    "name": "ASNIERES-SUR-SEINE"
+  },
+  {
+    "id": 2947,
+    "name": "ASPROPIRGOS"
+  },
+  {
+    "id": 13431,
+    "name": "ASSAB"
+  },
+  {
+    "id": 190,
+    "name": "ASSEMINI"
+  },
+  {
+    "id": 47744,
+    "name": "ASSENS"
+  },
+  {
+    "id": 3206,
+    "name": "ASTAKOS"
+  },
+  {
+    "id": 3373,
+    "name": "ASTINAVE"
+  },
+  {
+    "id": 2498,
+    "name": "ASTORIA"
+  },
+  {
+    "id": 1106,
+    "name": "ASTRAKHAN"
+  },
+  {
+    "id": 3265,
+    "name": "ATHERINOLAKKOS"
+  },
+  {
+    "id": 3298,
+    "name": "ATICO"
+  },
+  {
+    "id": 267,
+    "name": "ATSUMI"
+  },
+  {
+    "id": 528,
+    "name": "ATUCHA"
+  },
+  {
+    "id": 724,
+    "name": "AUCKLAND"
+  },
+  {
+    "id": 147,
+    "name": "AUGHINISH ISLAND"
+  },
+  {
+    "id": 191,
+    "name": "AUGUSTA"
+  },
+  {
+    "id": 2880,
+    "name": "AULDS COVE"
+  },
+  {
+    "id": 1548,
+    "name": "AULTBEA"
+  },
+  {
+    "id": 760,
+    "name": "AURLAND"
+  },
+  {
+    "id": 761,
+    "name": "AUSTEVOLL"
+  },
+  {
+    "id": 886,
+    "name": "AUSTRALIND"
+  },
+  {
+    "id": 2900,
+    "name": "AVATIU"
+  },
+  {
+    "id": 2127,
+    "name": "AVEDORE"
+  },
+  {
+    "id": 1072,
+    "name": "AVEIRO"
+  },
+  {
+    "id": 1705,
+    "name": "AVELGEM"
+  },
+  {
+    "id": 762,
+    "name": "AVEROY"
+  },
+  {
+    "id": 1235,
+    "name": "AVILES"
+  },
+  {
+    "id": 2499,
+    "name": "AVONDALE"
+  },
+  {
+    "id": 1471,
+    "name": "AVONMOUTH"
+  },
+  {
+    "id": 1472,
+    "name": "AYR"
+  },
+  {
+    "id": 28443,
+    "name": "AZ ZAWIYAH"
+  },
+  {
+    "id": 1107,
+    "name": "AZOV"
+  },
+  {
+    "id": 47469,
+    "name": "BABATNGON"
+  },
+  {
+    "id": 1616,
+    "name": "BACHAQUERO/MARACAIBO L"
+  },
+  {
+    "id": 2332,
+    "name": "BACHARACH"
+  },
+  {
+    "id": 3300,
+    "name": "BACOLOD, NEGROS"
+  },
+  {
+    "id": 1031,
+    "name": "BACONG"
+  },
+  {
+    "id": 2333,
+    "name": "BAD BEVENSEN"
+  },
+  {
+    "id": 2779,
+    "name": "BAGAN LUAR (BUTTERWORTH)"
+  },
+  {
+    "id": 529,
+    "name": "BAHIA BLANCA"
+  },
+  {
+    "id": 3096,
+    "name": "BAHIA HONDA"
+  },
+  {
+    "id": 1964,
+    "name": "BAHIA SAN GREGORIO"
+  },
+  {
+    "id": 1876,
+    "name": "BAIE COMEAU"
+  },
+  {
+    "id": 2956,
+    "name": "BAIE DE SAINT-MARC"
+  },
+  {
+    "id": 716,
+    "name": "BAIE DES DAMES"
+  },
+  {
+    "id": 717,
+    "name": "BAIE UGUE"
+  },
+  {
+    "id": 47334,
+    "name": "BAIE VERTE"
+  },
+  {
+    "id": 1617,
+    "name": "BAJO GRANDE/MARACAIBO L"
+  },
+  {
+    "id": 2085,
+    "name": "BAKAR"
+  },
+  {
+    "id": 1167,
+    "name": "BAKU"
+  },
+  {
+    "id": 1032,
+    "name": "BALAMBAN BAY"
+  },
+  {
+    "id": 979,
+    "name": "BALBOA"
+  },
+  {
+    "id": 3032,
+    "name": "BALCHIK"
+  },
+  {
+    "id": 1706,
+    "name": "BALGERHOEK"
+  },
+  {
+    "id": 1689,
+    "name": "BALHAF"
+  },
+  {
+    "id": 85,
+    "name": "BALIKPAPAN"
+  },
+  {
+    "id": 20776,
+    "name": "BALINGASAG"
+  },
+  {
+    "id": 887,
+    "name": "BALL`S HEAD"
+  },
+  {
+    "id": 888,
+    "name": "BALMAIN"
+  },
+  {
+    "id": 86,
+    "name": "BALONGAN TERMINAL"
+  },
+  {
+    "id": 763,
+    "name": "BALSFJORD"
+  },
+  {
+    "id": 3390,
+    "name": "BALSTA"
+  },
+  {
+    "id": 2500,
+    "name": "BALTIMORE"
+  },
+  {
+    "id": 1108,
+    "name": "BALTIYSK"
+  },
+  {
+    "id": 2334,
+    "name": "BAMBERG"
+  },
+  {
+    "id": 1877,
+    "name": "BAMBERTON"
+  },
+  {
+    "id": 2855,
+    "name": "BAN MAP TA PHUT"
+  },
+  {
+    "id": 3092,
+    "name": "BANANA"
+  },
+  {
+    "id": 12821,
+    "name": "BANDA ACEH"
+  },
+  {
+    "id": 127,
+    "name": "BANDAR ABBAS"
+  },
+  {
+    "id": 128,
+    "name": "BANDAR KHOMEINI"
+  },
+  {
+    "id": 129,
+    "name": "BANDAR TORKEMAN"
+  },
+  {
+    "id": 130,
+    "name": "BANDAR-E ANZALI"
+  },
+  {
+    "id": 131,
+    "name": "BANDAR-E MAH SHAHR"
+  },
+  {
+    "id": 47335,
+    "name": "BANDHOLM"
+  },
+  {
+    "id": 1396,
+    "name": "BANDIRMA"
+  },
+  {
+    "id": 1367,
+    "name": "BANGKOK"
+  },
+  {
+    "id": 1368,
+    "name": "BANGPAKONG"
+  },
+  {
+    "id": 3342,
+    "name": "BANIYAS"
+  },
+  {
+    "id": 87,
+    "name": "BANJARMASIN"
+  },
+  {
+    "id": 2323,
+    "name": "BANJUL"
+  },
+  {
+    "id": 3159,
+    "name": "BANTRY"
+  },
+  {
+    "id": 2972,
+    "name": "BAOSHAN"
+  },
+  {
+    "id": 624,
+    "name": "BAR"
+  },
+  {
+    "id": 2097,
+    "name": "BARACOA"
+  },
+  {
+    "id": 2166,
+    "name": "BARAHONA"
+  },
+  {
+    "id": 2957,
+    "name": "BARBERS POINT (OAHU)"
+  },
+  {
+    "id": 742,
+    "name": "BARCADERA"
+  },
+  {
+    "id": 1236,
+    "name": "BARCELONA"
+  },
+  {
+    "id": 192,
+    "name": "BARI"
+  },
+  {
+    "id": 193,
+    "name": "BARLETTA"
+  },
+  {
+    "id": 12372,
+    "name": "BARRA DO DANDE"
+  },
+  {
+    "id": 530,
+    "name": "BARRANQUERAS"
+  },
+  {
+    "id": 3088,
+    "name": "BARRANQUILLA"
+  },
+  {
+    "id": 3307,
+    "name": "BARREIRO"
+  },
+  {
+    "id": 2865,
+    "name": "BARROW IN FURNESS"
+  },
+  {
+    "id": 47806,
+    "name": "BARROW ISLAND"
+  },
+  {
+    "id": 889,
+    "name": "BARROW ISLAND"
+  },
+  {
+    "id": 47296,
+    "name": "BARROW-UPON-HUMBER"
+  },
+  {
+    "id": 12373,
+    "name": "BARRY BEACH"
+  },
+  {
+    "id": 1473,
+    "name": "BARRY DOCK"
+  },
+  {
+    "id": 1397,
+    "name": "BARTIN"
+  },
+  {
+    "id": 3297,
+    "name": "BASAMUK"
+  },
+  {
+    "id": 1096,
+    "name": "BASARABI"
+  },
+  {
+    "id": 2852,
+    "name": "BASEL"
+  },
+  {
+    "id": 143,
+    "name": "BASRA"
+  },
+  {
+    "id": 649,
+    "name": "BASSEIN"
+  },
+  {
+    "id": 2241,
+    "name": "BASSENS"
+  },
+  {
+    "id": 2465,
+    "name": "BASSE-TERRE"
+  },
+  {
+    "id": 2841,
+    "name": "BASSETERRE, SAINT KITTS"
+  },
+  {
+    "id": 2242,
+    "name": "BASTIA"
+  },
+  {
+    "id": 1969,
+    "name": "BASUO"
+  },
+  {
+    "id": 2201,
+    "name": "BATA"
+  },
+  {
+    "id": 2994,
+    "name": "BATAAN, MARIVELES"
+  },
+  {
+    "id": 3173,
+    "name": "BATAM"
+  },
+  {
+    "id": 2817,
+    "name": "BATANGAS/LUZON"
+  },
+  {
+    "id": 1878,
+    "name": "BATH"
+  },
+  {
+    "id": 40688,
+    "name": "BATH, ON"
+  },
+  {
+    "id": 2501,
+    "name": "BATON ROUGE"
+  },
+  {
+    "id": 47351,
+    "name": "BATSFJORD"
+  },
+  {
+    "id": 3215,
+    "name": "BATU AMPAL"
+  },
+  {
+    "id": 47417,
+    "name": "BATU PAHAT"
+  },
+  {
+    "id": 2324,
+    "name": "BATUMI"
+  },
+  {
+    "id": 1033,
+    "name": "BAUAN/BATANGAS"
+  },
+  {
+    "id": 3270,
+    "name": "BAUBAU"
+  },
+  {
+    "id": 1707,
+    "name": "BAUDOUR"
+  },
+  {
+    "id": 1879,
+    "name": "BAY BULLS"
+  },
+  {
+    "id": 3392,
+    "name": "BAY CITY MI"
+  },
+  {
+    "id": 1880,
+    "name": "BAY ROBERTS"
+  },
+  {
+    "id": 47343,
+    "name": "BAYAH"
+  },
+  {
+    "id": 3124,
+    "name": "BAYONNE"
+  },
+  {
+    "id": 2816,
+    "name": "BAYOVAR"
+  },
+  {
+    "id": 1881,
+    "name": "BAYSIDE"
+  },
+  {
+    "id": 2502,
+    "name": "BAYTOWN"
+  },
+  {
+    "id": 49179,
+    "name": "BAYTOWN"
+  },
+  {
+    "id": 1970,
+    "name": "BAYUQUAN"
+  },
+  {
+    "id": 890,
+    "name": "BEACHPORT"
+  },
+  {
+    "id": 2503,
+    "name": "BEAUMONT"
+  },
+  {
+    "id": 891,
+    "name": "BEAUTY POINT"
+  },
+  {
+    "id": 3036,
+    "name": "BECANCOUR"
+  },
+  {
+    "id": 2335,
+    "name": "BEDDINGEN"
+  },
+  {
+    "id": 30,
+    "name": "BEDI"
+  },
+  {
+    "id": 1708,
+    "name": "BEERNEM"
+  },
+  {
+    "id": 3080,
+    "name": "BEIHAI"
+  },
+  {
+    "id": 1971,
+    "name": "BEILUN"
+  },
+  {
+    "id": 643,
+    "name": "BEIRA"
+  },
+  {
+    "id": 480,
+    "name": "BEIRUT"
+  },
+  {
+    "id": 2919,
+    "name": "BEJAIA (EX. BOUGIE)"
+  },
+  {
+    "id": 47295,
+    "name": "BEKKERI"
+  },
+  {
+    "id": 2706,
+    "name": "BELAWAN, SUMATRA"
+  },
+  {
+    "id": 31,
+    "name": "BELEKERI"
+  },
+  {
+    "id": 1833,
+    "name": "BELEM"
+  },
+  {
+    "id": 1474,
+    "name": "BELFAST"
+  },
+  {
+    "id": 1438,
+    "name": "BELGOROD-DNESTROVSKIY"
+  },
+  {
+    "id": 1194,
+    "name": "BELGRADE"
+  },
+  {
+    "id": 45580,
+    "name": "BELITUNG"
+  },
+  {
+    "id": 1826,
+    "name": "BELIZE CITY"
+  },
+  {
+    "id": 892,
+    "name": "BELL BAY"
+  },
+  {
+    "id": 3037,
+    "name": "BELLEDUNE"
+  },
+  {
+    "id": 2789,
+    "name": "BELLEFONAINE"
+  },
+  {
+    "id": 2504,
+    "name": "BELLINGHAM"
+  },
+  {
+    "id": 1109,
+    "name": "BELOMORSK"
+  },
+  {
+    "id": 1646,
+    "name": "BEN NGHE"
+  },
+  {
+    "id": 2336,
+    "name": "BENDORF/RHEIN"
+  },
+  {
+    "id": 3212,
+    "name": "BENETE"
+  },
+  {
+    "id": 1972,
+    "name": "BENGBU"
+  },
+  {
+    "id": 2707,
+    "name": "BENGKULU, SUMATRA"
+  },
+  {
+    "id": 2505,
+    "name": "BENICIA"
+  },
+  {
+    "id": 2708,
+    "name": "BENOA, BALI"
+  },
+  {
+    "id": 34603,
+    "name": "BEPPU, OITA"
+  },
+  {
+    "id": 1216,
+    "name": "BERBERA"
+  },
+  {
+    "id": 1439,
+    "name": "BERDYANSK"
+  },
+  {
+    "id": 1709,
+    "name": "BERENDRECHT"
+  },
+  {
+    "id": 764,
+    "name": "BERGEN"
+  },
+  {
+    "id": 1281,
+    "name": "BERGKVARA"
+  },
+  {
+    "id": 1110,
+    "name": "BERINGOVSKIY, PORT"
+  },
+  {
+    "id": 1237,
+    "name": "BERMEO"
+  },
+  {
+    "id": 2243,
+    "name": "BERRE-L\"ETANG"
+  },
+  {
+    "id": 893,
+    "name": "BERRY'S BAY"
+  },
+  {
+    "id": 47336,
+    "name": "BERWICK-UPON-TWEED"
+  },
+  {
+    "id": 2206,
+    "name": "BETHIOUA"
+  },
+  {
+    "id": 2244,
+    "name": "BETHUNE"
+  },
+  {
+    "id": 659,
+    "name": "BEVERWIJK"
+  },
+  {
+    "id": 32,
+    "name": "BEYPORE"
+  },
+  {
+    "id": 33,
+    "name": "BHAVNAGAR"
+  },
+  {
+    "id": 2709,
+    "name": "BIAK, IRIAN JAYA"
+  },
+  {
+    "id": 990,
+    "name": "BIALLA"
+  },
+  {
+    "id": 1475,
+    "name": "BIDEFORD"
+  },
+  {
+    "id": 1827,
+    "name": "BIG CREEK"
+  },
+  {
+    "id": 625,
+    "name": "BIJELA"
+  },
+  {
+    "id": 1238,
+    "name": "BILBAO"
+  },
+  {
+    "id": 14667,
+    "name": "BILDUDALUR - HOFN"
+  },
+  {
+    "id": 2710,
+    "name": "BIMA, SB"
+  },
+  {
+    "id": 894,
+    "name": "BING BONG"
+  },
+  {
+    "id": 2774,
+    "name": "BINGAZI (BENGHAZI)"
+  },
+  {
+    "id": 1647,
+    "name": "BINH DUONG"
+  },
+  {
+    "id": 660,
+    "name": "BINNENMAAS"
+  },
+  {
+    "id": 3274,
+    "name": "BINTUNI"
+  },
+  {
+    "id": 1476,
+    "name": "BIRD PORT"
+  },
+  {
+    "id": 2711,
+    "name": "BIRINGKASSI"
+  },
+  {
+    "id": 1477,
+    "name": "BIRKENHEAD"
+  },
+  {
+    "id": 1349,
+    "name": "BIRSFELDEN"
+  },
+  {
+    "id": 1034,
+    "name": "BISLIG, MINDANAO"
+  },
+  {
+    "id": 2473,
+    "name": "BISSAU"
+  },
+  {
+    "id": 2712,
+    "name": "BITUNG, SULAWESI"
+  },
+  {
+    "id": 1387,
+    "name": "BIZERTE"
+  },
+  {
+    "id": 3038,
+    "name": "BLACKS HARBOUR"
+  },
+  {
+    "id": 895,
+    "name": "BLACKWATTLE BAY"
+  },
+  {
+    "id": 3039,
+    "name": "BLANC-SABLON"
+  },
+  {
+    "id": 2245,
+    "name": "BLAYE"
+  },
+  {
+    "id": 2337,
+    "name": "BLEXEN"
+  },
+  {
+    "id": 1478,
+    "name": "BLYTH"
+  },
+  {
+    "id": 2167,
+    "name": "BOCA CHICA"
+  },
+  {
+    "id": 765,
+    "name": "BODO"
+  },
+  {
+    "id": 1282,
+    "name": "BOLLSTABRUK"
+  },
+  {
+    "id": 2078,
+    "name": "BOMA"
+  },
+  {
+    "id": 1824,
+    "name": "BONAIRE TERMINAL"
+  },
+  {
+    "id": 2338,
+    "name": "BONN"
+  },
+  {
+    "id": 2246,
+    "name": "BONNIERES SUR SEINE"
+  },
+  {
+    "id": 746,
+    "name": "BONNY"
+  },
+  {
+    "id": 2713,
+    "name": "BONTANG, KL"
+  },
+  {
+    "id": 1710,
+    "name": "BOOM"
+  },
+  {
+    "id": 1711,
+    "name": "BOORSEM"
+  },
+  {
+    "id": 3125,
+    "name": "BORDEAUX"
+  },
+  {
+    "id": 1882,
+    "name": "BORDEN"
+  },
+  {
+    "id": 1712,
+    "name": "BORNEM"
+  },
+  {
+    "id": 2339,
+    "name": "BORSFLETH"
+  },
+  {
+    "id": 2795,
+    "name": "BORSSELE"
+  },
+  {
+    "id": 1398,
+    "name": "BORUSAN"
+  },
+  {
+    "id": 437,
+    "name": "BORYEONG"
+  },
+  {
+    "id": 1479,
+    "name": "BOSTON"
+  },
+  {
+    "id": 2506,
+    "name": "BOSTON MA"
+  },
+  {
+    "id": 2989,
+    "name": "BOTLEK"
+  },
+  {
+    "id": 2340,
+    "name": "BOTTROP"
+  },
+  {
+    "id": 3040,
+    "name": "BOTWOOD"
+  },
+  {
+    "id": 2247,
+    "name": "BOULOGNE-SUR-MER"
+  },
+  {
+    "id": 896,
+    "name": "BOWEN"
+  },
+  {
+    "id": 1883,
+    "name": "BOWMANVILLE"
+  },
+  {
+    "id": 1480,
+    "name": "BRAEFOOT BAY"
+  },
+  {
+    "id": 1097,
+    "name": "BRAILA"
+  },
+  {
+    "id": 2341,
+    "name": "BRAKE"
+  },
+  {
+    "id": 2342,
+    "name": "BRANDENBURG"
+  },
+  {
+    "id": 1211,
+    "name": "BRATISLAVA"
+  },
+  {
+    "id": 766,
+    "name": "BRATTVAG"
+  },
+  {
+    "id": 2343,
+    "name": "BRAUNSCHWEIG"
+  },
+  {
+    "id": 2507,
+    "name": "BRAYTON POINT MA"
+  },
+  {
+    "id": 2248,
+    "name": "BREBIERES"
+  },
+  {
+    "id": 767,
+    "name": "BREMANGER"
+  },
+  {
+    "id": 2344,
+    "name": "BREMEN"
+  },
+  {
+    "id": 2345,
+    "name": "BREMERHAVEN"
+  },
+  {
+    "id": 2508,
+    "name": "BREMERTON"
+  },
+  {
+    "id": 661,
+    "name": "BRESKENS"
+  },
+  {
+    "id": 2249,
+    "name": "BREST"
+  },
+  {
+    "id": 1834,
+    "name": "BREVES"
+  },
+  {
+    "id": 768,
+    "name": "BREVIK"
+  },
+  {
+    "id": 2509,
+    "name": "BRIDGEPORT CT"
+  },
+  {
+    "id": 1437,
+    "name": "BRIDGETOWN"
+  },
+  {
+    "id": 3041,
+    "name": "BRIDGEWATER"
+  },
+  {
+    "id": 1481,
+    "name": "BRIGHTLINGSEA"
+  },
+  {
+    "id": 194,
+    "name": "BRINDISI"
+  },
+  {
+    "id": 897,
+    "name": "BRISBANE"
+  },
+  {
+    "id": 47528,
+    "name": "BRISTOL"
+  },
+  {
+    "id": 3192,
+    "name": "BRISTOL, PA"
+  },
+  {
+    "id": 3356,
+    "name": "BRIXHAM"
+  },
+  {
+    "id": 47609,
+    "name": "BRODICK, ISLE OF ARRAN"
+  },
+  {
+    "id": 1283,
+    "name": "BROFJORDEN"
+  },
+  {
+    "id": 769,
+    "name": "BRONNOYSUND"
+  },
+  {
+    "id": 2510,
+    "name": "BROOKLYN/NEW YORK"
+  },
+  {
+    "id": 898,
+    "name": "BROOME"
+  },
+  {
+    "id": 2511,
+    "name": "BROWNSVILLE"
+  },
+  {
+    "id": 1713,
+    "name": "BRUGGE"
+  },
+  {
+    "id": 3136,
+    "name": "BRUNSBUTTEL"
+  },
+  {
+    "id": 2512,
+    "name": "BRUNSWICK"
+  },
+  {
+    "id": 1714,
+    "name": "BRUSSEL"
+  },
+  {
+    "id": 1715,
+    "name": "BRUSSELS-SCHELDT SEA CANAL"
+  },
+  {
+    "id": 484,
+    "name": "BUCHANAN, LR"
+  },
+  {
+    "id": 48675,
+    "name": "BUCHANAN, NY"
+  },
+  {
+    "id": 1482,
+    "name": "BUCKIE"
+  },
+  {
+    "id": 2513,
+    "name": "BUCKSPORT"
+  },
+  {
+    "id": 34,
+    "name": "BUDGE-BUDGE"
+  },
+  {
+    "id": 2071,
+    "name": "BUENAVENTURA"
+  },
+  {
+    "id": 2988,
+    "name": "BUENOS AIRES"
+  },
+  {
+    "id": 2514,
+    "name": "BUFFALO"
+  },
+  {
+    "id": 991,
+    "name": "BUKA"
+  },
+  {
+    "id": 88,
+    "name": "BULA"
+  },
+  {
+    "id": 3042,
+    "name": "BULL ARM"
+  },
+  {
+    "id": 1820,
+    "name": "BULLENBAAI"
+  },
+  {
+    "id": 899,
+    "name": "BULWER"
+  },
+  {
+    "id": 427,
+    "name": "BUMPYO"
+  },
+  {
+    "id": 3202,
+    "name": "BUNATI"
+  },
+  {
+    "id": 900,
+    "name": "BUNBURY"
+  },
+  {
+    "id": 901,
+    "name": "BUNDABERG"
+  },
+  {
+    "id": 662,
+    "name": "BUNDE"
+  },
+  {
+    "id": 89,
+    "name": "BUNYU"
+  },
+  {
+    "id": 1716,
+    "name": "BURCHT"
+  },
+  {
+    "id": 1239,
+    "name": "BURELA"
+  },
+  {
+    "id": 1871,
+    "name": "BURGAS"
+  },
+  {
+    "id": 902,
+    "name": "BURNIE"
+  },
+  {
+    "id": 2515,
+    "name": "BURNS HARBOR IN"
+  },
+  {
+    "id": 2516,
+    "name": "BURNSIDE LA"
+  },
+  {
+    "id": 1483,
+    "name": "BURNTISLAND"
+  },
+  {
+    "id": 1240,
+    "name": "BURRIANA"
+  },
+  {
+    "id": 47478,
+    "name": "BURULLUS"
+  },
+  {
+    "id": 438,
+    "name": "BUSAN"
+  },
+  {
+    "id": 12448,
+    "name": "BUSAN NEW PORT"
+  },
+  {
+    "id": 132,
+    "name": "BUSHEHR"
+  },
+  {
+    "id": 903,
+    "name": "BUSSELTON"
+  },
+  {
+    "id": 2346,
+    "name": "BUSUM"
+  },
+  {
+    "id": 2347,
+    "name": "BUTZFLETH"
+  },
+  {
+    "id": 3097,
+    "name": "CABANAS"
+  },
+  {
+    "id": 1835,
+    "name": "CABEDELO"
+  },
+  {
+    "id": 1,
+    "name": "CABINDA"
+  },
+  {
+    "id": 1004,
+    "name": "CABO BLANCO"
+  },
+  {
+    "id": 1946,
+    "name": "CABO NEGRO"
+  },
+  {
+    "id": 2168,
+    "name": "CABO ROJO"
+  },
+  {
+    "id": 1484,
+    "name": "CADISHEAD"
+  },
+  {
+    "id": 1241,
+    "name": "CADIZ"
+  },
+  {
+    "id": 2250,
+    "name": "CAEN"
+  },
+  {
+    "id": 1035,
+    "name": "CAGAYAN DE ORO, MINDANAO"
+  },
+  {
+    "id": 1036,
+    "name": "CAGDIANAO"
+  },
+  {
+    "id": 195,
+    "name": "CAGLIARI"
+  },
+  {
+    "id": 1648,
+    "name": "CAI LAN"
+  },
+  {
+    "id": 1649,
+    "name": "CAI MEP INTERNATIONAL TERMINAL"
+  },
+  {
+    "id": 2098,
+    "name": "CAIBARIEN"
+  },
+  {
+    "id": 904,
+    "name": "CAIRNS"
+  },
+  {
+    "id": 747,
+    "name": "CALABAR"
+  },
+  {
+    "id": 1037,
+    "name": "CALACA"
+  },
+  {
+    "id": 2251,
+    "name": "CALAIS"
+  },
+  {
+    "id": 47747,
+    "name": "CALAPAN/BATANGAS"
+  },
+  {
+    "id": 11403,
+    "name": "CALBUCO"
+  },
+  {
+    "id": 1947,
+    "name": "CALDERA, CL"
+  },
+  {
+    "id": 2080,
+    "name": "CALDERA, CR"
+  },
+  {
+    "id": 3250,
+    "name": "CALETA BARQUITO"
+  },
+  {
+    "id": 1948,
+    "name": "CALETA CLARENCIA"
+  },
+  {
+    "id": 1949,
+    "name": "CALETA COLOSO"
+  },
+  {
+    "id": 531,
+    "name": "CALETA CORDOBA"
+  },
+  {
+    "id": 1950,
+    "name": "CALETA PATILLOS"
+  },
+  {
+    "id": 532,
+    "name": "CALETA PAULA"
+  },
+  {
+    "id": 1005,
+    "name": "CALLAO"
+  },
+  {
+    "id": 1650,
+    "name": "CAM PHA"
+  },
+  {
+    "id": 2517,
+    "name": "CAMDEN NJ"
+  },
+  {
+    "id": 533,
+    "name": "CAMPANA"
+  },
+  {
+    "id": 3234,
+    "name": "CAMPBELL RIVER BC"
+  },
+  {
+    "id": 1485,
+    "name": "CAMPBELTOWN"
+  },
+  {
+    "id": 1169,
+    "name": "CAMPDEN PARK"
+  },
+  {
+    "id": 592,
+    "name": "CAMPECHE"
+  },
+  {
+    "id": 1651,
+    "name": "CAMRANH"
+  },
+  {
+    "id": 1652,
+    "name": "CAN THO"
+  },
+  {
+    "id": 1399,
+    "name": "CANAKKALE"
+  },
+  {
+    "id": 1073,
+    "name": "CANICAL"
+  },
+  {
+    "id": 3233,
+    "name": "CANSO NS"
+  },
+  {
+    "id": 1486,
+    "name": "CANVEY ISLAND"
+  },
+  {
+    "id": 1973,
+    "name": "CAOFEIDIAN"
+  },
+  {
+    "id": 1974,
+    "name": "CAOJING"
+  },
+  {
+    "id": 3132,
+    "name": "CAP LOPEZ"
+  },
+  {
+    "id": 3043,
+    "name": "CAP-AUX-MEULES"
+  },
+  {
+    "id": 905,
+    "name": "CAPE CUVIER"
+  },
+  {
+    "id": 906,
+    "name": "CAPE FLATTERY"
+  },
+  {
+    "id": 907,
+    "name": "CAPE JERVIS"
+  },
+  {
+    "id": 3222,
+    "name": "CAPE PRESTON"
+  },
+  {
+    "id": 1219,
+    "name": "CAPE TOWN"
+  },
+  {
+    "id": 663,
+    "name": "CAPELLE AAN DEN IJSSEL"
+  },
+  {
+    "id": 2478,
+    "name": "CAP-HAITIEN"
+  },
+  {
+    "id": 1821,
+    "name": "CARACAS BAAI"
+  },
+  {
+    "id": 1884,
+    "name": "CARAQUET"
+  },
+  {
+    "id": 1242,
+    "name": "CARBONERAS"
+  },
+  {
+    "id": 2099,
+    "name": "CARDENAS"
+  },
+  {
+    "id": 1487,
+    "name": "CARDIFF"
+  },
+  {
+    "id": 3329,
+    "name": "CARINO"
+  },
+  {
+    "id": 1836,
+    "name": "CARMOPOLIS"
+  },
+  {
+    "id": 2072,
+    "name": "CARTAGENA, CO"
+  },
+  {
+    "id": 3000,
+    "name": "CARTAGENA, ES"
+  },
+  {
+    "id": 2518,
+    "name": "CARTERET"
+  },
+  {
+    "id": 1618,
+    "name": "CARUPANO"
+  },
+  {
+    "id": 2519,
+    "name": "CARVILLE LA"
+  },
+  {
+    "id": 633,
+    "name": "CASABLANCA"
+  },
+  {
+    "id": 2100,
+    "name": "CASILDA"
+  },
+  {
+    "id": 196,
+    "name": "CASTELLAMMARE DI STABIA"
+  },
+  {
+    "id": 2846,
+    "name": "CASTELLON DE LA PLANA"
+  },
+  {
+    "id": 14609,
+    "name": "CASTLETOWN BEARHAVEN"
+  },
+  {
+    "id": 1165,
+    "name": "CASTRIES"
+  },
+  {
+    "id": 1951,
+    "name": "CASTRO"
+  },
+  {
+    "id": 1653,
+    "name": "CAT LAI"
+  },
+  {
+    "id": 197,
+    "name": "CATANIA"
+  },
+  {
+    "id": 908,
+    "name": "CATHERINE HILL BAY"
+  },
+  {
+    "id": 2520,
+    "name": "CATOOSA"
+  },
+  {
+    "id": 3249,
+    "name": "CAUCEDO"
+  },
+  {
+    "id": 1943,
+    "name": "CAYMAN BRAC"
+  },
+  {
+    "id": 1038,
+    "name": "CEBU"
+  },
+  {
+    "id": 47306,
+    "name": "CEIBA"
+  },
+  {
+    "id": 2101,
+    "name": "CEIBA HUECA"
+  },
+  {
+    "id": 2714,
+    "name": "CELUKAN BAWANG, BL"
+  },
+  {
+    "id": 2521,
+    "name": "CEMENTON NY"
+  },
+  {
+    "id": 34604,
+    "name": "CESME"
+  },
+  {
+    "id": 1243,
+    "name": "CEUTA"
+  },
+  {
+    "id": 1400,
+    "name": "CEYHAN"
+  },
+  {
+    "id": 1975,
+    "name": "CEZI"
+  },
+  {
+    "id": 1382,
+    "name": "CHAGUARAMAS"
+  },
+  {
+    "id": 133,
+    "name": "CHAH BAHAR"
+  },
+  {
+    "id": 2976,
+    "name": "CHALKIS"
+  },
+  {
+    "id": 2522,
+    "name": "CHALMETTE"
+  },
+  {
+    "id": 2252,
+    "name": "CHALONS-EN-CHAMPAGNE"
+  },
+  {
+    "id": 2253,
+    "name": "CHALON-SUR-SAONE"
+  },
+  {
+    "id": 2872,
+    "name": "CHAN MAY PORT"
+  },
+  {
+    "id": 1952,
+    "name": "CHANARAL"
+  },
+  {
+    "id": 1006,
+    "name": "CHANCAY"
+  },
+  {
+    "id": 1885,
+    "name": "CHANDLER"
+  },
+  {
+    "id": 1976,
+    "name": "CHANGSHA"
+  },
+  {
+    "id": 1977,
+    "name": "CHANGSHU PT"
+  },
+  {
+    "id": 1978,
+    "name": "CHANGZHOU"
+  },
+  {
+    "id": 3381,
+    "name": "CHANIA"
+  },
+  {
+    "id": 2886,
+    "name": "CHANNEL-PORT AUX BASQUES"
+  },
+  {
+    "id": 2523,
+    "name": "CHANNELVIEW"
+  },
+  {
+    "id": 2027,
+    "name": "CHAOZHOU PT"
+  },
+  {
+    "id": 980,
+    "name": "CHARCO AZUL"
+  },
+  {
+    "id": 2524,
+    "name": "CHARLESTON SC"
+  },
+  {
+    "id": 3317,
+    "name": "CHARLESTOWN"
+  },
+  {
+    "id": 40680,
+    "name": "CHARLEVOIX"
+  },
+  {
+    "id": 1681,
+    "name": "CHARLOTTE AMALIE, SAINT THOMAS"
+  },
+  {
+    "id": 3044,
+    "name": "CHARLOTTETOWN"
+  },
+  {
+    "id": 1717,
+    "name": "CHATELINEAU"
+  },
+  {
+    "id": 3003,
+    "name": "CHATHAM"
+  },
+  {
+    "id": 2525,
+    "name": "CHEBOYGAN MI"
+  },
+  {
+    "id": 439,
+    "name": "CHEJU"
+  },
+  {
+    "id": 1886,
+    "name": "CHEMAINUS"
+  },
+  {
+    "id": 1979,
+    "name": "CHENGLINGJI"
+  },
+  {
+    "id": 47485,
+    "name": "CHENJIAGANG"
+  },
+  {
+    "id": 36,
+    "name": "CHENNAI"
+  },
+  {
+    "id": 2254,
+    "name": "CHERBOURG"
+  },
+  {
+    "id": 1111,
+    "name": "CHEREPOVETS"
+  },
+  {
+    "id": 2526,
+    "name": "CHERRY POINT WA"
+  },
+  {
+    "id": 2527,
+    "name": "CHESTER"
+  },
+  {
+    "id": 593,
+    "name": "CHETUMAL"
+  },
+  {
+    "id": 268,
+    "name": "CHIBA"
+  },
+  {
+    "id": 2528,
+    "name": "CHICAGO"
+  },
+  {
+    "id": 2529,
+    "name": "CHIGNIK AK"
+  },
+  {
+    "id": 1007,
+    "name": "CHIMBOTE"
+  },
+  {
+    "id": 198,
+    "name": "CHIOGGIA"
+  },
+  {
+    "id": 2423,
+    "name": "CHIOS"
+  },
+  {
+    "id": 981,
+    "name": "CHIRIQUI GRANDE"
+  },
+  {
+    "id": 269,
+    "name": "CHITA"
+  },
+  {
+    "id": 1365,
+    "name": "CHITTAGONG"
+  },
+  {
+    "id": 1980,
+    "name": "CHIWAN"
+  },
+  {
+    "id": 428,
+    "name": "CHONGJIN"
+  },
+  {
+    "id": 1981,
+    "name": "CHONGMING"
+  },
+  {
+    "id": 1442,
+    "name": "CHORNOMORSK (EX. ILLICHIVS'K)"
+  },
+  {
+    "id": 34605,
+    "name": "CHU LAI"
+  },
+  {
+    "id": 3045,
+    "name": "CHURCHILL"
+  },
+  {
+    "id": 3089,
+    "name": "CIENAGA"
+  },
+  {
+    "id": 2102,
+    "name": "CIENFUEGOS"
+  },
+  {
+    "id": 90,
+    "name": "CIGADING"
+  },
+  {
+    "id": 2715,
+    "name": "CILACAP"
+  },
+  {
+    "id": 91,
+    "name": "CILEGON"
+  },
+  {
+    "id": 2716,
+    "name": "CIREBON (TJERIBON)"
+  },
+  {
+    "id": 1619,
+    "name": "CIUDAD BOLIVAR"
+  },
+  {
+    "id": 594,
+    "name": "CIUDAD DEL CARMEN"
+  },
+  {
+    "id": 595,
+    "name": "CIUDAD MADERO"
+  },
+  {
+    "id": 199,
+    "name": "CIVITAVECCHIA"
+  },
+  {
+    "id": 92,
+    "name": "CIWANDAN"
+  },
+  {
+    "id": 1718,
+    "name": "CLABECQ"
+  },
+  {
+    "id": 3235,
+    "name": "CLARENVILLE NF"
+  },
+  {
+    "id": 1887,
+    "name": "CLARKSON"
+  },
+  {
+    "id": 23036,
+    "name": "CLATSKANIE"
+  },
+  {
+    "id": 3347,
+    "name": "CLAXTON BAY"
+  },
+  {
+    "id": 2530,
+    "name": "CLAYMONT"
+  },
+  {
+    "id": 2531,
+    "name": "CLEVELAND OH"
+  },
+  {
+    "id": 1201,
+    "name": "CLIFTON POINT"
+  },
+  {
+    "id": 2866,
+    "name": "CLOGHAN POINT"
+  },
+  {
+    "id": 1488,
+    "name": "CLYDEBANK"
+  },
+  {
+    "id": 596,
+    "name": "COATZACOALCOS"
+  },
+  {
+    "id": 148,
+    "name": "COBH"
+  },
+  {
+    "id": 37,
+    "name": "COCHIN"
+  },
+  {
+    "id": 909,
+    "name": "COCKATOO ISLAND"
+  },
+  {
+    "id": 982,
+    "name": "COCO SOLO"
+  },
+  {
+    "id": 910,
+    "name": "COCOS (KEELING) ISLANDS"
+  },
+  {
+    "id": 1220,
+    "name": "COEGA"
+  },
+  {
+    "id": 2532,
+    "name": "COEYMANS NY"
+  },
+  {
+    "id": 1008,
+    "name": "COISHCO"
+  },
+  {
+    "id": 1489,
+    "name": "COLERAINE"
+  },
+  {
+    "id": 2348,
+    "name": "COLOGNE/KOLN"
+  },
+  {
+    "id": 1272,
+    "name": "COLOMBO"
+  },
+  {
+    "id": 1604,
+    "name": "COLONIA"
+  },
+  {
+    "id": 1888,
+    "name": "COME BY CHANCE"
+  },
+  {
+    "id": 534,
+    "name": "COMODORO RIVADAVIA"
+  },
+  {
+    "id": 2472,
+    "name": "CONAKRY"
+  },
+  {
+    "id": 2255,
+    "name": "CONCARNEAU"
+  },
+  {
+    "id": 535,
+    "name": "CONCEPCION DEL URUGUAY"
+  },
+  {
+    "id": 1009,
+    "name": "CONCHAN"
+  },
+  {
+    "id": 2533,
+    "name": "CONNEAUT"
+  },
+  {
+    "id": 2833,
+    "name": "CONSTANTA"
+  },
+  {
+    "id": 3046,
+    "name": "CONTRECOEUR"
+  },
+  {
+    "id": 3160,
+    "name": "CONVENT LA"
+  },
+  {
+    "id": 911,
+    "name": "COOKTOWN"
+  },
+  {
+    "id": 2534,
+    "name": "COOS BAY"
+  },
+  {
+    "id": 2906,
+    "name": "COPENHAGEN"
+  },
+  {
+    "id": 1953,
+    "name": "COQUIMBO"
+  },
+  {
+    "id": 1244,
+    "name": "CORCUBION"
+  },
+  {
+    "id": 2256,
+    "name": "CORDEMAIS"
+  },
+  {
+    "id": 47750,
+    "name": "CORDOVA"
+  },
+  {
+    "id": 200,
+    "name": "CORIGLIANO CALABRO"
+  },
+  {
+    "id": 744,
+    "name": "CORINTO"
+  },
+  {
+    "id": 912,
+    "name": "CORIO BAY"
+  },
+  {
+    "id": 149,
+    "name": "CORK"
+  },
+  {
+    "id": 1889,
+    "name": "CORNER BROOK"
+  },
+  {
+    "id": 1954,
+    "name": "CORONEL"
+  },
+  {
+    "id": 1490,
+    "name": "CORPACH"
+  },
+  {
+    "id": 2535,
+    "name": "CORPUS CHRISTI"
+  },
+  {
+    "id": 3251,
+    "name": "CORRAL"
+  },
+  {
+    "id": 536,
+    "name": "CORRIENTES"
+  },
+  {
+    "id": 3047,
+    "name": "CORUNNA"
+  },
+  {
+    "id": 1491,
+    "name": "CORYTON"
+  },
+  {
+    "id": 1828,
+    "name": "COTONOU"
+  },
+  {
+    "id": 1719,
+    "name": "COURCELLES"
+  },
+  {
+    "id": 3048,
+    "name": "COURTRIGHT"
+  },
+  {
+    "id": 2073,
+    "name": "COVENAS"
+  },
+  {
+    "id": 3231,
+    "name": "COVENAS OFFSHORE TERMINAL"
+  },
+  {
+    "id": 1492,
+    "name": "COWES"
+  },
+  {
+    "id": 3049,
+    "name": "COWICHAN BAY"
+  },
+  {
+    "id": 597,
+    "name": "COZUMEL"
+  },
+  {
+    "id": 1493,
+    "name": "CREEKSEA"
+  },
+  {
+    "id": 2257,
+    "name": "CREIL"
+  },
+  {
+    "id": 983,
+    "name": "CRISTOBAL"
+  },
+  {
+    "id": 3050,
+    "name": "CROFTON"
+  },
+  {
+    "id": 3346,
+    "name": "CRONSTADT ISLAND"
+  },
+  {
+    "id": 201,
+    "name": "CROTONE"
+  },
+  {
+    "id": 2873,
+    "name": "CUA CAM TERMINAL"
+  },
+  {
+    "id": 1654,
+    "name": "CUA VIET PORT"
+  },
+  {
+    "id": 537,
+    "name": "CUATREROS/BAHIA BLANCA"
+  },
+  {
+    "id": 49118,
+    "name": "CUDDALORE"
+  },
+  {
+    "id": 2874,
+    "name": "CULAO"
+  },
+  {
+    "id": 3375,
+    "name": "CULASI"
+  },
+  {
+    "id": 2349,
+    "name": "CUXHAVEN"
+  },
+  {
+    "id": 3258,
+    "name": "DA CHAN BAY"
+  },
+  {
+    "id": 1655,
+    "name": "DA NANG"
+  },
+  {
+    "id": 38,
+    "name": "DABHOL PORT"
+  },
+  {
+    "id": 3271,
+    "name": "DABO"
+  },
+  {
+    "id": 440,
+    "name": "DAESAN"
+  },
+  {
+    "id": 3152,
+    "name": "DAFENG"
+  },
+  {
+    "id": 1494,
+    "name": "DAGENHAM"
+  },
+  {
+    "id": 39,
+    "name": "DAHANU"
+  },
+  {
+    "id": 40,
+    "name": "DAHEJ"
+  },
+  {
+    "id": 1190,
+    "name": "DAKAR"
+  },
+  {
+    "id": 634,
+    "name": "DAKHLA"
+  },
+  {
+    "id": 3051,
+    "name": "DALHOUSIE"
+  },
+  {
+    "id": 1982,
+    "name": "DALIAN"
+  },
+  {
+    "id": 12,
+    "name": "DALVIK"
+  },
+  {
+    "id": 1656,
+    "name": "DAM MON"
+  },
+  {
+    "id": 2973,
+    "name": "DAMIETTA"
+  },
+  {
+    "id": 913,
+    "name": "DAMPIER"
+  },
+  {
+    "id": 1983,
+    "name": "DANDONG"
+  },
+  {
+    "id": 2128,
+    "name": "DANSK SALTS HAVN"
+  },
+  {
+    "id": 1359,
+    "name": "DAR ES SALAAM"
+  },
+  {
+    "id": 1401,
+    "name": "DARICA"
+  },
+  {
+    "id": 14611,
+    "name": "DARLOWO"
+  },
+  {
+    "id": 490,
+    "name": "DARNAH"
+  },
+  {
+    "id": 47745,
+    "name": "DARTMOUTH"
+  },
+  {
+    "id": 3052,
+    "name": "DARTMOUTH"
+  },
+  {
+    "id": 914,
+    "name": "DARWIN"
+  },
+  {
+    "id": 1458,
+    "name": "DAS ISLAND"
+  },
+  {
+    "id": 2536,
+    "name": "DAVANT"
+  },
+  {
+    "id": 1039,
+    "name": "DAVAO, MINDANAO"
+  },
+  {
+    "id": 12421,
+    "name": "DAVISVILLE, RI"
+  },
+  {
+    "id": 2793,
+    "name": "DAWE"
+  },
+  {
+    "id": 3220,
+    "name": "DAYAO BAY"
+  },
+  {
+    "id": 53,
+    "name": "DEENDAYAL (EX. KANDLA)"
+  },
+  {
+    "id": 664,
+    "name": "DEEST"
+  },
+  {
+    "id": 1284,
+    "name": "DEGERHAMN"
+  },
+  {
+    "id": 2350,
+    "name": "DEGGENAU"
+  },
+  {
+    "id": 2317,
+    "name": "DEGRAD DES CANNES"
+  },
+  {
+    "id": 1720,
+    "name": "DEINZE"
+  },
+  {
+    "id": 1112,
+    "name": "DE-KASTRI"
+  },
+  {
+    "id": 3223,
+    "name": "DEL GUAZU"
+  },
+  {
+    "id": 2537,
+    "name": "DELAWARE CITY DE"
+  },
+  {
+    "id": 665,
+    "name": "DELFZIJL"
+  },
+  {
+    "id": 666,
+    "name": "DEN BOMMEL"
+  },
+  {
+    "id": 667,
+    "name": "DEN HELDER"
+  },
+  {
+    "id": 1721,
+    "name": "DENDERMONDE"
+  },
+  {
+    "id": 915,
+    "name": "DERBY"
+  },
+  {
+    "id": 1402,
+    "name": "DERINCE"
+  },
+  {
+    "id": 2538,
+    "name": "DESTREHAN"
+  },
+  {
+    "id": 2539,
+    "name": "DETROIT MI"
+  },
+  {
+    "id": 668,
+    "name": "DEVENTER"
+  },
+  {
+    "id": 916,
+    "name": "DEVONPORT, AU"
+  },
+  {
+    "id": 1495,
+    "name": "DEVONPORT, GB"
+  },
+  {
+    "id": 725,
+    "name": "DEVONPORT, NZ"
+  },
+  {
+    "id": 3154,
+    "name": "DHAMRA"
+  },
+  {
+    "id": 41,
+    "name": "DHARAMTAR"
+  },
+  {
+    "id": 1175,
+    "name": "DHUBA"
+  },
+  {
+    "id": 538,
+    "name": "DIAMANTE"
+  },
+  {
+    "id": 42,
+    "name": "DIAMOND HARBOUR"
+  },
+  {
+    "id": 501,
+    "name": "DIEGO SUAREZ"
+  },
+  {
+    "id": 2258,
+    "name": "DIEPPE"
+  },
+  {
+    "id": 1984,
+    "name": "DIGANG"
+  },
+  {
+    "id": 2702,
+    "name": "DIGHI (PUNE)"
+  },
+  {
+    "id": 2259,
+    "name": "DIJON"
+  },
+  {
+    "id": 1403,
+    "name": "DIKILI"
+  },
+  {
+    "id": 1378,
+    "name": "DILI"
+  },
+  {
+    "id": 1404,
+    "name": "DILISKELESI"
+  },
+  {
+    "id": 47312,
+    "name": "DINGLE"
+  },
+  {
+    "id": 2969,
+    "name": "DINTELMOND"
+  },
+  {
+    "id": 2207,
+    "name": "DJEN DJEN"
+  },
+  {
+    "id": 2162,
+    "name": "DJIBOUTI"
+  },
+  {
+    "id": 3333,
+    "name": "DJURON"
+  },
+  {
+    "id": 1440,
+    "name": "DNEPROBUGSKIY"
+  },
+  {
+    "id": 539,
+    "name": "DOCK SUR"
+  },
+  {
+    "id": 669,
+    "name": "DODEWAARD"
+  },
+  {
+    "id": 1722,
+    "name": "DOEL"
+  },
+  {
+    "id": 467,
+    "name": "DOHA, KW"
+  },
+  {
+    "id": 1092,
+    "name": "DOHA, QA"
+  },
+  {
+    "id": 1285,
+    "name": "DOMSJO"
+  },
+  {
+    "id": 2540,
+    "name": "DONALDSONVILLE LA"
+  },
+  {
+    "id": 150,
+    "name": "DONEGAL"
+  },
+  {
+    "id": 1657,
+    "name": "DONG NAI"
+  },
+  {
+    "id": 1658,
+    "name": "DONG THAP"
+  },
+  {
+    "id": 2260,
+    "name": "DONGES"
+  },
+  {
+    "id": 3161,
+    "name": "DONGGUAN"
+  },
+  {
+    "id": 3246,
+    "name": "DONGJIAKOU"
+  },
+  {
+    "id": 1985,
+    "name": "DONGSHAN"
+  },
+  {
+    "id": 3380,
+    "name": "DONGYING PT"
+  },
+  {
+    "id": 670,
+    "name": "DORDRECHT"
+  },
+  {
+    "id": 2351,
+    "name": "DORMAGEN"
+  },
+  {
+    "id": 2352,
+    "name": "DORSTEN"
+  },
+  {
+    "id": 2353,
+    "name": "DORTMUND"
+  },
+  {
+    "id": 1405,
+    "name": "DORTYOL"
+  },
+  {
+    "id": 2790,
+    "name": "DOS BOCAS TERMINAL"
+  },
+  {
+    "id": 3035,
+    "name": "DOUALA"
+  },
+  {
+    "id": 3126,
+    "name": "DOUARNENEZ"
+  },
+  {
+    "id": 177,
+    "name": "DOUGLAS"
+  },
+  {
+    "id": 1496,
+    "name": "DOUGLAS, ISLE OF MAN"
+  },
+  {
+    "id": 1497,
+    "name": "DOVER"
+  },
+  {
+    "id": 3025,
+    "name": "DOW QUIMICA TERMINAL"
+  },
+  {
+    "id": 770,
+    "name": "DRAMMEN"
+  },
+  {
+    "id": 3263,
+    "name": "DREPANON"
+  },
+  {
+    "id": 2354,
+    "name": "DRESDEN"
+  },
+  {
+    "id": 2996,
+    "name": "DROBETA TURNU SEVERIN"
+  },
+  {
+    "id": 151,
+    "name": "DROGHEDA"
+  },
+  {
+    "id": 152,
+    "name": "DUBLIN"
+  },
+  {
+    "id": 2086,
+    "name": "DUBROVNIK"
+  },
+  {
+    "id": 1113,
+    "name": "DUDINKA"
+  },
+  {
+    "id": 2355,
+    "name": "DUISBURG"
+  },
+  {
+    "id": 3053,
+    "name": "DUKE POINT BC"
+  },
+  {
+    "id": 2541,
+    "name": "DULUTH"
+  },
+  {
+    "id": 1040,
+    "name": "DUMAGUETE"
+  },
+  {
+    "id": 47576,
+    "name": "DUMAGUIT"
+  },
+  {
+    "id": 93,
+    "name": "DUMAI, SUMATRA"
+  },
+  {
+    "id": 153,
+    "name": "DUN LAOGHAIRE"
+  },
+  {
+    "id": 2881,
+    "name": "DUNCAN BAY"
+  },
+  {
+    "id": 154,
+    "name": "DUNDALK"
+  },
+  {
+    "id": 1498,
+    "name": "DUNDEE"
+  },
+  {
+    "id": 726,
+    "name": "DUNEDIN"
+  },
+  {
+    "id": 1659,
+    "name": "DUNG QUAT"
+  },
+  {
+    "id": 3127,
+    "name": "DUNKIRK"
+  },
+  {
+    "id": 872,
+    "name": "DUQM"
+  },
+  {
+    "id": 2177,
+    "name": "DURAN"
+  },
+  {
+    "id": 1221,
+    "name": "DURBAN"
+  },
+  {
+    "id": 2120,
+    "name": "DURRES"
+  },
+  {
+    "id": 771,
+    "name": "DUSAVIK"
+  },
+  {
+    "id": 2356,
+    "name": "DUSSELDORF"
+  },
+  {
+    "id": 2542,
+    "name": "DUTCH HARBOR"
+  },
+  {
+    "id": 42361,
+    "name": "DUYEN HAI"
+  },
+  {
+    "id": 588,
+    "name": "DZAOUDZI"
+  },
+  {
+    "id": 917,
+    "name": "EAST INTERCOURSE ISLAND"
+  },
+  {
+    "id": 1222,
+    "name": "EAST LONDON"
+  },
+  {
+    "id": 1499,
+    "name": "EASTHAM"
+  },
+  {
+    "id": 3360,
+    "name": "EASTPORT ME"
+  },
+  {
+    "id": 1500,
+    "name": "ECCLES"
+  },
+  {
+    "id": 2261,
+    "name": "ECUELLES"
+  },
+  {
+    "id": 2543,
+    "name": "EDDYSTONE"
+  },
+  {
+    "id": 918,
+    "name": "EDEN"
+  },
+  {
+    "id": 671,
+    "name": "EEMSHAVEN"
+  },
+  {
+    "id": 772,
+    "name": "EGERSUND"
+  },
+  {
+    "id": 1114,
+    "name": "EGVEKINOT"
+  },
+  {
+    "id": 502,
+    "name": "EHOALA"
+  },
+  {
+    "id": 773,
+    "name": "EIKEFET"
+  },
+  {
+    "id": 1723,
+    "name": "EINDHOUT"
+  },
+  {
+    "id": 2357,
+    "name": "EINSWARDEN"
+  },
+  {
+    "id": 2186,
+    "name": "EL ARISH"
+  },
+  {
+    "id": 745,
+    "name": "EL BLUFF"
+  },
+  {
+    "id": 1620,
+    "name": "EL GUAMACHE"
+  },
+  {
+    "id": 2912,
+    "name": "EL ISKANDARIYA"
+  },
+  {
+    "id": 3110,
+    "name": "EL MAADIYA"
+  },
+  {
+    "id": 1621,
+    "name": "EL PALITO"
+  },
+  {
+    "id": 1622,
+    "name": "EL TABLAZO/MARACAIBO L"
+  },
+  {
+    "id": 2187,
+    "name": "EL TUR"
+  },
+  {
+    "id": 181,
+    "name": "ELAT"
+  },
+  {
+    "id": 3370,
+    "name": "ELBA ISLAND"
+  },
+  {
+    "id": 919,
+    "name": "ELECTRONA"
+  },
+  {
+    "id": 3203,
+    "name": "ELEUSIS"
+  },
+  {
+    "id": 47419,
+    "name": "ELLEHOLM"
+  },
+  {
+    "id": 1501,
+    "name": "ELLESMERE PORT"
+  },
+  {
+    "id": 774,
+    "name": "ELLINGSOY"
+  },
+  {
+    "id": 775,
+    "name": "ELNESVAGEN"
+  },
+  {
+    "id": 2358,
+    "name": "ELSFLETH"
+  },
+  {
+    "id": 2359,
+    "name": "EMDEN"
+  },
+  {
+    "id": 1822,
+    "name": "EMMASTAD"
+  },
+  {
+    "id": 34610,
+    "name": "ENGENE"
+  },
+  {
+    "id": 1724,
+    "name": "ENGIS"
+  },
+  {
+    "id": 472,
+    "name": "ENGURE"
+  },
+  {
+    "id": 43,
+    "name": "ENNORE"
+  },
+  {
+    "id": 540,
+    "name": "ENSENADA, AR"
+  },
+  {
+    "id": 598,
+    "name": "ENSENADA, MX"
+  },
+  {
+    "id": 2907,
+    "name": "ENSTEDVAERKET HAVN"
+  },
+  {
+    "id": 1406,
+    "name": "EREGLI"
+  },
+  {
+    "id": 28438,
+    "name": "EREN"
+  },
+  {
+    "id": 2544,
+    "name": "ERIE PA"
+  },
+  {
+    "id": 1502,
+    "name": "ERITH"
+  },
+  {
+    "id": 2129,
+    "name": "ESBJERG"
+  },
+  {
+    "id": 2545,
+    "name": "ESCANABA"
+  },
+  {
+    "id": 1725,
+    "name": "ESCANAFFLES"
+  },
+  {
+    "id": 3224,
+    "name": "ESCOBAR"
+  },
+  {
+    "id": 1245,
+    "name": "ESCOMBRERAS"
+  },
+  {
+    "id": 48142,
+    "name": "ESCRAVOS"
+  },
+  {
+    "id": 13,
+    "name": "ESKIFJORDUR"
+  },
+  {
+    "id": 2178,
+    "name": "ESMERALDAS"
+  },
+  {
+    "id": 920,
+    "name": "ESPERANCE"
+  },
+  {
+    "id": 1890,
+    "name": "ESQUIMALT"
+  },
+  {
+    "id": 2474,
+    "name": "ESSEQUIBO RIVER"
+  },
+  {
+    "id": 270,
+    "name": "ETAJIMA"
+  },
+  {
+    "id": 1010,
+    "name": "ETEN"
+  },
+  {
+    "id": 2546,
+    "name": "EUREKA"
+  },
+  {
+    "id": 672,
+    "name": "EUROPOORT"
+  },
+  {
+    "id": 2547,
+    "name": "EVERETT - L 42 MA"
+  },
+  {
+    "id": 2548,
+    "name": "EVERETT - L 47 WA"
+  },
+  {
+    "id": 1726,
+    "name": "EVERGEM"
+  },
+  {
+    "id": 2475,
+    "name": "EVERTON"
+  },
+  {
+    "id": 2262,
+    "name": "EVRY"
+  },
+  {
+    "id": 921,
+    "name": "EXMOUTH"
+  },
+  {
+    "id": 2453,
+    "name": "FAERINGEHAVN"
+  },
+  {
+    "id": 776,
+    "name": "FAGERSTRAND"
+  },
+  {
+    "id": 3054,
+    "name": "FAIRVIEW COVE NS"
+  },
+  {
+    "id": 202,
+    "name": "FALCONARA"
+  },
+  {
+    "id": 28447,
+    "name": "FALKENBERG"
+  },
+  {
+    "id": 2549,
+    "name": "FALL RIVER"
+  },
+  {
+    "id": 1503,
+    "name": "FALMOUTH"
+  },
+  {
+    "id": 3104,
+    "name": "FAMAGUSTA"
+  },
+  {
+    "id": 3162,
+    "name": "FANGCHENG"
+  },
+  {
+    "id": 34612,
+    "name": "FARASAN"
+  },
+  {
+    "id": 1727,
+    "name": "FARCIENNES"
+  },
+  {
+    "id": 1074,
+    "name": "FARO"
+  },
+  {
+    "id": 777,
+    "name": "FARSUND"
+  },
+  {
+    "id": 47393,
+    "name": "FASKRUDSFJORDUR"
+  },
+  {
+    "id": 2867,
+    "name": "FASLANE"
+  },
+  {
+    "id": 1407,
+    "name": "FATSA"
+  },
+  {
+    "id": 1504,
+    "name": "FAWLEY"
+  },
+  {
+    "id": 2263,
+    "name": "FECAMP"
+  },
+  {
+    "id": 1505,
+    "name": "FELIXSTOWE"
+  },
+  {
+    "id": 2103,
+    "name": "FELTON"
+  },
+  {
+    "id": 47529,
+    "name": "FENGCHENG"
+  },
+  {
+    "id": 155,
+    "name": "FENIT"
+  },
+  {
+    "id": 1441,
+    "name": "FEODOSIYA"
+  },
+  {
+    "id": 2550,
+    "name": "FERNANDINA BEACH"
+  },
+  {
+    "id": 2551,
+    "name": "FERNDALE WA"
+  },
+  {
+    "id": 1246,
+    "name": "FERROL"
+  },
+  {
+    "id": 2264,
+    "name": "FEYZIN"
+  },
+  {
+    "id": 156,
+    "name": "FIDDOWN"
+  },
+  {
+    "id": 1075,
+    "name": "FIGUEIRA DA FOZ"
+  },
+  {
+    "id": 1506,
+    "name": "FINGRINGHOE"
+  },
+  {
+    "id": 1507,
+    "name": "FINNART"
+  },
+  {
+    "id": 778,
+    "name": "FINNSNES"
+  },
+  {
+    "id": 779,
+    "name": "FISKA"
+  },
+  {
+    "id": 780,
+    "name": "FISKARSTRANDA"
+  },
+  {
+    "id": 203,
+    "name": "FIUMICINO"
+  },
+  {
+    "id": 781,
+    "name": "FLEKKEFJORD"
+  },
+  {
+    "id": 1728,
+    "name": "FLEMALLE"
+  },
+  {
+    "id": 2360,
+    "name": "FLENSBURG"
+  },
+  {
+    "id": 2868,
+    "name": "FLIXBOROUGH"
+  },
+  {
+    "id": 1729,
+    "name": "FLONE"
+  },
+  {
+    "id": 782,
+    "name": "FLORO"
+  },
+  {
+    "id": 2869,
+    "name": "FLOTTA"
+  },
+  {
+    "id": 2070,
+    "name": "FLYING FISH COVE"
+  },
+  {
+    "id": 3294,
+    "name": "FOLLAFOSS"
+  },
+  {
+    "id": 204,
+    "name": "FOLLONICA"
+  },
+  {
+    "id": 2479,
+    "name": "FOND MOMBIN"
+  },
+  {
+    "id": 48168,
+    "name": "FORCADOS"
+  },
+  {
+    "id": 14612,
+    "name": "FORDE"
+  },
+  {
+    "id": 3389,
+    "name": "FORMENTERA ISLAND"
+  },
+  {
+    "id": 541,
+    "name": "FORMOSA"
+  },
+  {
+    "id": 3026,
+    "name": "FORNO"
+  },
+  {
+    "id": 2777,
+    "name": "FORT DAUPHIN (TOALAGNARO)"
+  },
+  {
+    "id": 2552,
+    "name": "FORT PIERCE"
+  },
+  {
+    "id": 3027,
+    "name": "FORTALEZA"
+  },
+  {
+    "id": 582,
+    "name": "FORT-DE-FRANCE"
+  },
+  {
+    "id": 2934,
+    "name": "FOS-SUR-MER"
+  },
+  {
+    "id": 1508,
+    "name": "FOWEY"
+  },
+  {
+    "id": 157,
+    "name": "FOYNES"
+  },
+  {
+    "id": 2945,
+    "name": "FRANKFURT AM MAIN"
+  },
+  {
+    "id": 1509,
+    "name": "FRASERBURGH"
+  },
+  {
+    "id": 3055,
+    "name": "FRASER-SURREY DOCKS"
+  },
+  {
+    "id": 1605,
+    "name": "FRAY BENTOS"
+  },
+  {
+    "id": 2130,
+    "name": "FREDERICIA"
+  },
+  {
+    "id": 2131,
+    "name": "FREDERIKSHAVN"
+  },
+  {
+    "id": 1682,
+    "name": "FREDERIKSTED, SAINT CROIX"
+  },
+  {
+    "id": 2132,
+    "name": "FREDERIKSVAERK"
+  },
+  {
+    "id": 783,
+    "name": "FREDRIKSTAD"
+  },
+  {
+    "id": 1829,
+    "name": "FREEPORT"
+  },
+  {
+    "id": 2553,
+    "name": "FREEPORT TX"
+  },
+  {
+    "id": 2844,
+    "name": "FREEPORT, GRAND BAHAMA"
+  },
+  {
+    "id": 1198,
+    "name": "FREETOWN"
+  },
+  {
+    "id": 922,
+    "name": "FREMANTLE"
+  },
+  {
+    "id": 599,
+    "name": "FRONTERA"
+  },
+  {
+    "id": 2222,
+    "name": "FUGLAFJORDUR"
+  },
+  {
+    "id": 271,
+    "name": "FUKUI"
+  },
+  {
+    "id": 2757,
+    "name": "FUKUYAMA, HIROSHIMA"
+  },
+  {
+    "id": 272,
+    "name": "FUNAGAWA"
+  },
+  {
+    "id": 2830,
+    "name": "FUNCHAL, MADEIRA"
+  },
+  {
+    "id": 1986,
+    "name": "FUQING"
+  },
+  {
+    "id": 784,
+    "name": "FUSA"
+  },
+  {
+    "id": 273,
+    "name": "FUSHIKITOYAMA"
+  },
+  {
+    "id": 205,
+    "name": "FUSINA"
+  },
+  {
+    "id": 2758,
+    "name": "FUTTSU, CHIBA"
+  },
+  {
+    "id": 1987,
+    "name": "FUZHOU"
+  },
+  {
+    "id": 1388,
+    "name": "GABES"
+  },
+  {
+    "id": 206,
+    "name": "GAETA"
+  },
+  {
+    "id": 2834,
+    "name": "GALATI"
+  },
+  {
+    "id": 3163,
+    "name": "GALEOTA POINT"
+  },
+  {
+    "id": 1273,
+    "name": "GALLE"
+  },
+  {
+    "id": 207,
+    "name": "GALLIPOLI"
+  },
+  {
+    "id": 2554,
+    "name": "GALVESTON"
+  },
+  {
+    "id": 158,
+    "name": "GALWAY"
+  },
+  {
+    "id": 274,
+    "name": "GAMAGORI"
+  },
+  {
+    "id": 2788,
+    "name": "GAN"
+  },
+  {
+    "id": 1247,
+    "name": "GANDIA"
+  },
+  {
+    "id": 44,
+    "name": "GANGAVARAM"
+  },
+  {
+    "id": 1988,
+    "name": "GAOGANG"
+  },
+  {
+    "id": 15604,
+    "name": "GARCIA HERNANDEZ"
+  },
+  {
+    "id": 3281,
+    "name": "GARONGKONG"
+  },
+  {
+    "id": 1248,
+    "name": "GARRUCHA"
+  },
+  {
+    "id": 1510,
+    "name": "GARSTON"
+  },
+  {
+    "id": 2555,
+    "name": "GARY"
+  },
+  {
+    "id": 2556,
+    "name": "GARYVILLE LA"
+  },
+  {
+    "id": 15606,
+    "name": "GASPE"
+  },
+  {
+    "id": 1286,
+    "name": "GAVLE"
+  },
+  {
+    "id": 2087,
+    "name": "GAZENICA"
+  },
+  {
+    "id": 1063,
+    "name": "GDANSK"
+  },
+  {
+    "id": 1064,
+    "name": "GDYNIA"
+  },
+  {
+    "id": 94,
+    "name": "GEBE"
+  },
+  {
+    "id": 3028,
+    "name": "GEBIG"
+  },
+  {
+    "id": 1408,
+    "name": "GEBZE"
+  },
+  {
+    "id": 3259,
+    "name": "GEDSER"
+  },
+  {
+    "id": 1730,
+    "name": "GEEL"
+  },
+  {
+    "id": 923,
+    "name": "GEELONG"
+  },
+  {
+    "id": 2557,
+    "name": "GEISMAR LA"
+  },
+  {
+    "id": 208,
+    "name": "GELA"
+  },
+  {
+    "id": 2835,
+    "name": "GELENDZIK"
+  },
+  {
+    "id": 2361,
+    "name": "GELSENKIRCHEN"
+  },
+  {
+    "id": 1409,
+    "name": "GEMLIK"
+  },
+  {
+    "id": 3008,
+    "name": "GENENBOS"
+  },
+  {
+    "id": 542,
+    "name": "GENERAL LAGOS"
+  },
+  {
+    "id": 1011,
+    "name": "GENERAL SAN MARTIN"
+  },
+  {
+    "id": 1041,
+    "name": "GENERAL SANTOS"
+  },
+  {
+    "id": 1731,
+    "name": "GENK"
+  },
+  {
+    "id": 2265,
+    "name": "GENNEVILLIERS"
+  },
+  {
+    "id": 2751,
+    "name": "GENOVA"
+  },
+  {
+    "id": 441,
+    "name": "GEOJE"
+  },
+  {
+    "id": 2476,
+    "name": "GEORGETOWN"
+  },
+  {
+    "id": 2558,
+    "name": "GEORGETOWN SC"
+  },
+  {
+    "id": 2896,
+    "name": "GEORGETOWN, GRAND CAYMAN"
+  },
+  {
+    "id": 924,
+    "name": "GERALDTON"
+  },
+  {
+    "id": 2208,
+    "name": "GHAZAOUET"
+  },
+  {
+    "id": 1732,
+    "name": "GHENT"
+  },
+  {
+    "id": 1733,
+    "name": "GHLIN"
+  },
+  {
+    "id": 2419,
+    "name": "GIBRALTAR"
+  },
+  {
+    "id": 1249,
+    "name": "GIJON"
+  },
+  {
+    "id": 2718,
+    "name": "GILIMANUK, BALI"
+  },
+  {
+    "id": 1042,
+    "name": "GINGOOG/MASAO"
+  },
+  {
+    "id": 2362,
+    "name": "GINSHEIM-GUSTAVSBURG"
+  },
+  {
+    "id": 209,
+    "name": "GIOIA TAURO"
+  },
+  {
+    "id": 48978,
+    "name": "GIRASSOL TERMINAL"
+  },
+  {
+    "id": 1410,
+    "name": "GIRESUN"
+  },
+  {
+    "id": 727,
+    "name": "GISBORNE"
+  },
+  {
+    "id": 1098,
+    "name": "GIURGIU"
+  },
+  {
+    "id": 2968,
+    "name": "GIURGIULESTI"
+  },
+  {
+    "id": 925,
+    "name": "GLADSTONE"
+  },
+  {
+    "id": 1511,
+    "name": "GLASGOW"
+  },
+  {
+    "id": 1512,
+    "name": "GLASSON DOCK"
+  },
+  {
+    "id": 1513,
+    "name": "GLENSANDA"
+  },
+  {
+    "id": 785,
+    "name": "GLOMFJORD"
+  },
+  {
+    "id": 2559,
+    "name": "GLOUCESTER CITY"
+  },
+  {
+    "id": 2363,
+    "name": "GLUCKSTADT"
+  },
+  {
+    "id": 1411,
+    "name": "GOCEK"
+  },
+  {
+    "id": 1660,
+    "name": "GODAU"
+  },
+  {
+    "id": 1891,
+    "name": "GODERICH"
+  },
+  {
+    "id": 2364,
+    "name": "GODORF"
+  },
+  {
+    "id": 2858,
+    "name": "GOLCUK"
+  },
+  {
+    "id": 3151,
+    "name": "GOLD RIVER"
+  },
+  {
+    "id": 2081,
+    "name": "GOLFITO"
+  },
+  {
+    "id": 2480,
+    "name": "GONAIVES"
+  },
+  {
+    "id": 2935,
+    "name": "GONFREVILLE-L'ORCHER"
+  },
+  {
+    "id": 2560,
+    "name": "GOOD HOPE"
+  },
+  {
+    "id": 1514,
+    "name": "GOOLE"
+  },
+  {
+    "id": 3056,
+    "name": "GOOSE BAY"
+  },
+  {
+    "id": 45,
+    "name": "GOPALPUR"
+  },
+  {
+    "id": 2719,
+    "name": "GORONTALO, SULAWESI"
+  },
+  {
+    "id": 442,
+    "name": "GOSUNG"
+  },
+  {
+    "id": 1287,
+    "name": "GOTEBORG"
+  },
+  {
+    "id": 926,
+    "name": "GOVE"
+  },
+  {
+    "id": 543,
+    "name": "GOYA"
+  },
+  {
+    "id": 2561,
+    "name": "GRAMERCY"
+  },
+  {
+    "id": 2266,
+    "name": "GRAND COURONNE"
+  },
+  {
+    "id": 34617,
+    "name": "GRAND HAVEN"
+  },
+  {
+    "id": 47388,
+    "name": "GRAND TURK ISLAND"
+  },
+  {
+    "id": 3237,
+    "name": "GRANDE ANSE QC"
+  },
+  {
+    "id": 2267,
+    "name": "GRANDE-SYNTHE"
+  },
+  {
+    "id": 1515,
+    "name": "GRANGEMOUTH"
+  },
+  {
+    "id": 2268,
+    "name": "GRANVILLE"
+  },
+  {
+    "id": 1516,
+    "name": "GRAVESEND"
+  },
+  {
+    "id": 1517,
+    "name": "GRAYS"
+  },
+  {
+    "id": 2491,
+    "name": "GRAYS HARBOR WA"
+  },
+  {
+    "id": 1518,
+    "name": "GREAT YARMOUTH"
+  },
+  {
+    "id": 2562,
+    "name": "GREEN BAY"
+  },
+  {
+    "id": 1519,
+    "name": "GREENOCK"
+  },
+  {
+    "id": 159,
+    "name": "GREENORE"
+  },
+  {
+    "id": 485,
+    "name": "GREENVILLE"
+  },
+  {
+    "id": 2365,
+    "name": "GREIFSWALD"
+  },
+  {
+    "id": 2133,
+    "name": "GRENAA"
+  },
+  {
+    "id": 2720,
+    "name": "GRESIK, JAVA"
+  },
+  {
+    "id": 2563,
+    "name": "GRETNA LA"
+  },
+  {
+    "id": 728,
+    "name": "GREYMOUTH"
+  },
+  {
+    "id": 2269,
+    "name": "GRIGNY"
+  },
+  {
+    "id": 2366,
+    "name": "GRIMBERG"
+  },
+  {
+    "id": 3009,
+    "name": "GRIMBERGEN"
+  },
+  {
+    "id": 1520,
+    "name": "GRIMSBY"
+  },
+  {
+    "id": 786,
+    "name": "GRIMSTAD"
+  },
+  {
+    "id": 14,
+    "name": "GRINDAVIK"
+  },
+  {
+    "id": 1734,
+    "name": "GROBBENDONK"
+  },
+  {
+    "id": 673,
+    "name": "GRONINGEN"
+  },
+  {
+    "id": 2454,
+    "name": "GRONNEDAL"
+  },
+  {
+    "id": 927,
+    "name": "GROOTE EYLANDT"
+  },
+  {
+    "id": 1892,
+    "name": "GROS CACOUNA"
+  },
+  {
+    "id": 2564,
+    "name": "GROTON CT"
+  },
+  {
+    "id": 3391,
+    "name": "GROVE WHARF"
+  },
+  {
+    "id": 47301,
+    "name": "GROVEHURST JETTY/SITTINGBOURNE"
+  },
+  {
+    "id": 15,
+    "name": "GRUNDARFJORDUR"
+  },
+  {
+    "id": 16,
+    "name": "GRUNDARTANGI"
+  },
+  {
+    "id": 1288,
+    "name": "GRUVON"
+  },
+  {
+    "id": 1837,
+    "name": "GUAIBA ISLAND TERMINAL"
+  },
+  {
+    "id": 544,
+    "name": "GUALEGUAYCHU"
+  },
+  {
+    "id": 3155,
+    "name": "GUANGDONG TERMINAL"
+  },
+  {
+    "id": 1989,
+    "name": "GUANGZHOU"
+  },
+  {
+    "id": 1084,
+    "name": "GUANICA"
+  },
+  {
+    "id": 1623,
+    "name": "GUANTA"
+  },
+  {
+    "id": 2104,
+    "name": "GUANTANAMO BAY"
+  },
+  {
+    "id": 1624,
+    "name": "GUARANAO"
+  },
+  {
+    "id": 2105,
+    "name": "GUAYABAL"
+  },
+  {
+    "id": 3074,
+    "name": "GUAYACAN"
+  },
+  {
+    "id": 1085,
+    "name": "GUAYANILLA"
+  },
+  {
+    "id": 2179,
+    "name": "GUAYAQUIL"
+  },
+  {
+    "id": 600,
+    "name": "GUAYMAS"
+  },
+  {
+    "id": 1625,
+    "name": "GUIRIA"
+  },
+  {
+    "id": 2963,
+    "name": "GULEI"
+  },
+  {
+    "id": 2134,
+    "name": "GULFHAVN"
+  },
+  {
+    "id": 2565,
+    "name": "GULFPORT"
+  },
+  {
+    "id": 1412,
+    "name": "GULLUK"
+  },
+  {
+    "id": 1521,
+    "name": "GUNNESS WHARF"
+  },
+  {
+    "id": 443,
+    "name": "GUNSAN"
+  },
+  {
+    "id": 878,
+    "name": "GWADAR"
+  },
+  {
+    "id": 674,
+    "name": "HAALDERSBROEK"
+  },
+  {
+    "id": 275,
+    "name": "HACHINOHE"
+  },
+  {
+    "id": 182,
+    "name": "HADERA"
+  },
+  {
+    "id": 444,
+    "name": "HADONG - GUN"
+  },
+  {
+    "id": 429,
+    "name": "HAEJU"
+  },
+  {
+    "id": 17,
+    "name": "HAFNARFJORDUR"
+  },
+  {
+    "id": 183,
+    "name": "HAIFA"
+  },
+  {
+    "id": 1990,
+    "name": "HAIKOU"
+  },
+  {
+    "id": 1991,
+    "name": "HAIMEN"
+  },
+  {
+    "id": 1661,
+    "name": "HAIPHONG"
+  },
+  {
+    "id": 46,
+    "name": "HAJI BUNDER"
+  },
+  {
+    "id": 276,
+    "name": "HAKATA"
+  },
+  {
+    "id": 277,
+    "name": "HAKODATE"
+  },
+  {
+    "id": 11997,
+    "name": "HALALO"
+  },
+  {
+    "id": 787,
+    "name": "HALDEN"
+  },
+  {
+    "id": 47,
+    "name": "HALDIA"
+  },
+  {
+    "id": 3057,
+    "name": "HALIFAX"
+  },
+  {
+    "id": 1735,
+    "name": "HALLE"
+  },
+  {
+    "id": 1289,
+    "name": "HALLSTAVIK"
+  },
+  {
+    "id": 1290,
+    "name": "HALMSTAD"
+  },
+  {
+    "id": 788,
+    "name": "HALSVIK"
+  },
+  {
+    "id": 15608,
+    "name": "HAMAD"
+  },
+  {
+    "id": 278,
+    "name": "HAMADA"
+  },
+  {
+    "id": 1274,
+    "name": "HAMBANTOTA"
+  },
+  {
+    "id": 1522,
+    "name": "HAMBLE"
+  },
+  {
+    "id": 2367,
+    "name": "HAMBURG"
+  },
+  {
+    "id": 2368,
+    "name": "HAMELN"
+  },
+  {
+    "id": 3021,
+    "name": "HAMILTON"
+  },
+  {
+    "id": 3058,
+    "name": "HAMILTON ON"
+  },
+  {
+    "id": 3112,
+    "name": "HAMINA (FREDRIKSHAMN)"
+  },
+  {
+    "id": 2369,
+    "name": "HAMM"
+  },
+  {
+    "id": 789,
+    "name": "HAMMERFEST"
+  },
+  {
+    "id": 3378,
+    "name": "HAMPTON ROADS PT"
+  },
+  {
+    "id": 2188,
+    "name": "HAMRAWEIN"
+  },
+  {
+    "id": 279,
+    "name": "HANASAKI"
+  },
+  {
+    "id": 2370,
+    "name": "HANAU"
+  },
+  {
+    "id": 2921,
+    "name": "HANKO (HANGO)"
+  },
+  {
+    "id": 280,
+    "name": "HANNAN"
+  },
+  {
+    "id": 2371,
+    "name": "HANNOVER"
+  },
+  {
+    "id": 2135,
+    "name": "HANSTHOLM"
+  },
+  {
+    "id": 2796,
+    "name": "HANSWEERT/SCHORE"
+  },
+  {
+    "id": 281,
+    "name": "HARAMACHI"
+  },
+  {
+    "id": 1992,
+    "name": "HARBIN"
+  },
+  {
+    "id": 2965,
+    "name": "HARBOR ISLAND"
+  },
+  {
+    "id": 1893,
+    "name": "HARBOUR GRACE"
+  },
+  {
+    "id": 2372,
+    "name": "HARBURG"
+  },
+  {
+    "id": 1736,
+    "name": "HARCHIES"
+  },
+  {
+    "id": 790,
+    "name": "HAREID"
+  },
+  {
+    "id": 1737,
+    "name": "HARELBEKE"
+  },
+  {
+    "id": 1738,
+    "name": "HAREN"
+  },
+  {
+    "id": 2373,
+    "name": "HAREN/EMS"
+  },
+  {
+    "id": 1291,
+    "name": "HARGSHAMN"
+  },
+  {
+    "id": 675,
+    "name": "HARLINGEN"
+  },
+  {
+    "id": 3187,
+    "name": "HARMAC"
+  },
+  {
+    "id": 1292,
+    "name": "HARNOSAND"
+  },
+  {
+    "id": 486,
+    "name": "HARPER"
+  },
+  {
+    "id": 14610,
+    "name": "HARSTAD"
+  },
+  {
+    "id": 1523,
+    "name": "HARTLEPOOL"
+  },
+  {
+    "id": 1524,
+    "name": "HARWICH"
+  },
+  {
+    "id": 928,
+    "name": "HASTINGS"
+  },
+  {
+    "id": 676,
+    "name": "HATTEM"
+  },
+  {
+    "id": 791,
+    "name": "HAUGESUND"
+  },
+  {
+    "id": 160,
+    "name": "HAULBOWLINE"
+  },
+  {
+    "id": 1739,
+    "name": "HAUTRAGE"
+  },
+  {
+    "id": 792,
+    "name": "HAVIK"
+  },
+  {
+    "id": 2882,
+    "name": "HAVRE-SAINT-PIERRE"
+  },
+  {
+    "id": 929,
+    "name": "HAY POINT"
+  },
+  {
+    "id": 1413,
+    "name": "HAYDARPASA"
+  },
+  {
+    "id": 48,
+    "name": "HAZIRA"
+  },
+  {
+    "id": 2374,
+    "name": "HEILIGENHAFEN"
+  },
+  {
+    "id": 18,
+    "name": "HELGUVIK"
+  },
+  {
+    "id": 677,
+    "name": "HELLEVOETSLUIS"
+  },
+  {
+    "id": 1293,
+    "name": "HELSINGBORG"
+  },
+  {
+    "id": 2136,
+    "name": "HELSINGOR"
+  },
+  {
+    "id": 2922,
+    "name": "HELSINKI"
+  },
+  {
+    "id": 1740,
+    "name": "HEMIKSEM"
+  },
+  {
+    "id": 930,
+    "name": "HENDERSON"
+  },
+  {
+    "id": 678,
+    "name": "HENGELO"
+  },
+  {
+    "id": 3268,
+    "name": "HERAKLION (IRAKLION)"
+  },
+  {
+    "id": 1741,
+    "name": "HERDERSEM"
+  },
+  {
+    "id": 1414,
+    "name": "HEREKE"
+  },
+  {
+    "id": 1742,
+    "name": "HERENT"
+  },
+  {
+    "id": 1743,
+    "name": "HERENTALS"
+  },
+  {
+    "id": 1744,
+    "name": "HERMALLE-SOUS-HUY"
+  },
+  {
+    "id": 2375,
+    "name": "HERNE"
+  },
+  {
+    "id": 793,
+    "name": "HEROYA"
+  },
+  {
+    "id": 1745,
+    "name": "HERSTAL"
+  },
+  {
+    "id": 1525,
+    "name": "HEYSHAM"
+  },
+  {
+    "id": 282,
+    "name": "HIBI"
+  },
+  {
+    "id": 283,
+    "name": "HIDAKA"
+  },
+  {
+    "id": 2759,
+    "name": "HIGASHIHARIMA"
+  },
+  {
+    "id": 284,
+    "name": "HIGASHI-OGISHIMA"
+  },
+  {
+    "id": 285,
+    "name": "HIKARI"
+  },
+  {
+    "id": 286,
+    "name": "HIKOSHIMA"
+  },
+  {
+    "id": 2566,
+    "name": "HILO"
+  },
+  {
+    "id": 287,
+    "name": "HIMEJI"
+  },
+  {
+    "id": 288,
+    "name": "HIMEKAWA"
+  },
+  {
+    "id": 289,
+    "name": "HIRAO"
+  },
+  {
+    "id": 290,
+    "name": "HIRO"
+  },
+  {
+    "id": 291,
+    "name": "HIROHATA"
+  },
+  {
+    "id": 292,
+    "name": "HIROSHIMA"
+  },
+  {
+    "id": 2137,
+    "name": "HIRTSHALS"
+  },
+  {
+    "id": 293,
+    "name": "HITACHI"
+  },
+  {
+    "id": 294,
+    "name": "HITACHINAKA"
+  },
+  {
+    "id": 521,
+    "name": "HITHADHOO"
+  },
+  {
+    "id": 1662,
+    "name": "HO CHI MINH CITY"
+  },
+  {
+    "id": 2993,
+    "name": "HOBART"
+  },
+  {
+    "id": 1746,
+    "name": "HOBOKEN"
+  },
+  {
+    "id": 14607,
+    "name": "HOBRO"
+  },
+  {
+    "id": 1690,
+    "name": "HODEIDAH"
+  },
+  {
+    "id": 2797,
+    "name": "HOEK VAN HOLLAND"
+  },
+  {
+    "id": 1294,
+    "name": "HOGANAS"
+  },
+  {
+    "id": 2138,
+    "name": "HOLBAEK"
+  },
+  {
+    "id": 3217,
+    "name": "HOLLA"
+  },
+  {
+    "id": 34619,
+    "name": "HOLLAND, MI"
+  },
+  {
+    "id": 794,
+    "name": "HOLLEN"
+  },
+  {
+    "id": 795,
+    "name": "HOLMESTRAND"
+  },
+  {
+    "id": 3137,
+    "name": "HOLTENAU"
+  },
+  {
+    "id": 1526,
+    "name": "HOLY LOCH"
+  },
+  {
+    "id": 1527,
+    "name": "HOLYHEAD"
+  },
+  {
+    "id": 1894,
+    "name": "HOLYROOD"
+  },
+  {
+    "id": 48169,
+    "name": "HOMER"
+  },
+  {
+    "id": 796,
+    "name": "HOMMELVIK"
+  },
+  {
+    "id": 1663,
+    "name": "HON CHONG"
+  },
+  {
+    "id": 47472,
+    "name": "HON LA"
+  },
+  {
+    "id": 1043,
+    "name": "HONDAGUA/SIAIN"
+  },
+  {
+    "id": 3128,
+    "name": "HONFLEUR"
+  },
+  {
+    "id": 1993,
+    "name": "HONG KONG"
+  },
+  {
+    "id": 1664,
+    "name": "HONGAI"
+  },
+  {
+    "id": 1213,
+    "name": "HONIARA, GUADALCANAL IS"
+  },
+  {
+    "id": 2807,
+    "name": "HONNINGSVAG"
+  },
+  {
+    "id": 2567,
+    "name": "HONOLULU"
+  },
+  {
+    "id": 3393,
+    "name": "HOONAH AK"
+  },
+  {
+    "id": 1415,
+    "name": "HOPA"
+  },
+  {
+    "id": 2568,
+    "name": "HOPEWELL VA"
+  },
+  {
+    "id": 1352,
+    "name": "HOPING"
+  },
+  {
+    "id": 797,
+    "name": "HORDVIKNESET"
+  },
+  {
+    "id": 19,
+    "name": "HORNAFJORDUR"
+  },
+  {
+    "id": 3106,
+    "name": "HORSENS"
+  },
+  {
+    "id": 798,
+    "name": "HORSOY"
+  },
+  {
+    "id": 1076,
+    "name": "HORTA"
+  },
+  {
+    "id": 799,
+    "name": "HORTEN"
+  },
+  {
+    "id": 295,
+    "name": "HOSOSHIMA"
+  },
+  {
+    "id": 3311,
+    "name": "HOUND POINT"
+  },
+  {
+    "id": 2569,
+    "name": "HOUSTON TX"
+  },
+  {
+    "id": 1528,
+    "name": "HOWDENDYKE"
+  },
+  {
+    "id": 800,
+    "name": "HOYANGER"
+  },
+  {
+    "id": 3344,
+    "name": "HSING-TA-KANG"
+  },
+  {
+    "id": 3081,
+    "name": "HUAINAN"
+  },
+  {
+    "id": 1994,
+    "name": "HUAIYIN"
+  },
+  {
+    "id": 1353,
+    "name": "HUALIEN"
+  },
+  {
+    "id": 1995,
+    "name": "HUANGDAO"
+  },
+  {
+    "id": 1996,
+    "name": "HUANGHUA"
+  },
+  {
+    "id": 1997,
+    "name": "HUANGPU"
+  },
+  {
+    "id": 1998,
+    "name": "HUANGSHI"
+  },
+  {
+    "id": 1012,
+    "name": "HUARMEY"
+  },
+  {
+    "id": 1955,
+    "name": "HUASCO"
+  },
+  {
+    "id": 1295,
+    "name": "HUDIKSVALL"
+  },
+  {
+    "id": 1250,
+    "name": "HUELVA"
+  },
+  {
+    "id": 1999,
+    "name": "HUIZHOU"
+  },
+  {
+    "id": 1529,
+    "name": "HULL"
+  },
+  {
+    "id": 2000,
+    "name": "HULUDAO"
+  },
+  {
+    "id": 2001,
+    "name": "HUMEN"
+  },
+  {
+    "id": 2139,
+    "name": "HUNDESTED"
+  },
+  {
+    "id": 430,
+    "name": "HUNGNAM"
+  },
+  {
+    "id": 2270,
+    "name": "HUNINGUE"
+  },
+  {
+    "id": 1530,
+    "name": "HUNTERSTON"
+  },
+  {
+    "id": 2189,
+    "name": "HURGHADA"
+  },
+  {
+    "id": 20,
+    "name": "HUSAVIK"
+  },
+  {
+    "id": 801,
+    "name": "HUSNES"
+  },
+  {
+    "id": 2376,
+    "name": "HUSUM, DE"
+  },
+  {
+    "id": 1296,
+    "name": "HUSUM, SE"
+  },
+  {
+    "id": 21,
+    "name": "HVALFJORDUR"
+  },
+  {
+    "id": 47342,
+    "name": "HVIDE SANDE"
+  },
+  {
+    "id": 445,
+    "name": "HWASUN"
+  },
+  {
+    "id": 47515,
+    "name": "HYEN"
+  },
+  {
+    "id": 545,
+    "name": "IBICUY"
+  },
+  {
+    "id": 1251,
+    "name": "IBIZA"
+  },
+  {
+    "id": 2859,
+    "name": "ICDAS JETTY"
+  },
+  {
+    "id": 296,
+    "name": "ICHIHARA"
+  },
+  {
+    "id": 2190,
+    "name": "IDKU"
+  },
+  {
+    "id": 1115,
+    "name": "IGARKA"
+  },
+  {
+    "id": 3334,
+    "name": "IGGESUND"
+  },
+  {
+    "id": 2424,
+    "name": "IGOUMENITSA"
+  },
+  {
+    "id": 2798,
+    "name": "IJMUIDEN/VELSEN"
+  },
+  {
+    "id": 2271,
+    "name": "ILE ROUSSE"
+  },
+  {
+    "id": 1838,
+    "name": "ILHA REDONDA"
+  },
+  {
+    "id": 1839,
+    "name": "ILHEUS"
+  },
+  {
+    "id": 2818,
+    "name": "ILIGAN, MINDANAO"
+  },
+  {
+    "id": 679,
+    "name": "ILLIKHOVEN"
+  },
+  {
+    "id": 1013,
+    "name": "ILO"
+  },
+  {
+    "id": 2819,
+    "name": "ILOILO, PANAY"
+  },
+  {
+    "id": 2455,
+    "name": "ILULISSAT"
+  },
+  {
+    "id": 297,
+    "name": "IMABARI"
+  },
+  {
+    "id": 298,
+    "name": "IMARI"
+  },
+  {
+    "id": 47608,
+    "name": "IMATRA"
+  },
+  {
+    "id": 1840,
+    "name": "IMBITUBA"
+  },
+  {
+    "id": 1531,
+    "name": "IMMINGHAM"
+  },
+  {
+    "id": 210,
+    "name": "IMPERIA"
+  },
+  {
+    "id": 3227,
+    "name": "INAGUA ISLANDS"
+  },
+  {
+    "id": 3354,
+    "name": "INCE"
+  },
+  {
+    "id": 446,
+    "name": "INCHEON"
+  },
+  {
+    "id": 3278,
+    "name": "INDONESIA BULK TERMINAL "
+  },
+  {
+    "id": 1416,
+    "name": "INEBOLU"
+  },
+  {
+    "id": 1747,
+    "name": "INGELMUNSTER"
+  },
+  {
+    "id": 546,
+    "name": "INGENIERO BUITRAGO"
+  },
+  {
+    "id": 49176,
+    "name": "INGLESIDE"
+  },
+  {
+    "id": 2570,
+    "name": "INGLESIDE"
+  },
+  {
+    "id": 3113,
+    "name": "INKOO (INGA)"
+  },
+  {
+    "id": 3283,
+    "name": "INNOSHIMA"
+  },
+  {
+    "id": 650,
+    "name": "INSEIN"
+  },
+  {
+    "id": 1532,
+    "name": "INVERGORDON"
+  },
+  {
+    "id": 1533,
+    "name": "INVERKEITHING"
+  },
+  {
+    "id": 1534,
+    "name": "INVERNESS"
+  },
+  {
+    "id": 1841,
+    "name": "IPOJUCA"
+  },
+  {
+    "id": 1535,
+    "name": "IPSWICH"
+  },
+  {
+    "id": 1895,
+    "name": "IQALUIT"
+  },
+  {
+    "id": 1956,
+    "name": "IQUIQUE"
+  },
+  {
+    "id": 1014,
+    "name": "IQUITOS"
+  },
+  {
+    "id": 2425,
+    "name": "IRAKLION"
+  },
+  {
+    "id": 1044,
+    "name": "ISABEL"
+  },
+  {
+    "id": 2106,
+    "name": "ISABELA DE SAGUA"
+  },
+  {
+    "id": 2982,
+    "name": "ISAFJORDUR"
+  },
+  {
+    "id": 1417,
+    "name": "ISDEMIR"
+  },
+  {
+    "id": 3284,
+    "name": "ISHIGAKI"
+  },
+  {
+    "id": 299,
+    "name": "ISHIKARI"
+  },
+  {
+    "id": 300,
+    "name": "ISHIKAWA"
+  },
+  {
+    "id": 301,
+    "name": "ISHINOMAKI"
+  },
+  {
+    "id": 1418,
+    "name": "ISKENDERUN"
+  },
+  {
+    "id": 2791,
+    "name": "ISLA SAN MARCOS"
+  },
+  {
+    "id": 2191,
+    "name": "ISMAILIA"
+  },
+  {
+    "id": 12062,
+    "name": "ISTANBUL"
+  },
+  {
+    "id": 48079,
+    "name": "ISTHMIA"
+  },
+  {
+    "id": 3178,
+    "name": "ITACOATIARA"
+  },
+  {
+    "id": 1842,
+    "name": "ITAJAI"
+  },
+  {
+    "id": 1843,
+    "name": "ITAPOA"
+  },
+  {
+    "id": 3216,
+    "name": "ITAQUI"
+  },
+  {
+    "id": 2426,
+    "name": "ITEA"
+  },
+  {
+    "id": 3138,
+    "name": "ITZEHOE"
+  },
+  {
+    "id": 302,
+    "name": "IWAKUNI"
+  },
+  {
+    "id": 303,
+    "name": "IWANAI"
+  },
+  {
+    "id": 1748,
+    "name": "IZEGEM"
+  },
+  {
+    "id": 1443,
+    "name": "IZMAIL"
+  },
+  {
+    "id": 1419,
+    "name": "IZMIR"
+  },
+  {
+    "id": 1420,
+    "name": "IZMIT"
+  },
+  {
+    "id": 304,
+    "name": "IZUMISANO"
+  },
+  {
+    "id": 2571,
+    "name": "JACKSONVILLE FL"
+  },
+  {
+    "id": 2923,
+    "name": "JACOBSTAD"
+  },
+  {
+    "id": 49,
+    "name": "JAFARABAD"
+  },
+  {
+    "id": 50,
+    "name": "JAIGAD"
+  },
+  {
+    "id": 2721,
+    "name": "JAKARTA, JAVA"
+  },
+  {
+    "id": 3269,
+    "name": "JAKHAU"
+  },
+  {
+    "id": 2722,
+    "name": "JAMBI, SUMATRA"
+  },
+  {
+    "id": 3316,
+    "name": "JAMESTOWN, SH"
+  },
+  {
+    "id": 447,
+    "name": "JANGHANG/SEOCHEON-GUN"
+  },
+  {
+    "id": 2466,
+    "name": "JARRY"
+  },
+  {
+    "id": 12444,
+    "name": "JASAAN"
+  },
+  {
+    "id": 1749,
+    "name": "JAVA"
+  },
+  {
+    "id": 2960,
+    "name": "JAWAHAR DWEEP"
+  },
+  {
+    "id": 51,
+    "name": "JAWAHARLAL NEHRU (NHAVA SHEVA)"
+  },
+  {
+    "id": 2723,
+    "name": "JAYAPURA, IRIAN JAYA"
+  },
+  {
+    "id": 1459,
+    "name": "JEBEL ALI"
+  },
+  {
+    "id": 1176,
+    "name": "JEDDAH"
+  },
+  {
+    "id": 802,
+    "name": "JELSA"
+  },
+  {
+    "id": 3010,
+    "name": "JEMEPPE-SUR-SAMBRE"
+  },
+  {
+    "id": 2481,
+    "name": "JEREMIE"
+  },
+  {
+    "id": 2572,
+    "name": "JERSEY CITY NJ"
+  },
+  {
+    "id": 40681,
+    "name": "JIANGMEN PT"
+  },
+  {
+    "id": 2002,
+    "name": "JIANGYIN"
+  },
+  {
+    "id": 47275,
+    "name": "JIEYANG"
+  },
+  {
+    "id": 2209,
+    "name": "JIJEL (EX. DJIDJELLI)"
+  },
+  {
+    "id": 3301,
+    "name": "JIMENEZ/OZAMIS"
+  },
+  {
+    "id": 3256,
+    "name": "JINGJIANG"
+  },
+  {
+    "id": 2003,
+    "name": "JINGTANG PT"
+  },
+  {
+    "id": 448,
+    "name": "JINHAE"
+  },
+  {
+    "id": 2004,
+    "name": "JINSHAN"
+  },
+  {
+    "id": 2005,
+    "name": "JINZHOU"
+  },
+  {
+    "id": 2006,
+    "name": "JIUJIANG"
+  },
+  {
+    "id": 1177,
+    "name": "JIZAN"
+  },
+  {
+    "id": 2231,
+    "name": "JOENSUU"
+  },
+  {
+    "id": 47323,
+    "name": "JOHNSTOWN"
+  },
+  {
+    "id": 506,
+    "name": "JOHOR BAHRU"
+  },
+  {
+    "id": 2701,
+    "name": "JORF LASFAR"
+  },
+  {
+    "id": 48143,
+    "name": "JOSE IGNACIO TERMINAL"
+  },
+  {
+    "id": 1626,
+    "name": "JOSE TERMINAL"
+  },
+  {
+    "id": 803,
+    "name": "JOSSINGHAMN"
+  },
+  {
+    "id": 481,
+    "name": "JOUNIEH"
+  },
+  {
+    "id": 2232,
+    "name": "JOUTSENO"
+  },
+  {
+    "id": 1178,
+    "name": "JUAYMAH TERMINAL"
+  },
+  {
+    "id": 1179,
+    "name": "JUBAIL"
+  },
+  {
+    "id": 2107,
+    "name": "JUCARO"
+  },
+  {
+    "id": 2573,
+    "name": "JUNEAU AK"
+  },
+  {
+    "id": 1204,
+    "name": "JURONG"
+  },
+  {
+    "id": 1844,
+    "name": "JURUTI TERMINAL"
+  },
+  {
+    "id": 95,
+    "name": "KABIL"
+  },
+  {
+    "id": 305,
+    "name": "KAGOSHIMA"
+  },
+  {
+    "id": 2574,
+    "name": "KAHULUI HI"
+  },
+  {
+    "id": 306,
+    "name": "KAINAN"
+  },
+  {
+    "id": 52,
+    "name": "KAKINADA"
+  },
+  {
+    "id": 2575,
+    "name": "KALAMA WA"
+  },
+  {
+    "id": 3141,
+    "name": "KALAMAKI"
+  },
+  {
+    "id": 2427,
+    "name": "KALAMATA"
+  },
+  {
+    "id": 2116,
+    "name": "KALECIK"
+  },
+  {
+    "id": 3207,
+    "name": "KALILIMENES"
+  },
+  {
+    "id": 1116,
+    "name": "KALININGRAD"
+  },
+  {
+    "id": 1750,
+    "name": "KALLO"
+  },
+  {
+    "id": 1297,
+    "name": "KALMAR"
+  },
+  {
+    "id": 2140,
+    "name": "KALUNDBORG"
+  },
+  {
+    "id": 2428,
+    "name": "KALYMNOS"
+  },
+  {
+    "id": 307,
+    "name": "KAMAISHI"
+  },
+  {
+    "id": 48334,
+    "name": "KAMIISO"
+  },
+  {
+    "id": 3179,
+    "name": "KAMPUNG TANJUNG LANGSAT"
+  },
+  {
+    "id": 1117,
+    "name": "KAMSKOYE USTYE"
+  },
+  {
+    "id": 308,
+    "name": "KANAZAWA"
+  },
+  {
+    "id": 2760,
+    "name": "KANDA, FUKUOKA"
+  },
+  {
+    "id": 1118,
+    "name": "KANDALAKSHA"
+  },
+  {
+    "id": 309,
+    "name": "KANOKAWA"
+  },
+  {
+    "id": 14632,
+    "name": "KANTANG"
+  },
+  {
+    "id": 2233,
+    "name": "KANTVIK"
+  },
+  {
+    "id": 1354,
+    "name": "KAOHSIUNG"
+  },
+  {
+    "id": 1191,
+    "name": "KAOLACK"
+  },
+  {
+    "id": 1298,
+    "name": "KAPELLSKAR"
+  },
+  {
+    "id": 2377,
+    "name": "KAPPELN"
+  },
+  {
+    "id": 1299,
+    "name": "KAPPELSHAMN"
+  },
+  {
+    "id": 1421,
+    "name": "KARABIGA"
+  },
+  {
+    "id": 879,
+    "name": "KARACHI"
+  },
+  {
+    "id": 54,
+    "name": "KARAIKAL"
+  },
+  {
+    "id": 45622,
+    "name": "KARASU"
+  },
+  {
+    "id": 310,
+    "name": "KARATSU"
+  },
+  {
+    "id": 17094,
+    "name": "KARIMUN"
+  },
+  {
+    "id": 1300,
+    "name": "KARLSBORG AXELVIK"
+  },
+  {
+    "id": 1301,
+    "name": "KARLSHAMN"
+  },
+  {
+    "id": 1302,
+    "name": "KARLSKRONA"
+  },
+  {
+    "id": 2378,
+    "name": "KARLSRUHE"
+  },
+  {
+    "id": 1303,
+    "name": "KARLSTAD"
+  },
+  {
+    "id": 3335,
+    "name": "KARSKAR"
+  },
+  {
+    "id": 804,
+    "name": "KARSTO"
+  },
+  {
+    "id": 931,
+    "name": "KARUMBA"
+  },
+  {
+    "id": 55,
+    "name": "KARWAR"
+  },
+  {
+    "id": 2761,
+    "name": "KASHIMA, IBARAKI"
+  },
+  {
+    "id": 311,
+    "name": "KASHIWAZAKI"
+  },
+  {
+    "id": 2724,
+    "name": "KASIM, IJ"
+  },
+  {
+    "id": 3114,
+    "name": "KASKINEN"
+  },
+  {
+    "id": 2429,
+    "name": "KATAKOLON"
+  },
+  {
+    "id": 680,
+    "name": "KATS"
+  },
+  {
+    "id": 56,
+    "name": "KATTUPALLI PORT"
+  },
+  {
+    "id": 2430,
+    "name": "KAVALA"
+  },
+  {
+    "id": 992,
+    "name": "KAVIENG"
+  },
+  {
+    "id": 1119,
+    "name": "KAVKAZ"
+  },
+  {
+    "id": 312,
+    "name": "KAWAGOE"
+  },
+  {
+    "id": 2576,
+    "name": "KAWAIHAE HI"
+  },
+  {
+    "id": 1537,
+    "name": "KEADBY"
+  },
+  {
+    "id": 2854,
+    "name": "KEELUNG"
+  },
+  {
+    "id": 47394,
+    "name": "KEFLAVÍK"
+  },
+  {
+    "id": 2379,
+    "name": "KEHL"
+  },
+  {
+    "id": 3200,
+    "name": "KELANIS"
+  },
+  {
+    "id": 2380,
+    "name": "KELHEIM"
+  },
+  {
+    "id": 2381,
+    "name": "KELSTERBACH"
+  },
+  {
+    "id": 507,
+    "name": "KEMAMAN"
+  },
+  {
+    "id": 2007,
+    "name": "KEMEN"
+  },
+  {
+    "id": 3115,
+    "name": "KEMI"
+  },
+  {
+    "id": 2725,
+    "name": "KENDARI, SULAWESI"
+  },
+  {
+    "id": 47418,
+    "name": "KENDAWANGAN"
+  },
+  {
+    "id": 635,
+    "name": "KENITRA"
+  },
+  {
+    "id": 3322,
+    "name": "KEPPEL WHARVES "
+  },
+  {
+    "id": 1444,
+    "name": "KERCH"
+  },
+  {
+    "id": 2948,
+    "name": "KERKIRA (CORFU)"
+  },
+  {
+    "id": 2780,
+    "name": "KERTEH"
+  },
+  {
+    "id": 313,
+    "name": "KESENNUMA"
+  },
+  {
+    "id": 2577,
+    "name": "KETCHIKAN AK"
+  },
+  {
+    "id": 47751,
+    "name": "KEY WEST"
+  },
+  {
+    "id": 3001,
+    "name": "KHALIFA BIN SALMAN"
+  },
+  {
+    "id": 1369,
+    "name": "KHANOM"
+  },
+  {
+    "id": 134,
+    "name": "KHARK ISLAND"
+  },
+  {
+    "id": 873,
+    "name": "KHASAB"
+  },
+  {
+    "id": 1445,
+    "name": "KHERSON"
+  },
+  {
+    "id": 1120,
+    "name": "KHOLMSK"
+  },
+  {
+    "id": 1460,
+    "name": "KHOR AL FAKKAN"
+  },
+  {
+    "id": 144,
+    "name": "KHOR AL ZUBAIR"
+  },
+  {
+    "id": 135,
+    "name": "KHORRAMSHAHR"
+  },
+  {
+    "id": 2382,
+    "name": "KIEL"
+  },
+  {
+    "id": 3182,
+    "name": "KIEL CANAL"
+  },
+  {
+    "id": 1751,
+    "name": "KIELDRECHT"
+  },
+  {
+    "id": 993,
+    "name": "KIETA"
+  },
+  {
+    "id": 1360,
+    "name": "KIGOMA"
+  },
+  {
+    "id": 314,
+    "name": "KIIRE"
+  },
+  {
+    "id": 96,
+    "name": "KIJANG"
+  },
+  {
+    "id": 315,
+    "name": "KIKUMA"
+  },
+  {
+    "id": 1538,
+    "name": "KILLINGHOLME"
+  },
+  {
+    "id": 161,
+    "name": "KILLYBEGS"
+  },
+  {
+    "id": 162,
+    "name": "KILMOKEA"
+  },
+  {
+    "id": 1539,
+    "name": "KILROOT"
+  },
+  {
+    "id": 47302,
+    "name": "KIMANIS, SABAH"
+  },
+  {
+    "id": 12742,
+    "name": "KIMASI"
+  },
+  {
+    "id": 994,
+    "name": "KIMBE"
+  },
+  {
+    "id": 316,
+    "name": "KIMITSU"
+  },
+  {
+    "id": 1121,
+    "name": "KINESHMA"
+  },
+  {
+    "id": 3320,
+    "name": "KING ABDULLAH PORT"
+  },
+  {
+    "id": 1540,
+    "name": "KING'S LYNN"
+  },
+  {
+    "id": 932,
+    "name": "KINGSCOTE"
+  },
+  {
+    "id": 1541,
+    "name": "KINGSNORTH"
+  },
+  {
+    "id": 252,
+    "name": "KINGSTON"
+  },
+  {
+    "id": 1170,
+    "name": "KINGSTOWN"
+  },
+  {
+    "id": 47780,
+    "name": "KINNAKAGUSUKU"
+  },
+  {
+    "id": 317,
+    "name": "KINOE"
+  },
+  {
+    "id": 1752,
+    "name": "KINROOI"
+  },
+  {
+    "id": 163,
+    "name": "KINSALE"
+  },
+  {
+    "id": 318,
+    "name": "KINUURA"
+  },
+  {
+    "id": 319,
+    "name": "KINWAN"
+  },
+  {
+    "id": 425,
+    "name": "KIRITIMATI"
+  },
+  {
+    "id": 47337,
+    "name": "KIRKCALDY"
+  },
+  {
+    "id": 805,
+    "name": "KIRKENES"
+  },
+  {
+    "id": 1542,
+    "name": "KIRKWALL"
+  },
+  {
+    "id": 1122,
+    "name": "KIROVSKIY"
+  },
+  {
+    "id": 2984,
+    "name": "KISARAZU"
+  },
+  {
+    "id": 136,
+    "name": "KISH ISLAND"
+  },
+  {
+    "id": 3285,
+    "name": "KISHIWADA"
+  },
+  {
+    "id": 1217,
+    "name": "KISMAYU"
+  },
+  {
+    "id": 2985,
+    "name": "KITAKYUSHU"
+  },
+  {
+    "id": 1896,
+    "name": "KITIMAT"
+  },
+  {
+    "id": 806,
+    "name": "KJOPMANNSKJAR"
+  },
+  {
+    "id": 807,
+    "name": "KJOPSVIK"
+  },
+  {
+    "id": 498,
+    "name": "KLAIPEDA"
+  },
+  {
+    "id": 2223,
+    "name": "KLAKSVIK"
+  },
+  {
+    "id": 2578,
+    "name": "KLAWOCK AK"
+  },
+  {
+    "id": 3150,
+    "name": "KLEIN POINT"
+  },
+  {
+    "id": 1753,
+    "name": "KLEIN VEERLE"
+  },
+  {
+    "id": 1304,
+    "name": "KLINTEHAMN"
+  },
+  {
+    "id": 1754,
+    "name": "KLUISBERGEN"
+  },
+  {
+    "id": 320,
+    "name": "KOBE"
+  },
+  {
+    "id": 2383,
+    "name": "KOBLENZ AM RHEIN"
+  },
+  {
+    "id": 321,
+    "name": "KOCHI, JP"
+  },
+  {
+    "id": 2579,
+    "name": "KODIAK AK"
+  },
+  {
+    "id": 2141,
+    "name": "KOGE"
+  },
+  {
+    "id": 1370,
+    "name": "KOH SICHANG"
+  },
+  {
+    "id": 3116,
+    "name": "KOKKOLA (KARLEBY)"
+  },
+  {
+    "id": 748,
+    "name": "KOKO"
+  },
+  {
+    "id": 322,
+    "name": "KOKURA"
+  },
+  {
+    "id": 3384,
+    "name": "KOLAKA"
+  },
+  {
+    "id": 2142,
+    "name": "KOLDING"
+  },
+  {
+    "id": 49164,
+    "name": "KOLGUYEV ISLAND"
+  },
+  {
+    "id": 35,
+    "name": "KOLKATA"
+  },
+  {
+    "id": 2224,
+    "name": "KOLLAFJORDUR"
+  },
+  {
+    "id": 1065,
+    "name": "KOLOBRZEG"
+  },
+  {
+    "id": 1212,
+    "name": "KOMARNO"
+  },
+  {
+    "id": 323,
+    "name": "KOMATSUSHIMA"
+  },
+  {
+    "id": 1123,
+    "name": "KONDOPOGA"
+  },
+  {
+    "id": 933,
+    "name": "KOOLAN ISLAND"
+  },
+  {
+    "id": 3164,
+    "name": "KOPER"
+  },
+  {
+    "id": 808,
+    "name": "KOPERVIK"
+  },
+  {
+    "id": 1305,
+    "name": "KOPING"
+  },
+  {
+    "id": 47471,
+    "name": "KOPMANHOLMEN"
+  },
+  {
+    "id": 3094,
+    "name": "KORCULA"
+  },
+  {
+    "id": 3196,
+    "name": "KORINTHOS"
+  },
+  {
+    "id": 880,
+    "name": "KOROR"
+  },
+  {
+    "id": 1124,
+    "name": "KORSAKOV"
+  },
+  {
+    "id": 3107,
+    "name": "KORSOR"
+  },
+  {
+    "id": 2431,
+    "name": "KOS"
+  },
+  {
+    "id": 2987,
+    "name": "KOTA KINABALU, SABAH"
+  },
+  {
+    "id": 97,
+    "name": "KOTABARU"
+  },
+  {
+    "id": 3117,
+    "name": "KOTKA"
+  },
+  {
+    "id": 718,
+    "name": "KOUAOUA"
+  },
+  {
+    "id": 2318,
+    "name": "KOUROU"
+  },
+  {
+    "id": 2924,
+    "name": "KOVERHAR (KOVERHAARA)"
+  },
+  {
+    "id": 2836,
+    "name": "KOZMINO"
+  },
+  {
+    "id": 1379,
+    "name": "KPEME"
+  },
+  {
+    "id": 3176,
+    "name": "KRABI"
+  },
+  {
+    "id": 47385,
+    "name": "KRAGERO"
+  },
+  {
+    "id": 3229,
+    "name": "KRALENDIJK"
+  },
+  {
+    "id": 1125,
+    "name": "KRASNOYARSK"
+  },
+  {
+    "id": 2384,
+    "name": "KREFELD"
+  },
+  {
+    "id": 1090,
+    "name": "KREMS"
+  },
+  {
+    "id": 57,
+    "name": "KRISHNAPATNAM"
+  },
+  {
+    "id": 809,
+    "name": "KRISTIANSAND"
+  },
+  {
+    "id": 810,
+    "name": "KRISTIANSUND"
+  },
+  {
+    "id": 1306,
+    "name": "KRISTINEHAMN"
+  },
+  {
+    "id": 3118,
+    "name": "KRISTINESTAD (KRISTIINANKAUPUNKI)"
+  },
+  {
+    "id": 3313,
+    "name": "KRONSTADT"
+  },
+  {
+    "id": 3011,
+    "name": "KRUIBEKE"
+  },
+  {
+    "id": 40650,
+    "name": "KUALA BELAIT"
+  },
+  {
+    "id": 98,
+    "name": "KUALALANGSA"
+  },
+  {
+    "id": 2726,
+    "name": "KUALATANJUNG"
+  },
+  {
+    "id": 2781,
+    "name": "KUANTAN"
+  },
+  {
+    "id": 2782,
+    "name": "KUCHING, SARAWAK"
+  },
+  {
+    "id": 324,
+    "name": "KUDAMATSU"
+  },
+  {
+    "id": 2325,
+    "name": "KULEVI"
+  },
+  {
+    "id": 3238,
+    "name": "KULTUS COVE BC"
+  },
+  {
+    "id": 28446,
+    "name": "KUMAMOTO"
+  },
+  {
+    "id": 2783,
+    "name": "KUNAK, SABAH"
+  },
+  {
+    "id": 2215,
+    "name": "KUNDA"
+  },
+  {
+    "id": 2234,
+    "name": "KUOPIO"
+  },
+  {
+    "id": 2727,
+    "name": "KUPANG, TIMOR"
+  },
+  {
+    "id": 934,
+    "name": "KURNELL"
+  },
+  {
+    "id": 47379,
+    "name": "KUSADASI"
+  },
+  {
+    "id": 325,
+    "name": "KUSHIRO"
+  },
+  {
+    "id": 1307,
+    "name": "KVARNHOLMEN"
+  },
+  {
+    "id": 811,
+    "name": "KVINESDAL"
+  },
+  {
+    "id": 449,
+    "name": "KWANGYANG"
+  },
+  {
+    "id": 935,
+    "name": "KWINANA"
+  },
+  {
+    "id": 2794,
+    "name": "KYAUKPYU"
+  },
+  {
+    "id": 1543,
+    "name": "KYLE OF LOCHALSH"
+  },
+  {
+    "id": 2143,
+    "name": "KYNDBYVAERKETS HAVN"
+  },
+  {
+    "id": 3105,
+    "name": "KYRENIA"
+  },
+  {
+    "id": 3377,
+    "name": "LA BREA"
+  },
+  {
+    "id": 2486,
+    "name": "LA CEIBA"
+  },
+  {
+    "id": 1627,
+    "name": "LA CEIBA/MARACAIBO L"
+  },
+  {
+    "id": 2272,
+    "name": "LA CIOTAT"
+  },
+  {
+    "id": 1252,
+    "name": "LA CORUNA"
+  },
+  {
+    "id": 2857,
+    "name": "LA GOULETTE NORD (HALQUELOUED)"
+  },
+  {
+    "id": 1628,
+    "name": "LA GUAIRA"
+  },
+  {
+    "id": 2902,
+    "name": "LA HABANA"
+  },
+  {
+    "id": 2180,
+    "name": "LA LIBERTAD"
+  },
+  {
+    "id": 2273,
+    "name": "LA MEDE"
+  },
+  {
+    "id": 2274,
+    "name": "LA PALLICE"
+  },
+  {
+    "id": 1606,
+    "name": "LA PALOMA/ROCHA"
+  },
+  {
+    "id": 45880,
+    "name": "LA PAMPILLA"
+  },
+  {
+    "id": 601,
+    "name": "LA PAZ"
+  },
+  {
+    "id": 2580,
+    "name": "LA PLACE LA"
+  },
+  {
+    "id": 547,
+    "name": "LA PLATA"
+  },
+  {
+    "id": 2169,
+    "name": "LA ROMANA"
+  },
+  {
+    "id": 1629,
+    "name": "LA SALINA/MARACAIBO L"
+  },
+  {
+    "id": 3328,
+    "name": "LA SALINETA"
+  },
+  {
+    "id": 2275,
+    "name": "LA SEYNE-SUR-MER"
+  },
+  {
+    "id": 1389,
+    "name": "LA SKHIRRA"
+  },
+  {
+    "id": 211,
+    "name": "LA SPEZIA"
+  },
+  {
+    "id": 1607,
+    "name": "LA TEJA"
+  },
+  {
+    "id": 2200,
+    "name": "LA UNION"
+  },
+  {
+    "id": 636,
+    "name": "LAAYOUNE"
+  },
+  {
+    "id": 2228,
+    "name": "LABASA"
+  },
+  {
+    "id": 2784,
+    "name": "LABUAN, SABAH"
+  },
+  {
+    "id": 995,
+    "name": "LAE"
+  },
+  {
+    "id": 1371,
+    "name": "LAEM CHABANG"
+  },
+  {
+    "id": 2482,
+    "name": "LAFFITEAU"
+  },
+  {
+    "id": 749,
+    "name": "LAGOS"
+  },
+  {
+    "id": 2951,
+    "name": "LAGOS (PORTO-LAGO)"
+  },
+  {
+    "id": 1630,
+    "name": "LAGUNILLAS"
+  },
+  {
+    "id": 508,
+    "name": "LAHAD DATU, SABAH"
+  },
+  {
+    "id": 2008,
+    "name": "LAIZHOU"
+  },
+  {
+    "id": 2581,
+    "name": "LAKE CHARLES LA"
+  },
+  {
+    "id": 3385,
+    "name": "LAMONGAN SHOREBASE"
+  },
+  {
+    "id": 1755,
+    "name": "LANAKEN"
+  },
+  {
+    "id": 1756,
+    "name": "LANAYE"
+  },
+  {
+    "id": 1308,
+    "name": "LANDSKRONA"
+  },
+  {
+    "id": 1757,
+    "name": "LANGERBRUGGE"
+  },
+  {
+    "id": 1758,
+    "name": "LANGERLO"
+  },
+  {
+    "id": 812,
+    "name": "LANGEVAG"
+  },
+  {
+    "id": 509,
+    "name": "LANGKAWI"
+  },
+  {
+    "id": 3239,
+    "name": "LANQIAO"
+  },
+  {
+    "id": 2009,
+    "name": "LANSHAN"
+  },
+  {
+    "id": 2845,
+    "name": "LANZAROTE"
+  },
+  {
+    "id": 47607,
+    "name": "LAPPEENRANTA (VILLMANSTRAND)"
+  },
+  {
+    "id": 99,
+    "name": "LARANTUKA"
+  },
+  {
+    "id": 47514,
+    "name": "LARKOLLEN"
+  },
+  {
+    "id": 2117,
+    "name": "LARNACA"
+  },
+  {
+    "id": 1544,
+    "name": "LARNE"
+  },
+  {
+    "id": 813,
+    "name": "LARVIK"
+  },
+  {
+    "id": 3204,
+    "name": "LARYMNA"
+  },
+  {
+    "id": 3382,
+    "name": "LAS COLORADAS"
+  },
+  {
+    "id": 2831,
+    "name": "LAS MAREAS"
+  },
+  {
+    "id": 984,
+    "name": "LAS MINAS"
+  },
+  {
+    "id": 3225,
+    "name": "LAS PALMAS, AR"
+  },
+  {
+    "id": 1253,
+    "name": "LAS PALMAS, ES"
+  },
+  {
+    "id": 1350,
+    "name": "LATAKIA"
+  },
+  {
+    "id": 3111,
+    "name": "LAUTOKA"
+  },
+  {
+    "id": 681,
+    "name": "LAUWERSOOG"
+  },
+  {
+    "id": 137,
+    "name": "LAVAN"
+  },
+  {
+    "id": 2949,
+    "name": "LAVRION"
+  },
+  {
+    "id": 602,
+    "name": "LAZARO CARDENAS"
+  },
+  {
+    "id": 1045,
+    "name": "LAZI"
+  },
+  {
+    "id": 2276,
+    "name": "LE HAVRE"
+  },
+  {
+    "id": 2277,
+    "name": "LE TRAIT"
+  },
+  {
+    "id": 2278,
+    "name": "LE TREPORT"
+  },
+  {
+    "id": 2936,
+    "name": "LE VERDON-SUR-MER"
+  },
+  {
+    "id": 2385,
+    "name": "LEER"
+  },
+  {
+    "id": 682,
+    "name": "LEEUWARDEN"
+  },
+  {
+    "id": 1046,
+    "name": "LEGASPI"
+  },
+  {
+    "id": 814,
+    "name": "LEIRVIK"
+  },
+  {
+    "id": 1545,
+    "name": "LEITH"
+  },
+  {
+    "id": 1077,
+    "name": "LEIXOES"
+  },
+  {
+    "id": 100,
+    "name": "LEMBAR"
+  },
+  {
+    "id": 683,
+    "name": "LEMSTERLAND"
+  },
+  {
+    "id": 1546,
+    "name": "LERWICK"
+  },
+  {
+    "id": 2483,
+    "name": "LES CAYES"
+  },
+  {
+    "id": 2279,
+    "name": "LES SABLES D`OLONNE"
+  },
+  {
+    "id": 2229,
+    "name": "LEVUKA"
+  },
+  {
+    "id": 1897,
+    "name": "LEWISPORTE"
+  },
+  {
+    "id": 101,
+    "name": "LHOKNGA"
+  },
+  {
+    "id": 102,
+    "name": "LHOKSEUMAWE"
+  },
+  {
+    "id": 2010,
+    "name": "LIANYUNGANG"
+  },
+  {
+    "id": 3218,
+    "name": "LIAVAAG"
+  },
+  {
+    "id": 2322,
+    "name": "LIBREVILLE"
+  },
+  {
+    "id": 212,
+    "name": "LICATA"
+  },
+  {
+    "id": 1309,
+    "name": "LIDKOPING"
+  },
+  {
+    "id": 473,
+    "name": "LIEPAJA"
+  },
+  {
+    "id": 1759,
+    "name": "LIER"
+  },
+  {
+    "id": 2814,
+    "name": "LIHIR ISLAND"
+  },
+  {
+    "id": 2280,
+    "name": "LILLE"
+  },
+  {
+    "id": 2992,
+    "name": "LILLESAND"
+  },
+  {
+    "id": 1760,
+    "name": "LILLO"
+  },
+  {
+    "id": 2118,
+    "name": "LIMASSOL"
+  },
+  {
+    "id": 2281,
+    "name": "LIMAY, FR"
+  },
+  {
+    "id": 47377,
+    "name": "LIMBE"
+  },
+  {
+    "id": 164,
+    "name": "LIMERICK"
+  },
+  {
+    "id": 684,
+    "name": "LIMMEL"
+  },
+  {
+    "id": 3143,
+    "name": "LINDEN"
+  },
+  {
+    "id": 2582,
+    "name": "LINDEN NJ"
+  },
+  {
+    "id": 138,
+    "name": "LINGAH"
+  },
+  {
+    "id": 48178,
+    "name": "LINKOU"
+  },
+  {
+    "id": 28450,
+    "name": "LINOPERAMATA HRAKLIOU"
+  },
+  {
+    "id": 213,
+    "name": "LIPARI"
+  },
+  {
+    "id": 626,
+    "name": "LIPCI"
+  },
+  {
+    "id": 1957,
+    "name": "LIRQUEN"
+  },
+  {
+    "id": 3148,
+    "name": "LISBON"
+  },
+  {
+    "id": 1761,
+    "name": "LISSEWEGE"
+  },
+  {
+    "id": 1898,
+    "name": "LITTLE NARROWS"
+  },
+  {
+    "id": 47300,
+    "name": "LITTLE STIRRUP CAY"
+  },
+  {
+    "id": 3004,
+    "name": "LITTLEBROOK"
+  },
+  {
+    "id": 3005,
+    "name": "LIVERPOOL"
+  },
+  {
+    "id": 1899,
+    "name": "LIVERPOOL NS"
+  },
+  {
+    "id": 214,
+    "name": "LIVORNO"
+  },
+  {
+    "id": 1762,
+    "name": "LIXHE"
+  },
+  {
+    "id": 1547,
+    "name": "LLANDDULAS"
+  },
+  {
+    "id": 2,
+    "name": "LOBITO"
+  },
+  {
+    "id": 1015,
+    "name": "LOBITOS"
+  },
+  {
+    "id": 28448,
+    "name": "LOCH STRIVEN"
+  },
+  {
+    "id": 815,
+    "name": "LODINGEN"
+  },
+  {
+    "id": 996,
+    "name": "LOLOHO"
+  },
+  {
+    "id": 47742,
+    "name": "LOM"
+  },
+  {
+    "id": 1380,
+    "name": "LOME"
+  },
+  {
+    "id": 1763,
+    "name": "LOMMEL"
+  },
+  {
+    "id": 1126,
+    "name": "LOMONOSOV"
+  },
+  {
+    "id": 1549,
+    "name": "LONDON"
+  },
+  {
+    "id": 1550,
+    "name": "LONDON GATEWAY"
+  },
+  {
+    "id": 1551,
+    "name": "LONDONDERRY"
+  },
+  {
+    "id": 2583,
+    "name": "LONG BEACH"
+  },
+  {
+    "id": 1900,
+    "name": "LONG HARBOUR"
+  },
+  {
+    "id": 1164,
+    "name": "LONG POINT"
+  },
+  {
+    "id": 1901,
+    "name": "LONG POND"
+  },
+  {
+    "id": 2011,
+    "name": "LONGKOU"
+  },
+  {
+    "id": 589,
+    "name": "LONGONI"
+  },
+  {
+    "id": 2584,
+    "name": "LONGVIEW"
+  },
+  {
+    "id": 2012,
+    "name": "LONGYAN"
+  },
+  {
+    "id": 47918,
+    "name": "LOOP TERMINAL"
+  },
+  {
+    "id": 3296,
+    "name": "LORENGAU, MANUS ISLAND"
+  },
+  {
+    "id": 2282,
+    "name": "LORIENT"
+  },
+  {
+    "id": 2585,
+    "name": "LOS ANGELES"
+  },
+  {
+    "id": 2925,
+    "name": "LOVIISA (LOVISA)"
+  },
+  {
+    "id": 1902,
+    "name": "LOWER COVE"
+  },
+  {
+    "id": 1552,
+    "name": "LOWESTOFT"
+  },
+  {
+    "id": 3,
+    "name": "LUANDA"
+  },
+  {
+    "id": 2202,
+    "name": "LUBA"
+  },
+  {
+    "id": 2386,
+    "name": "LUBECK"
+  },
+  {
+    "id": 2387,
+    "name": "LUBMIN"
+  },
+  {
+    "id": 103,
+    "name": "LUBUK TUTUNG"
+  },
+  {
+    "id": 1047,
+    "name": "LUCANIN"
+  },
+  {
+    "id": 936,
+    "name": "LUCINDA"
+  },
+  {
+    "id": 654,
+    "name": "LUDERITZ"
+  },
+  {
+    "id": 2946,
+    "name": "LUDWIGSHAFEN"
+  },
+  {
+    "id": 1048,
+    "name": "LUGAIT"
+  },
+  {
+    "id": 47606,
+    "name": "LUGNVIK"
+  },
+  {
+    "id": 3240,
+    "name": "LU-HUA SHAN"
+  },
+  {
+    "id": 1310,
+    "name": "LULEA"
+  },
+  {
+    "id": 2388,
+    "name": "LULSDORF"
+  },
+  {
+    "id": 1764,
+    "name": "LUMMEN"
+  },
+  {
+    "id": 1869,
+    "name": "LUMUT, BN"
+  },
+  {
+    "id": 510,
+    "name": "LUMUT, MY"
+  },
+  {
+    "id": 3247,
+    "name": "LUOJING"
+  },
+  {
+    "id": 3248,
+    "name": "LUSHUN"
+  },
+  {
+    "id": 3280,
+    "name": "LUWUK"
+  },
+  {
+    "id": 1192,
+    "name": "LYNDIANE"
+  },
+  {
+    "id": 816,
+    "name": "LYNGDAL"
+  },
+  {
+    "id": 1311,
+    "name": "LYSEKIL"
+  },
+  {
+    "id": 729,
+    "name": "LYTTELTON"
+  },
+  {
+    "id": 2013,
+    "name": "MAANSHAN"
+  },
+  {
+    "id": 685,
+    "name": "MAASBRACHT"
+  },
+  {
+    "id": 1765,
+    "name": "MAASMECHELEN"
+  },
+  {
+    "id": 686,
+    "name": "MAASTRICHT"
+  },
+  {
+    "id": 687,
+    "name": "MAASVLAKTE"
+  },
+  {
+    "id": 2014,
+    "name": "MABIANZHOU"
+  },
+  {
+    "id": 1049,
+    "name": "MABINI, MINDANAO"
+  },
+  {
+    "id": 104,
+    "name": "MABULI"
+  },
+  {
+    "id": 1845,
+    "name": "MACAE"
+  },
+  {
+    "id": 2015,
+    "name": "MACAU"
+  },
+  {
+    "id": 1846,
+    "name": "MACAU, BR"
+  },
+  {
+    "id": 2283,
+    "name": "MACAU, FR"
+  },
+  {
+    "id": 500,
+    "name": "MACAU, MO"
+  },
+  {
+    "id": 1847,
+    "name": "MACEIO"
+  },
+  {
+    "id": 937,
+    "name": "MACKAY"
+  },
+  {
+    "id": 2284,
+    "name": "MACON"
+  },
+  {
+    "id": 47324,
+    "name": "MACUN"
+  },
+  {
+    "id": 997,
+    "name": "MADANG"
+  },
+  {
+    "id": 1848,
+    "name": "MADRE DE DEUS"
+  },
+  {
+    "id": 2983,
+    "name": "MADURA TERMINAL"
+  },
+  {
+    "id": 1127,
+    "name": "MAGADAN"
+  },
+  {
+    "id": 3287,
+    "name": "MAGOME"
+  },
+  {
+    "id": 503,
+    "name": "MAHAJANGA"
+  },
+  {
+    "id": 2847,
+    "name": "MAHON, MENORCA"
+  },
+  {
+    "id": 1355,
+    "name": "MAI-LIAO"
+  },
+  {
+    "id": 2389,
+    "name": "MAINZ"
+  },
+  {
+    "id": 326,
+    "name": "MAIZURU"
+  },
+  {
+    "id": 2016,
+    "name": "MAJI SHAN"
+  },
+  {
+    "id": 526,
+    "name": "MAJURO"
+  },
+  {
+    "id": 105,
+    "name": "MAKASSAR"
+  },
+  {
+    "id": 1128,
+    "name": "MAKHACHKALA"
+  },
+  {
+    "id": 2203,
+    "name": "MALABO"
+  },
+  {
+    "id": 511,
+    "name": "MALACCA"
+  },
+  {
+    "id": 1254,
+    "name": "MALAGA"
+  },
+  {
+    "id": 106,
+    "name": "MALAHAYATI"
+  },
+  {
+    "id": 1050,
+    "name": "MALAMPAYA"
+  },
+  {
+    "id": 522,
+    "name": "MALE"
+  },
+  {
+    "id": 2088,
+    "name": "MALI LOSINJ"
+  },
+  {
+    "id": 3272,
+    "name": "MALILI"
+  },
+  {
+    "id": 1312,
+    "name": "MALMO"
+  },
+  {
+    "id": 4,
+    "name": "MALONGO TERMINAL"
+  },
+  {
+    "id": 817,
+    "name": "MALOY"
+  },
+  {
+    "id": 524,
+    "name": "MALTA FREEPORT DISTRIPARK"
+  },
+  {
+    "id": 2074,
+    "name": "MAMONAL"
+  },
+  {
+    "id": 1849,
+    "name": "MANAUS"
+  },
+  {
+    "id": 818,
+    "name": "MANDAL"
+  },
+  {
+    "id": 58,
+    "name": "MANDVI"
+  },
+  {
+    "id": 215,
+    "name": "MANFREDONIA"
+  },
+  {
+    "id": 1099,
+    "name": "MANGALIA"
+  },
+  {
+    "id": 2728,
+    "name": "MANGGIS"
+  },
+  {
+    "id": 2456,
+    "name": "MANIITSOQ"
+  },
+  {
+    "id": 1051,
+    "name": "MANILA"
+  },
+  {
+    "id": 2390,
+    "name": "MANNHEIM"
+  },
+  {
+    "id": 2729,
+    "name": "MANOKWARI, IRIAN JAYA"
+  },
+  {
+    "id": 2181,
+    "name": "MANTA"
+  },
+  {
+    "id": 985,
+    "name": "MANZANILLO"
+  },
+  {
+    "id": 2904,
+    "name": "MANZANILLO, CU"
+  },
+  {
+    "id": 2170,
+    "name": "MANZANILLO, DO"
+  },
+  {
+    "id": 603,
+    "name": "MANZANILLO, MX"
+  },
+  {
+    "id": 644,
+    "name": "MAPUTO"
+  },
+  {
+    "id": 548,
+    "name": "MAR DEL PLATA"
+  },
+  {
+    "id": 1631,
+    "name": "MARACAIBO"
+  },
+  {
+    "id": 1903,
+    "name": "MARATHON"
+  },
+  {
+    "id": 1766,
+    "name": "MARCHE-LES-DAMES"
+  },
+  {
+    "id": 3012,
+    "name": "MARCHIENNE-AU-PONT"
+  },
+  {
+    "id": 1553,
+    "name": "MARCHWOOD"
+  },
+  {
+    "id": 2586,
+    "name": "MARCUS HOOK"
+  },
+  {
+    "id": 231,
+    "name": "MARGHERA"
+  },
+  {
+    "id": 2926,
+    "name": "MARIEHAMN (MAARIANHAMINA)"
+  },
+  {
+    "id": 3098,
+    "name": "MARIEL"
+  },
+  {
+    "id": 1255,
+    "name": "MARIN"
+  },
+  {
+    "id": 217,
+    "name": "MARINA DI CARRARA"
+  },
+  {
+    "id": 36148,
+    "name": "MARINE CITY"
+  },
+  {
+    "id": 3362,
+    "name": "MARINETTE"
+  },
+  {
+    "id": 1446,
+    "name": "MARIUPOL"
+  },
+  {
+    "id": 2820,
+    "name": "MARIVELES, LUZON"
+  },
+  {
+    "id": 1767,
+    "name": "MARLY"
+  },
+  {
+    "id": 2703,
+    "name": "MARMAGAO (MARMUGAO)"
+  },
+  {
+    "id": 1422,
+    "name": "MARMARA EREGLISI"
+  },
+  {
+    "id": 3348,
+    "name": "MARMARIS"
+  },
+  {
+    "id": 2587,
+    "name": "MARRERO LA"
+  },
+  {
+    "id": 25356,
+    "name": "MARSA BASHAYER"
+  },
+  {
+    "id": 491,
+    "name": "MARSA BREGA"
+  },
+  {
+    "id": 2775,
+    "name": "MARSA EL HARIGA"
+  },
+  {
+    "id": 218,
+    "name": "MARSALA"
+  },
+  {
+    "id": 525,
+    "name": "MARSAXLOKK"
+  },
+  {
+    "id": 730,
+    "name": "MARSDEN POINT"
+  },
+  {
+    "id": 2285,
+    "name": "MARSEILLE"
+  },
+  {
+    "id": 3260,
+    "name": "MARSTAL"
+  },
+  {
+    "id": 2970,
+    "name": "MARTAS"
+  },
+  {
+    "id": 2588,
+    "name": "MARTINEZ CA"
+  },
+  {
+    "id": 327,
+    "name": "MARUGAME"
+  },
+  {
+    "id": 1904,
+    "name": "MARYSTOWN"
+  },
+  {
+    "id": 36146,
+    "name": "MARYSVILLE, MI"
+  },
+  {
+    "id": 450,
+    "name": "MASAN"
+  },
+  {
+    "id": 2821,
+    "name": "MASINLOC/SUAL"
+  },
+  {
+    "id": 2917,
+    "name": "MASSAWA (MITSIWA)"
+  },
+  {
+    "id": 1768,
+    "name": "MASSENHOVEN"
+  },
+  {
+    "id": 2079,
+    "name": "MATADI"
+  },
+  {
+    "id": 3059,
+    "name": "MATANE"
+  },
+  {
+    "id": 3099,
+    "name": "MATANZAS, CU"
+  },
+  {
+    "id": 1632,
+    "name": "MATANZAS, VE"
+  },
+  {
+    "id": 1016,
+    "name": "MATARANI"
+  },
+  {
+    "id": 1686,
+    "name": "MATAUTU"
+  },
+  {
+    "id": 2822,
+    "name": "MATI, MINDANAO"
+  },
+  {
+    "id": 328,
+    "name": "MATSUNAGA"
+  },
+  {
+    "id": 329,
+    "name": "MATSUSAKA"
+  },
+  {
+    "id": 2762,
+    "name": "MATSUSHIMA, NAGASAKI"
+  },
+  {
+    "id": 2763,
+    "name": "MATSUURA, NAGASAKI"
+  },
+  {
+    "id": 330,
+    "name": "MATSUYAMA"
+  },
+  {
+    "id": 3303,
+    "name": "MAUBAN"
+  },
+  {
+    "id": 2730,
+    "name": "MAUMERE, FLORES"
+  },
+  {
+    "id": 3241,
+    "name": "MAWAN"
+  },
+  {
+    "id": 18877,
+    "name": "MAWEI PT"
+  },
+  {
+    "id": 651,
+    "name": "MAWLAMYINE"
+  },
+  {
+    "id": 1086,
+    "name": "MAYAGUEZ"
+  },
+  {
+    "id": 219,
+    "name": "MAZARA DEL VALLO"
+  },
+  {
+    "id": 604,
+    "name": "MAZATLAN"
+  },
+  {
+    "id": 1769,
+    "name": "MECHELEN"
+  },
+  {
+    "id": 1100,
+    "name": "MEDGIDIA"
+  },
+  {
+    "id": 1129,
+    "name": "MEDVEZHYEGORSK"
+  },
+  {
+    "id": 1770,
+    "name": "MEERHOUT"
+  },
+  {
+    "id": 47294,
+    "name": "MEERUSE"
+  },
+  {
+    "id": 3075,
+    "name": "MEJILLONES"
+  },
+  {
+    "id": 3190,
+    "name": "MEKAR PUTIH"
+  },
+  {
+    "id": 938,
+    "name": "MELBOURNE"
+  },
+  {
+    "id": 1256,
+    "name": "MELILLA"
+  },
+  {
+    "id": 2776,
+    "name": "MELLITAH (QASR AHMED)"
+  },
+  {
+    "id": 21424,
+    "name": "MELONES"
+  },
+  {
+    "id": 3361,
+    "name": "MENOMINEE"
+  },
+  {
+    "id": 688,
+    "name": "MEPPEL"
+  },
+  {
+    "id": 2731,
+    "name": "MERAK, JAVA"
+  },
+  {
+    "id": 107,
+    "name": "MERAUKE, IRIAN JAYA"
+  },
+  {
+    "id": 2589,
+    "name": "MERAUX"
+  },
+  {
+    "id": 3013,
+    "name": "MERKSEM"
+  },
+  {
+    "id": 2210,
+    "name": "MERS EL KEBIR"
+  },
+  {
+    "id": 1423,
+    "name": "MERSIN"
+  },
+  {
+    "id": 474,
+    "name": "MERSRAGS"
+  },
+  {
+    "id": 220,
+    "name": "MESSINA"
+  },
+  {
+    "id": 2211,
+    "name": "METHANIER"
+  },
+  {
+    "id": 1554,
+    "name": "METHIL"
+  },
+  {
+    "id": 2286,
+    "name": "METZ"
+  },
+  {
+    "id": 12376,
+    "name": "MEULABOH, SUMATRA"
+  },
+  {
+    "id": 2287,
+    "name": "MEZIERES-SUR-SEINE"
+  },
+  {
+    "id": 2590,
+    "name": "MIAMI"
+  },
+  {
+    "id": 36147,
+    "name": "MICHIGAN"
+  },
+  {
+    "id": 2897,
+    "name": "MICHILLA"
+  },
+  {
+    "id": 2144,
+    "name": "MIDDELFART"
+  },
+  {
+    "id": 689,
+    "name": "MIDDELHARNIS"
+  },
+  {
+    "id": 1555,
+    "name": "MIDDLESBROUGH"
+  },
+  {
+    "id": 1101,
+    "name": "MIDIA"
+  },
+  {
+    "id": 3293,
+    "name": "MIDSUND"
+  },
+  {
+    "id": 2974,
+    "name": "MIIDURANNA"
+  },
+  {
+    "id": 2764,
+    "name": "MIIKE, FUKUOKA"
+  },
+  {
+    "id": 221,
+    "name": "MILAZZO"
+  },
+  {
+    "id": 1556,
+    "name": "MILFORD HAVEN"
+  },
+  {
+    "id": 2432,
+    "name": "MILOS ISLAND"
+  },
+  {
+    "id": 2591,
+    "name": "MILWAUKEE"
+  },
+  {
+    "id": 468,
+    "name": "MINA ABD ALLAH"
+  },
+  {
+    "id": 469,
+    "name": "MINA' AL AHMADI"
+  },
+  {
+    "id": 2811,
+    "name": "MINA' AL FAHL"
+  },
+  {
+    "id": 1461,
+    "name": "MINA KHALID"
+  },
+  {
+    "id": 1462,
+    "name": "MINA KHALIFA"
+  },
+  {
+    "id": 1463,
+    "name": "MINA SAQR"
+  },
+  {
+    "id": 28440,
+    "name": "MINA SAUD"
+  },
+  {
+    "id": 1276,
+    "name": "MINA SULMAN"
+  },
+  {
+    "id": 2812,
+    "name": "MINA SULTAN QABOOS"
+  },
+  {
+    "id": 1464,
+    "name": "MINA ZAYED/ABU DHABI"
+  },
+  {
+    "id": 331,
+    "name": "MINAMATA"
+  },
+  {
+    "id": 605,
+    "name": "MINATITLAN"
+  },
+  {
+    "id": 2391,
+    "name": "MINDEN"
+  },
+  {
+    "id": 1168,
+    "name": "MIQUELON"
+  },
+  {
+    "id": 2484,
+    "name": "MIRAGOANE"
+  },
+  {
+    "id": 3165,
+    "name": "MIRI"
+  },
+  {
+    "id": 2765,
+    "name": "MISHIMA, KAWANOE"
+  },
+  {
+    "id": 3363,
+    "name": "MISSISSIPPI RIVER PORTS"
+  },
+  {
+    "id": 1557,
+    "name": "MISTLEY"
+  },
+  {
+    "id": 2766,
+    "name": "MISUMI, KUMAMOTO"
+  },
+  {
+    "id": 34611,
+    "name": "MISUMI, SHIMANE"
+  },
+  {
+    "id": 492,
+    "name": "MISURATA"
+  },
+  {
+    "id": 332,
+    "name": "MITAJIRI"
+  },
+  {
+    "id": 2767,
+    "name": "MIYAKO, IWATE"
+  },
+  {
+    "id": 333,
+    "name": "MIYAZU"
+  },
+  {
+    "id": 334,
+    "name": "MIZUSHIMA"
+  },
+  {
+    "id": 1361,
+    "name": "MKOANI"
+  },
+  {
+    "id": 12460,
+    "name": "MMK METALURJI"
+  },
+  {
+    "id": 819,
+    "name": "MO I RANA"
+  },
+  {
+    "id": 2108,
+    "name": "MOA"
+  },
+  {
+    "id": 2592,
+    "name": "MOBILE"
+  },
+  {
+    "id": 3291,
+    "name": "MOCIMBOA DA PRAIA"
+  },
+  {
+    "id": 47470,
+    "name": "MOENGO"
+  },
+  {
+    "id": 690,
+    "name": "MOERDIJK"
+  },
+  {
+    "id": 1218,
+    "name": "MOGADISHU"
+  },
+  {
+    "id": 637,
+    "name": "MOHAMMEDIA"
+  },
+  {
+    "id": 1771,
+    "name": "MOIGNELEE"
+  },
+  {
+    "id": 2768,
+    "name": "MOJI/KITAKYUSHU"
+  },
+  {
+    "id": 1691,
+    "name": "MOKHA"
+  },
+  {
+    "id": 451,
+    "name": "MOKPO"
+  },
+  {
+    "id": 1772,
+    "name": "MOL"
+  },
+  {
+    "id": 820,
+    "name": "MOLDE"
+  },
+  {
+    "id": 222,
+    "name": "MOLFETTA"
+  },
+  {
+    "id": 3279,
+    "name": "MOLORE"
+  },
+  {
+    "id": 3290,
+    "name": "MOMA"
+  },
+  {
+    "id": 424,
+    "name": "MOMBASA"
+  },
+  {
+    "id": 2769,
+    "name": "MONBETSU/ABASHIRI"
+  },
+  {
+    "id": 1773,
+    "name": "MONCEAU-SUR-SAMBRE"
+  },
+  {
+    "id": 165,
+    "name": "MONEYPOINT"
+  },
+  {
+    "id": 223,
+    "name": "MONFALCONE"
+  },
+  {
+    "id": 1366,
+    "name": "MONGLA"
+  },
+  {
+    "id": 821,
+    "name": "MONGSTAD"
+  },
+  {
+    "id": 224,
+    "name": "MONOPOLI"
+  },
+  {
+    "id": 487,
+    "name": "MONROVIA"
+  },
+  {
+    "id": 1774,
+    "name": "MONS"
+  },
+  {
+    "id": 1775,
+    "name": "MONSIN"
+  },
+  {
+    "id": 1313,
+    "name": "MONSTERAS"
+  },
+  {
+    "id": 253,
+    "name": "MONTEGO BAY"
+  },
+  {
+    "id": 34620,
+    "name": "MONTEVERDE"
+  },
+  {
+    "id": 1608,
+    "name": "MONTEVIDEO"
+  },
+  {
+    "id": 1776,
+    "name": "MONTIGNIES-SUR-SAMBRE"
+  },
+  {
+    "id": 2937,
+    "name": "MONTOIR-DE-BRETAGNE"
+  },
+  {
+    "id": 1905,
+    "name": "MONTREAL"
+  },
+  {
+    "id": 1558,
+    "name": "MONTROSE"
+  },
+  {
+    "id": 2593,
+    "name": "MOREHEAD CITY"
+  },
+  {
+    "id": 2594,
+    "name": "MORGAN CITY LA"
+  },
+  {
+    "id": 1777,
+    "name": "MORNIMONT"
+  },
+  {
+    "id": 2962,
+    "name": "MORON"
+  },
+  {
+    "id": 2076,
+    "name": "MORONI"
+  },
+  {
+    "id": 47159,
+    "name": "MOROWALI"
+  },
+  {
+    "id": 12374,
+    "name": "MORRISBURG"
+  },
+  {
+    "id": 3191,
+    "name": "MORRISVILLE, PA"
+  },
+  {
+    "id": 606,
+    "name": "MORRO REDONDO"
+  },
+  {
+    "id": 2288,
+    "name": "MORSANG-SUR-SEINE"
+  },
+  {
+    "id": 822,
+    "name": "MOSJOEN"
+  },
+  {
+    "id": 3314,
+    "name": "MOSKALVO"
+  },
+  {
+    "id": 1130,
+    "name": "MOSKVA"
+  },
+  {
+    "id": 823,
+    "name": "MOSS"
+  },
+  {
+    "id": 1223,
+    "name": "MOSSEL BAY"
+  },
+  {
+    "id": 2212,
+    "name": "MOSTAGANEM"
+  },
+  {
+    "id": 1559,
+    "name": "MOSTYN"
+  },
+  {
+    "id": 1257,
+    "name": "MOTRIL"
+  },
+  {
+    "id": 998,
+    "name": "MOTUKEA ISLAND"
+  },
+  {
+    "id": 939,
+    "name": "MOURILYAN"
+  },
+  {
+    "id": 1362,
+    "name": "MTWARA"
+  },
+  {
+    "id": 1870,
+    "name": "MUARA"
+  },
+  {
+    "id": 3205,
+    "name": "MUARA PANTAI"
+  },
+  {
+    "id": 3201,
+    "name": "MUARA SABAK"
+  },
+  {
+    "id": 49031,
+    "name": "MUBAREK TERMINAL"
+  },
+  {
+    "id": 3353,
+    "name": "MUBARRAS ISLAND"
+  },
+  {
+    "id": 3330,
+    "name": "MUGARDOS"
+  },
+  {
+    "id": 2813,
+    "name": "MUHAMMAD BIN QASIM"
+  },
+  {
+    "id": 1692,
+    "name": "MUKALLA"
+  },
+  {
+    "id": 2392,
+    "name": "MUKRAN"
+  },
+  {
+    "id": 59,
+    "name": "MUL DWARKA"
+  },
+  {
+    "id": 1906,
+    "name": "MULGRAVE"
+  },
+  {
+    "id": 60,
+    "name": "MUMBAI"
+  },
+  {
+    "id": 61,
+    "name": "MUNDRA"
+  },
+  {
+    "id": 3186,
+    "name": "MUNGUBA"
+  },
+  {
+    "id": 2393,
+    "name": "MUNSTER"
+  },
+  {
+    "id": 2732,
+    "name": "MUNTOK, BANKA"
+  },
+  {
+    "id": 1131,
+    "name": "MURMANSK"
+  },
+  {
+    "id": 335,
+    "name": "MURORAN"
+  },
+  {
+    "id": 874,
+    "name": "MUSCAT"
+  },
+  {
+    "id": 2595,
+    "name": "MUSKEGON"
+  },
+  {
+    "id": 1465,
+    "name": "MUSSAFAH"
+  },
+  {
+    "id": 2899,
+    "name": "MUTSAMUDU, ANJOUAN"
+  },
+  {
+    "id": 336,
+    "name": "MUTSUOGAWARA"
+  },
+  {
+    "id": 337,
+    "name": "MUTSURE"
+  },
+  {
+    "id": 2216,
+    "name": "MUUGA"
+  },
+  {
+    "id": 1665,
+    "name": "MY THOI"
+  },
+  {
+    "id": 2950,
+    "name": "MYLAKI"
+  },
+  {
+    "id": 3145,
+    "name": "MYRTLE GROVE"
+  },
+  {
+    "id": 2433,
+    "name": "MYTILENE"
+  },
+  {
+    "id": 2927,
+    "name": "NAANTALI (NADENDAL)"
+  },
+  {
+    "id": 1132,
+    "name": "NABEREZHNYYE CHELNY"
+  },
+  {
+    "id": 47518,
+    "name": "NABIRE"
+  },
+  {
+    "id": 645,
+    "name": "NACALA"
+  },
+  {
+    "id": 638,
+    "name": "NADOR"
+  },
+  {
+    "id": 3197,
+    "name": "NAFPLION"
+  },
+  {
+    "id": 13433,
+    "name": "NAGA"
+  },
+  {
+    "id": 338,
+    "name": "NAGAHAMA, EHIME"
+  },
+  {
+    "id": 2704,
+    "name": "NAGAPPATTINAM"
+  },
+  {
+    "id": 339,
+    "name": "NAGASAKI"
+  },
+  {
+    "id": 28445,
+    "name": "NAGASU, KUMAMOTO"
+  },
+  {
+    "id": 2770,
+    "name": "NAGOYA, AICHI"
+  },
+  {
+    "id": 2771,
+    "name": "NAHA, OKINAWA"
+  },
+  {
+    "id": 340,
+    "name": "NAKAGUSUKU"
+  },
+  {
+    "id": 341,
+    "name": "NAKANOSEKI"
+  },
+  {
+    "id": 1133,
+    "name": "NAKHODKA"
+  },
+  {
+    "id": 47511,
+    "name": "NAKNEK"
+  },
+  {
+    "id": 2145,
+    "name": "NAKSKOV"
+  },
+  {
+    "id": 1666,
+    "name": "NAM CAN"
+  },
+  {
+    "id": 1778,
+    "name": "NAMECHE"
+  },
+  {
+    "id": 5,
+    "name": "NAMIBE"
+  },
+  {
+    "id": 342,
+    "name": "NAMIKATA"
+  },
+  {
+    "id": 431,
+    "name": "NAMPO"
+  },
+  {
+    "id": 824,
+    "name": "NAMSOS"
+  },
+  {
+    "id": 1779,
+    "name": "NAMUR"
+  },
+  {
+    "id": 1907,
+    "name": "NANAIMO"
+  },
+  {
+    "id": 343,
+    "name": "NANAO"
+  },
+  {
+    "id": 607,
+    "name": "NANCHITAL"
+  },
+  {
+    "id": 1908,
+    "name": "NANISIVIK"
+  },
+  {
+    "id": 2018,
+    "name": "NANJING"
+  },
+  {
+    "id": 1909,
+    "name": "NANOOSE BAY"
+  },
+  {
+    "id": 2019,
+    "name": "NANSHA"
+  },
+  {
+    "id": 2289,
+    "name": "NANTERRE"
+  },
+  {
+    "id": 15556,
+    "name": "NANTES"
+  },
+  {
+    "id": 1910,
+    "name": "NANTICOKE"
+  },
+  {
+    "id": 2020,
+    "name": "NANTONG"
+  },
+  {
+    "id": 344,
+    "name": "NAOETSU"
+  },
+  {
+    "id": 345,
+    "name": "NAOSHIMA"
+  },
+  {
+    "id": 999,
+    "name": "NAPA NAPA"
+  },
+  {
+    "id": 731,
+    "name": "NAPIER"
+  },
+  {
+    "id": 3209,
+    "name": "NAPLES"
+  },
+  {
+    "id": 2752,
+    "name": "NAPOLI"
+  },
+  {
+    "id": 3305,
+    "name": "NARRA"
+  },
+  {
+    "id": 2457,
+    "name": "NARSAQ"
+  },
+  {
+    "id": 825,
+    "name": "NARVIK"
+  },
+  {
+    "id": 1134,
+    "name": "NARYAN MAR"
+  },
+  {
+    "id": 2999,
+    "name": "NASSAU"
+  },
+  {
+    "id": 2146,
+    "name": "NASTVED"
+  },
+  {
+    "id": 3199,
+    "name": "NATAL"
+  },
+  {
+    "id": 3060,
+    "name": "NATASHQUAN"
+  },
+  {
+    "id": 3310,
+    "name": "NAURU"
+  },
+  {
+    "id": 1850,
+    "name": "NAVEGANTES"
+  },
+  {
+    "id": 62,
+    "name": "NAVLAKHI"
+  },
+  {
+    "id": 12422,
+    "name": "NAWILIWILI, HI"
+  },
+  {
+    "id": 3264,
+    "name": "NEA KARVALI"
+  },
+  {
+    "id": 2434,
+    "name": "NEA MOUDHANIA"
+  },
+  {
+    "id": 48080,
+    "name": "NEAPOLIS"
+  },
+  {
+    "id": 3355,
+    "name": "NEATH"
+  },
+  {
+    "id": 1780,
+    "name": "NEERHAREN"
+  },
+  {
+    "id": 12419,
+    "name": "NEIAFU"
+  },
+  {
+    "id": 732,
+    "name": "NELSON"
+  },
+  {
+    "id": 1424,
+    "name": "NEMRUT BAY"
+  },
+  {
+    "id": 719,
+    "name": "NEPOUI"
+  },
+  {
+    "id": 22,
+    "name": "NESKAUPSTADUR"
+  },
+  {
+    "id": 2394,
+    "name": "NEUSS"
+  },
+  {
+    "id": 47392,
+    "name": "NEUSTADT"
+  },
+  {
+    "id": 1135,
+    "name": "NEVELSK"
+  },
+  {
+    "id": 2477,
+    "name": "NEW AMSTERDAM"
+  },
+  {
+    "id": 2596,
+    "name": "NEW BEDFORD"
+  },
+  {
+    "id": 2597,
+    "name": "NEW HAVEN CT"
+  },
+  {
+    "id": 1560,
+    "name": "NEW HOLLAND"
+  },
+  {
+    "id": 63,
+    "name": "NEW MANGALORE"
+  },
+  {
+    "id": 2598,
+    "name": "NEW ORLEANS"
+  },
+  {
+    "id": 733,
+    "name": "NEW PLYMOUTH"
+  },
+  {
+    "id": 1911,
+    "name": "NEW RICHMOND"
+  },
+  {
+    "id": 166,
+    "name": "NEW ROSS"
+  },
+  {
+    "id": 2599,
+    "name": "NEW YORK"
+  },
+  {
+    "id": 2600,
+    "name": "NEWARK NJ"
+  },
+  {
+    "id": 34608,
+    "name": "NEWBURGH (USA)"
+  },
+  {
+    "id": 940,
+    "name": "NEWCASTLE"
+  },
+  {
+    "id": 1912,
+    "name": "NEWCASTLE NB"
+  },
+  {
+    "id": 1561,
+    "name": "NEWCASTLE UPON TYNE"
+  },
+  {
+    "id": 1562,
+    "name": "NEWHAVEN"
+  },
+  {
+    "id": 3367,
+    "name": "NEWINGTON NH"
+  },
+  {
+    "id": 3006,
+    "name": "NEWPORT (ISLE OF WIGHT)"
+  },
+  {
+    "id": 1563,
+    "name": "NEWPORT (UKW)"
+  },
+  {
+    "id": 2601,
+    "name": "NEWPORT NEWS VA"
+  },
+  {
+    "id": 2602,
+    "name": "NEWPORT OR"
+  },
+  {
+    "id": 14669,
+    "name": "NEWPORT RI"
+  },
+  {
+    "id": 1667,
+    "name": "NGHE TINH"
+  },
+  {
+    "id": 1668,
+    "name": "NGHI SON"
+  },
+  {
+    "id": 2875,
+    "name": "NHA BE OIL PORT"
+  },
+  {
+    "id": 1669,
+    "name": "NHA TRANG"
+  },
+  {
+    "id": 2109,
+    "name": "NICARO"
+  },
+  {
+    "id": 2290,
+    "name": "NICE"
+  },
+  {
+    "id": 1781,
+    "name": "NIEL"
+  },
+  {
+    "id": 47387,
+    "name": "NIEUW NICKERIE"
+  },
+  {
+    "id": 691,
+    "name": "NIEUWDORP"
+  },
+  {
+    "id": 3014,
+    "name": "NIEUWPOORT"
+  },
+  {
+    "id": 2870,
+    "name": "NIGG"
+  },
+  {
+    "id": 346,
+    "name": "NIIGATA"
+  },
+  {
+    "id": 347,
+    "name": "NIIGATAHIGASHI"
+  },
+  {
+    "id": 348,
+    "name": "NIIHAMA"
+  },
+  {
+    "id": 692,
+    "name": "NIJMEGEN"
+  },
+  {
+    "id": 2603,
+    "name": "NIKISKI AK"
+  },
+  {
+    "id": 1447,
+    "name": "NIKOLAYEV"
+  },
+  {
+    "id": 2837,
+    "name": "NIKOLAYEVSK-NA-AMURE"
+  },
+  {
+    "id": 3082,
+    "name": "NINGBO"
+  },
+  {
+    "id": 3255,
+    "name": "NINGDE"
+  },
+  {
+    "id": 2110,
+    "name": "NIQUERO"
+  },
+  {
+    "id": 1693,
+    "name": "NISHTUN"
+  },
+  {
+    "id": 3029,
+    "name": "NITEROI"
+  },
+  {
+    "id": 1199,
+    "name": "NITTI"
+  },
+  {
+    "id": 47397,
+    "name": "NJARDVIK"
+  },
+  {
+    "id": 1314,
+    "name": "NOL (PORTS)"
+  },
+  {
+    "id": 3364,
+    "name": "NOME AK"
+  },
+  {
+    "id": 2395,
+    "name": "NORDENHAM"
+  },
+  {
+    "id": 2604,
+    "name": "NORFOLK"
+  },
+  {
+    "id": 49177,
+    "name": "NORFOLK"
+  },
+  {
+    "id": 1214,
+    "name": "NORO, NEW GEORGIA"
+  },
+  {
+    "id": 3108,
+    "name": "NORRESUNDBY"
+  },
+  {
+    "id": 1315,
+    "name": "NORRKOPING"
+  },
+  {
+    "id": 1316,
+    "name": "NORRSUNDET"
+  },
+  {
+    "id": 2458,
+    "name": "NORTH STAR BUGT"
+  },
+  {
+    "id": 1913,
+    "name": "NORTH SYDNEY NS"
+  },
+  {
+    "id": 48170,
+    "name": "NORTHPORT"
+  },
+  {
+    "id": 44463,
+    "name": "NORYSKALI"
+  },
+  {
+    "id": 349,
+    "name": "NOSHIRO"
+  },
+  {
+    "id": 583,
+    "name": "NOUADHIBOU"
+  },
+  {
+    "id": 584,
+    "name": "NOUAKCHOTT"
+  },
+  {
+    "id": 720,
+    "name": "NOUMEA"
+  },
+  {
+    "id": 1195,
+    "name": "NOVI SAD"
+  },
+  {
+    "id": 1136,
+    "name": "NOVOROSSIYSK"
+  },
+  {
+    "id": 47519,
+    "name": "NOVYY"
+  },
+  {
+    "id": 139,
+    "name": "NOW SHAHR"
+  },
+  {
+    "id": 2111,
+    "name": "NUEVA GERONA"
+  },
+  {
+    "id": 1609,
+    "name": "NUEVA PALMIRA"
+  },
+  {
+    "id": 3100,
+    "name": "NUEVITAS"
+  },
+  {
+    "id": 1381,
+    "name": "NUKU'ALOFA"
+  },
+  {
+    "id": 350,
+    "name": "NUMAZU"
+  },
+  {
+    "id": 108,
+    "name": "NUNUKAN"
+  },
+  {
+    "id": 2396,
+    "name": "NURNBERG"
+  },
+  {
+    "id": 2459,
+    "name": "NUUK"
+  },
+  {
+    "id": 2192,
+    "name": "NUWEIBA"
+  },
+  {
+    "id": 2147,
+    "name": "NYBORG"
+  },
+  {
+    "id": 826,
+    "name": "NYHAMNA"
+  },
+  {
+    "id": 3109,
+    "name": "NYKOBING FALSTER"
+  },
+  {
+    "id": 1317,
+    "name": "NYNASHAMN"
+  },
+  {
+    "id": 2605,
+    "name": "OAKLAND"
+  },
+  {
+    "id": 3061,
+    "name": "OAKVILLE"
+  },
+  {
+    "id": 3341,
+    "name": "OBBOLA"
+  },
+  {
+    "id": 1202,
+    "name": "OCEAN CAY"
+  },
+  {
+    "id": 1914,
+    "name": "OCEAN FALLS"
+  },
+  {
+    "id": 44464,
+    "name": "OCHAKOV"
+  },
+  {
+    "id": 254,
+    "name": "OCHO RIOS"
+  },
+  {
+    "id": 827,
+    "name": "ODDA"
+  },
+  {
+    "id": 3261,
+    "name": "ODDEN"
+  },
+  {
+    "id": 2148,
+    "name": "ODENSE"
+  },
+  {
+    "id": 1448,
+    "name": "ODESSA"
+  },
+  {
+    "id": 1066,
+    "name": "ODRA PORT"
+  },
+  {
+    "id": 1782,
+    "name": "OEVEL"
+  },
+  {
+    "id": 351,
+    "name": "OFUNATO"
+  },
+  {
+    "id": 2606,
+    "name": "OGDENSBURG"
+  },
+  {
+    "id": 28439,
+    "name": "OIGAWA"
+  },
+  {
+    "id": 352,
+    "name": "OITA"
+  },
+  {
+    "id": 452,
+    "name": "OKGYE/GANGNEUNG"
+  },
+  {
+    "id": 64,
+    "name": "OKHA"
+  },
+  {
+    "id": 49125,
+    "name": "OKHOTSK"
+  },
+  {
+    "id": 453,
+    "name": "OKPO/GEOJE"
+  },
+  {
+    "id": 750,
+    "name": "OKRIKA"
+  },
+  {
+    "id": 12693,
+    "name": "OLAFSVIK"
+  },
+  {
+    "id": 225,
+    "name": "OLBIA"
+  },
+  {
+    "id": 2397,
+    "name": "OLDENBURG"
+  },
+  {
+    "id": 1783,
+    "name": "OLEN, BE"
+  },
+  {
+    "id": 828,
+    "name": "OLEN, NO"
+  },
+  {
+    "id": 2235,
+    "name": "OLKILUOTO"
+  },
+  {
+    "id": 2398,
+    "name": "OLPENITZ"
+  },
+  {
+    "id": 1102,
+    "name": "OLTENITA"
+  },
+  {
+    "id": 2607,
+    "name": "OLYMPIA"
+  },
+  {
+    "id": 353,
+    "name": "OMAEZAKI"
+  },
+  {
+    "id": 47129,
+    "name": "OMASTRANDA"
+  },
+  {
+    "id": 354,
+    "name": "ONAGAWA"
+  },
+  {
+    "id": 355,
+    "name": "ONAHAMA"
+  },
+  {
+    "id": 1137,
+    "name": "ONEGA"
+  },
+  {
+    "id": 734,
+    "name": "ONEHUNGA"
+  },
+  {
+    "id": 751,
+    "name": "ONNE"
+  },
+  {
+    "id": 356,
+    "name": "ONODA"
+  },
+  {
+    "id": 357,
+    "name": "ONOMICHI"
+  },
+  {
+    "id": 358,
+    "name": "ONOMICHIITOZAKI"
+  },
+  {
+    "id": 3386,
+    "name": "ONRI"
+  },
+  {
+    "id": 941,
+    "name": "ONSLOW"
+  },
+  {
+    "id": 2608,
+    "name": "ONTONAGON"
+  },
+  {
+    "id": 693,
+    "name": "OOSTERHOUT"
+  },
+  {
+    "id": 48628,
+    "name": "OPL KHALIFA BIN SALMAN"
+  },
+  {
+    "id": 1017,
+    "name": "OQUENDO"
+  },
+  {
+    "id": 2213,
+    "name": "ORAN"
+  },
+  {
+    "id": 2609,
+    "name": "ORANGE"
+  },
+  {
+    "id": 743,
+    "name": "ORANJESTAD"
+  },
+  {
+    "id": 3349,
+    "name": "ORDU"
+  },
+  {
+    "id": 2149,
+    "name": "OREHOVED"
+  },
+  {
+    "id": 226,
+    "name": "ORISTANO"
+  },
+  {
+    "id": 829,
+    "name": "ORKANGER"
+  },
+  {
+    "id": 2823,
+    "name": "ORMOC/TACLOBAN"
+  },
+  {
+    "id": 1318,
+    "name": "ORNSKOLDSVIK"
+  },
+  {
+    "id": 2815,
+    "name": "OROBAY"
+  },
+  {
+    "id": 227,
+    "name": "ORTONA"
+  },
+  {
+    "id": 359,
+    "name": "OSAKA"
+  },
+  {
+    "id": 2883,
+    "name": "OSHAWA"
+  },
+  {
+    "id": 1319,
+    "name": "OSKARSHAMN"
+  },
+  {
+    "id": 830,
+    "name": "OSLO"
+  },
+  {
+    "id": 694,
+    "name": "OSS"
+  },
+  {
+    "id": 1784,
+    "name": "OSTEND"
+  },
+  {
+    "id": 3336,
+    "name": "OSTRAND"
+  },
+  {
+    "id": 2610,
+    "name": "OSTRICA"
+  },
+  {
+    "id": 2611,
+    "name": "OSWEGO"
+  },
+  {
+    "id": 360,
+    "name": "OTAKE"
+  },
+  {
+    "id": 361,
+    "name": "OTARU"
+  },
+  {
+    "id": 47746,
+    "name": "OTRANTO"
+  },
+  {
+    "id": 1320,
+    "name": "OTTERBACKEN"
+  },
+  {
+    "id": 3129,
+    "name": "OTTMARSHEIM"
+  },
+  {
+    "id": 3015,
+    "name": "OUDENAARDE"
+  },
+  {
+    "id": 1785,
+    "name": "OUGREE"
+  },
+  {
+    "id": 2928,
+    "name": "OULU"
+  },
+  {
+    "id": 1786,
+    "name": "OUPEYE"
+  },
+  {
+    "id": 1851,
+    "name": "OUTEIRO"
+  },
+  {
+    "id": 3016,
+    "name": "OVERPELT"
+  },
+  {
+    "id": 362,
+    "name": "OWASE"
+  },
+  {
+    "id": 3133,
+    "name": "OWENDO"
+  },
+  {
+    "id": 2612,
+    "name": "OWENSBORO"
+  },
+  {
+    "id": 1321,
+    "name": "OXELOSUND"
+  },
+  {
+    "id": 2824,
+    "name": "OZAMIS, MINDANAO"
+  },
+  {
+    "id": 1018,
+    "name": "PACASMAYO"
+  },
+  {
+    "id": 3142,
+    "name": "PACHI"
+  },
+  {
+    "id": 2613,
+    "name": "PADUCAH"
+  },
+  {
+    "id": 1052,
+    "name": "PAGBILAO"
+  },
+  {
+    "id": 2733,
+    "name": "PAGERUNGAN"
+  },
+  {
+    "id": 2321,
+    "name": "PAGO PAGO"
+  },
+  {
+    "id": 1019,
+    "name": "PAITA"
+  },
+  {
+    "id": 2614,
+    "name": "PALACIOS"
+  },
+  {
+    "id": 1258,
+    "name": "PALAMOS"
+  },
+  {
+    "id": 2735,
+    "name": "PALAPO, SULAWESI"
+  },
+  {
+    "id": 2217,
+    "name": "PALDISKI"
+  },
+  {
+    "id": 2734,
+    "name": "PALEMBANG, SUMATRA"
+  },
+  {
+    "id": 228,
+    "name": "PALERMO"
+  },
+  {
+    "id": 2615,
+    "name": "PALM BEACH"
+  },
+  {
+    "id": 2848,
+    "name": "PALMA DE MALLORCA"
+  },
+  {
+    "id": 2892,
+    "name": "PALMEIRA"
+  },
+  {
+    "id": 2112,
+    "name": "PALO ALTO"
+  },
+  {
+    "id": 1633,
+    "name": "PALUA"
+  },
+  {
+    "id": 3299,
+    "name": "PAMPA MELCHORITA"
+  },
+  {
+    "id": 1053,
+    "name": "PANACAN/DAVAO"
+  },
+  {
+    "id": 65,
+    "name": "PANAJI"
+  },
+  {
+    "id": 3180,
+    "name": "PANAMA CANAL"
+  },
+  {
+    "id": 2616,
+    "name": "PANAMA CITY"
+  },
+  {
+    "id": 1196,
+    "name": "PANCEVO"
+  },
+  {
+    "id": 2736,
+    "name": "PANGKAL BALAM, BANKA"
+  },
+  {
+    "id": 2737,
+    "name": "PANGKALAN SUSU, SUMATRA"
+  },
+  {
+    "id": 12744,
+    "name": "PANGKALANBUUN"
+  },
+  {
+    "id": 109,
+    "name": "PANJANG"
+  },
+  {
+    "id": 12375,
+    "name": "PANJIN"
+  },
+  {
+    "id": 2738,
+    "name": "PANTOLOAN, SV"
+  },
+  {
+    "id": 2319,
+    "name": "PAPEETE"
+  },
+  {
+    "id": 2399,
+    "name": "PAPENBURG"
+  },
+  {
+    "id": 1564,
+    "name": "PAR"
+  },
+  {
+    "id": 66,
+    "name": "PARADIP"
+  },
+  {
+    "id": 1278,
+    "name": "PARAMARIBO"
+  },
+  {
+    "id": 549,
+    "name": "PARANA"
+  },
+  {
+    "id": 1852,
+    "name": "PARANAGUA"
+  },
+  {
+    "id": 1279,
+    "name": "PARANAM"
+  },
+  {
+    "id": 110,
+    "name": "PARE PARE"
+  },
+  {
+    "id": 3119,
+    "name": "PARGAS (PARAINEN)"
+  },
+  {
+    "id": 2291,
+    "name": "PARIS"
+  },
+  {
+    "id": 2218,
+    "name": "PARNU"
+  },
+  {
+    "id": 2435,
+    "name": "PAROS"
+  },
+  {
+    "id": 47749,
+    "name": "PASACAO"
+  },
+  {
+    "id": 49180,
+    "name": "PASADENA "
+  },
+  {
+    "id": 2617,
+    "name": "PASADENA"
+  },
+  {
+    "id": 1259,
+    "name": "PASAJES"
+  },
+  {
+    "id": 2618,
+    "name": "PASCAGOULA"
+  },
+  {
+    "id": 2619,
+    "name": "PASCO"
+  },
+  {
+    "id": 512,
+    "name": "PASIR GUDANG, JOHOR"
+  },
+  {
+    "id": 2436,
+    "name": "PATMOS"
+  },
+  {
+    "id": 2437,
+    "name": "PATRAS"
+  },
+  {
+    "id": 2292,
+    "name": "PAUILLAC"
+  },
+  {
+    "id": 2620,
+    "name": "PAULSBORO"
+  },
+  {
+    "id": 1610,
+    "name": "PAYSANDU"
+  },
+  {
+    "id": 3371,
+    "name": "PEARL HARBOR"
+  },
+  {
+    "id": 1853,
+    "name": "PECEM"
+  },
+  {
+    "id": 3357,
+    "name": "PEEL, ISLE OF MAN"
+  },
+  {
+    "id": 2717,
+    "name": "PELABUHAN FUTONG TERMINAL"
+  },
+  {
+    "id": 1854,
+    "name": "PELOTAS"
+  },
+  {
+    "id": 646,
+    "name": "PEMBA"
+  },
+  {
+    "id": 1565,
+    "name": "PEMBROKE"
+  },
+  {
+    "id": 513,
+    "name": "PENANG"
+  },
+  {
+    "id": 3232,
+    "name": "PENGERANG"
+  },
+  {
+    "id": 2898,
+    "name": "PENGLAI"
+  },
+  {
+    "id": 942,
+    "name": "PENNESHAW"
+  },
+  {
+    "id": 2621,
+    "name": "PENNSAUKEN"
+  },
+  {
+    "id": 2622,
+    "name": "PENSACOLA"
+  },
+  {
+    "id": 3309,
+    "name": "PENUELAS"
+  },
+  {
+    "id": 1200,
+    "name": "PEPEL"
+  },
+  {
+    "id": 2438,
+    "name": "PERAMA"
+  },
+  {
+    "id": 695,
+    "name": "PERNIS"
+  },
+  {
+    "id": 1566,
+    "name": "PERTH"
+  },
+  {
+    "id": 2623,
+    "name": "PERTH AMBOY"
+  },
+  {
+    "id": 1634,
+    "name": "PERTIGALETE"
+  },
+  {
+    "id": 2871,
+    "name": "PETERHEAD"
+  },
+  {
+    "id": 2624,
+    "name": "PETERSBURG"
+  },
+  {
+    "id": 2293,
+    "name": "PETIT COURONNE"
+  },
+  {
+    "id": 1138,
+    "name": "PETROPAVLOVSK-KAMCHATSKIY"
+  },
+  {
+    "id": 1139,
+    "name": "PEVEK"
+  },
+  {
+    "id": 2981,
+    "name": "PHILADELPHIA PA"
+  },
+  {
+    "id": 1823,
+    "name": "PHILIPSBURG"
+  },
+  {
+    "id": 3034,
+    "name": "PHNOM PENH"
+  },
+  {
+    "id": 2625,
+    "name": "PHOENIX CITY"
+  },
+  {
+    "id": 1670,
+    "name": "PHU MY"
+  },
+  {
+    "id": 1372,
+    "name": "PHUKET"
+  },
+  {
+    "id": 608,
+    "name": "PICHILINGUE"
+  },
+  {
+    "id": 735,
+    "name": "PICTON"
+  },
+  {
+    "id": 12505,
+    "name": "PICTON ON"
+  },
+  {
+    "id": 3062,
+    "name": "PICTOU"
+  },
+  {
+    "id": 550,
+    "name": "PILCOMAYO"
+  },
+  {
+    "id": 1020,
+    "name": "PIMENTEL"
+  },
+  {
+    "id": 2626,
+    "name": "PINEY POINT"
+  },
+  {
+    "id": 943,
+    "name": "PINKENBA"
+  },
+  {
+    "id": 229,
+    "name": "PIOMBINO"
+  },
+  {
+    "id": 67,
+    "name": "PIPAVAV"
+  },
+  {
+    "id": 2439,
+    "name": "PIRAEUS"
+  },
+  {
+    "id": 1322,
+    "name": "PITEA"
+  },
+  {
+    "id": 2627,
+    "name": "PITTSBURG, CA"
+  },
+  {
+    "id": 2628,
+    "name": "PITTSBURGH, PA"
+  },
+  {
+    "id": 2739,
+    "name": "PLAJU, SUMATRA"
+  },
+  {
+    "id": 2958,
+    "name": "PLAQUEMINE"
+  },
+  {
+    "id": 2089,
+    "name": "PLOCE"
+  },
+  {
+    "id": 2090,
+    "name": "PLOMIN"
+  },
+  {
+    "id": 1567,
+    "name": "PLYMOUTH, GB"
+  },
+  {
+    "id": 628,
+    "name": "PLYMOUTH, MS"
+  },
+  {
+    "id": 454,
+    "name": "POHANG"
+  },
+  {
+    "id": 622,
+    "name": "POHNPEI"
+  },
+  {
+    "id": 585,
+    "name": "POINT CENTRAL"
+  },
+  {
+    "id": 2629,
+    "name": "POINT COMFORT"
+  },
+  {
+    "id": 1383,
+    "name": "POINT FORTIN"
+  },
+  {
+    "id": 944,
+    "name": "POINT HENRY PIER/MELBOURNE"
+  },
+  {
+    "id": 1384,
+    "name": "POINT LISAS"
+  },
+  {
+    "id": 1915,
+    "name": "POINT TUPPER"
+  },
+  {
+    "id": 2630,
+    "name": "POINT WELLS"
+  },
+  {
+    "id": 945,
+    "name": "POINT WILSON"
+  },
+  {
+    "id": 1385,
+    "name": "POINTE A PIERRE"
+  },
+  {
+    "id": 2077,
+    "name": "POINTE NOIRE"
+  },
+  {
+    "id": 2884,
+    "name": "POINTE NOIRE QC"
+  },
+  {
+    "id": 2467,
+    "name": "POINTE-A-PITRE"
+  },
+  {
+    "id": 1916,
+    "name": "POINTE-AUX-TREMBLES"
+  },
+  {
+    "id": 1067,
+    "name": "POLICE"
+  },
+  {
+    "id": 3211,
+    "name": "POLIPORT"
+  },
+  {
+    "id": 43323,
+    "name": "POLLOC"
+  },
+  {
+    "id": 43133,
+    "name": "POLLOC"
+  },
+  {
+    "id": 2740,
+    "name": "POMALAA, SULAWESI"
+  },
+  {
+    "id": 1087,
+    "name": "PONCE"
+  },
+  {
+    "id": 1078,
+    "name": "PONTA DELGADA"
+  },
+  {
+    "id": 1855,
+    "name": "PONTA UBU"
+  },
+  {
+    "id": 1787,
+    "name": "PONT-DE-LOUP"
+  },
+  {
+    "id": 2741,
+    "name": "PONTIANAK, KALIMANTAN"
+  },
+  {
+    "id": 2294,
+    "name": "PONTRIEUX"
+  },
+  {
+    "id": 2295,
+    "name": "PONT-SAINTE-MAXENCE"
+  },
+  {
+    "id": 1568,
+    "name": "POOLE"
+  },
+  {
+    "id": 68,
+    "name": "PORBANDAR"
+  },
+  {
+    "id": 3120,
+    "name": "PORI"
+  },
+  {
+    "id": 2995,
+    "name": "PORO/SAN FERNANDO"
+  },
+  {
+    "id": 831,
+    "name": "PORSGRUNN"
+  },
+  {
+    "id": 946,
+    "name": "PORT ADELAIDE"
+  },
+  {
+    "id": 1917,
+    "name": "PORT ALBERNI"
+  },
+  {
+    "id": 3063,
+    "name": "PORT ALICE"
+  },
+  {
+    "id": 2631,
+    "name": "PORT ALLEN HI"
+  },
+  {
+    "id": 2632,
+    "name": "PORT ALLEN LA"
+  },
+  {
+    "id": 947,
+    "name": "PORT ALMA"
+  },
+  {
+    "id": 1683,
+    "name": "PORT ALUCROIX"
+  },
+  {
+    "id": 2633,
+    "name": "PORT ANGELES WA"
+  },
+  {
+    "id": 255,
+    "name": "PORT ANTONIO"
+  },
+  {
+    "id": 2634,
+    "name": "PORT ARANSAS TX"
+  },
+  {
+    "id": 2635,
+    "name": "PORT ARTHUR TX"
+  },
+  {
+    "id": 69,
+    "name": "PORT BLAIR"
+  },
+  {
+    "id": 2959,
+    "name": "PORT BOLIVAR"
+  },
+  {
+    "id": 948,
+    "name": "PORT BONYTHON"
+  },
+  {
+    "id": 949,
+    "name": "PORT BOTANY"
+  },
+  {
+    "id": 2636,
+    "name": "PORT CANAVERAL"
+  },
+  {
+    "id": 736,
+    "name": "PORT CHALMERS"
+  },
+  {
+    "id": 3065,
+    "name": "PORT COLBORNE"
+  },
+  {
+    "id": 950,
+    "name": "PORT CURTIS"
+  },
+  {
+    "id": 2296,
+    "name": "PORT DE BOUC"
+  },
+  {
+    "id": 3174,
+    "name": "PORT DE POINTE DES GALETS"
+  },
+  {
+    "id": 514,
+    "name": "PORT DICKSON"
+  },
+  {
+    "id": 1224,
+    "name": "PORT ELIZABETH"
+  },
+  {
+    "id": 1171,
+    "name": "PORT ELIZABETH, BEQUIA"
+  },
+  {
+    "id": 256,
+    "name": "PORT ESQUIVEL"
+  },
+  {
+    "id": 2637,
+    "name": "PORT EVERGLADES FL"
+  },
+  {
+    "id": 2638,
+    "name": "PORT FOURCHON"
+  },
+  {
+    "id": 2639,
+    "name": "PORT GAMBLE WA"
+  },
+  {
+    "id": 3134,
+    "name": "PORT GENTIL"
+  },
+  {
+    "id": 951,
+    "name": "PORT GILES"
+  },
+  {
+    "id": 752,
+    "name": "PORT HARCOURT"
+  },
+  {
+    "id": 1918,
+    "name": "PORT HAWKESBURY"
+  },
+  {
+    "id": 952,
+    "name": "PORT HEDLAND"
+  },
+  {
+    "id": 2640,
+    "name": "PORT HUENEME"
+  },
+  {
+    "id": 40648,
+    "name": "PORT HUON"
+  },
+  {
+    "id": 2641,
+    "name": "PORT ISABEL"
+  },
+  {
+    "id": 2642,
+    "name": "PORT JEFFERSON NY"
+  },
+  {
+    "id": 2297,
+    "name": "PORT JEROME"
+  },
+  {
+    "id": 257,
+    "name": "PORT KAISER"
+  },
+  {
+    "id": 3208,
+    "name": "PORT KAMSAR"
+  },
+  {
+    "id": 953,
+    "name": "PORT KEMBLA"
+  },
+  {
+    "id": 2785,
+    "name": "PORT KLANG (PELABUHAN KLANG)"
+  },
+  {
+    "id": 954,
+    "name": "PORT LATTA"
+  },
+  {
+    "id": 2643,
+    "name": "PORT LAVACA"
+  },
+  {
+    "id": 955,
+    "name": "PORT LINCOLN"
+  },
+  {
+    "id": 586,
+    "name": "PORT LOUIS"
+  },
+  {
+    "id": 2644,
+    "name": "PORT MACKENZIE"
+  },
+  {
+    "id": 1919,
+    "name": "PORT MAITLAND"
+  },
+  {
+    "id": 2645,
+    "name": "PORT MANATEE"
+  },
+  {
+    "id": 587,
+    "name": "PORT MATHURIN"
+  },
+  {
+    "id": 956,
+    "name": "PORT MELBOURNE"
+  },
+  {
+    "id": 1920,
+    "name": "PORT MELLON"
+  },
+  {
+    "id": 1921,
+    "name": "PORT MOODY/VANCOUVER"
+  },
+  {
+    "id": 1000,
+    "name": "PORT MORESBY"
+  },
+  {
+    "id": 2646,
+    "name": "PORT NECHES TX"
+  },
+  {
+    "id": 2647,
+    "name": "PORT NEWARK NJ"
+  },
+  {
+    "id": 1225,
+    "name": "PORT NOLLOTH"
+  },
+  {
+    "id": 629,
+    "name": "PORT OF LITTLE BAY"
+  },
+  {
+    "id": 957,
+    "name": "PORT PHILLIP BAY"
+  },
+  {
+    "id": 958,
+    "name": "PORT PIRIE"
+  },
+  {
+    "id": 1068,
+    "name": "PORT POLNOCNY"
+  },
+  {
+    "id": 1466,
+    "name": "PORT RASHID"
+  },
+  {
+    "id": 2648,
+    "name": "PORT READING NJ"
+  },
+  {
+    "id": 258,
+    "name": "PORT RHOADES"
+  },
+  {
+    "id": 2649,
+    "name": "PORT ROYAL SC"
+  },
+  {
+    "id": 2193,
+    "name": "PORT SAID"
+  },
+  {
+    "id": 504,
+    "name": "PORT SAINT LOUIS"
+  },
+  {
+    "id": 2650,
+    "name": "PORT SAN LUIS CA"
+  },
+  {
+    "id": 2221,
+    "name": "PORT STANLEY"
+  },
+  {
+    "id": 1922,
+    "name": "PORT STANLEY ON"
+  },
+  {
+    "id": 1277,
+    "name": "PORT SUDAN"
+  },
+  {
+    "id": 1569,
+    "name": "PORT TALBOT"
+  },
+  {
+    "id": 2194,
+    "name": "PORT TEWFIK"
+  },
+  {
+    "id": 2651,
+    "name": "PORT TOWNSEND"
+  },
+  {
+    "id": 2298,
+    "name": "PORT VENDRES"
+  },
+  {
+    "id": 1197,
+    "name": "PORT VICTORIA"
+  },
+  {
+    "id": 1613,
+    "name": "PORT VILA"
+  },
+  {
+    "id": 959,
+    "name": "PORT WALCOTT"
+  },
+  {
+    "id": 3066,
+    "name": "PORT WELLER"
+  },
+  {
+    "id": 2652,
+    "name": "PORT WENTWORTH"
+  },
+  {
+    "id": 2885,
+    "name": "PORT-ALFRED"
+  },
+  {
+    "id": 2485,
+    "name": "PORT-AU-PRINCE"
+  },
+  {
+    "id": 1570,
+    "name": "PORTBURY"
+  },
+  {
+    "id": 3064,
+    "name": "PORT-CARTIER"
+  },
+  {
+    "id": 47598,
+    "name": "PORT-DANIEL - GASCONS"
+  },
+  {
+    "id": 3306,
+    "name": "PORTIMAO"
+  },
+  {
+    "id": 2653,
+    "name": "PORTLAND ME"
+  },
+  {
+    "id": 2654,
+    "name": "PORTLAND OR"
+  },
+  {
+    "id": 960,
+    "name": "PORTLAND, AU"
+  },
+  {
+    "id": 1571,
+    "name": "PORTLAND, UK"
+  },
+  {
+    "id": 2299,
+    "name": "PORT-LA-NOUVELLE"
+  },
+  {
+    "id": 1856,
+    "name": "PORTO ALEGRE"
+  },
+  {
+    "id": 6,
+    "name": "PORTO ALEXANDRE"
+  },
+  {
+    "id": 7,
+    "name": "PORTO AMBOIM"
+  },
+  {
+    "id": 1857,
+    "name": "PORTO CHIBATAO"
+  },
+  {
+    "id": 2879,
+    "name": "PORTO DE ITAGUAI"
+  },
+  {
+    "id": 13430,
+    "name": "PORTO DO ACU"
+  },
+  {
+    "id": 230,
+    "name": "PORTO EMPEDOCLE"
+  },
+  {
+    "id": 232,
+    "name": "PORTO NOGARO"
+  },
+  {
+    "id": 8,
+    "name": "PORTO SACO (PORTOSALAZAR)"
+  },
+  {
+    "id": 233,
+    "name": "PORTO SANTO STEFANO"
+  },
+  {
+    "id": 234,
+    "name": "PORTO TORRES"
+  },
+  {
+    "id": 1858,
+    "name": "PORTO TROMBETAS"
+  },
+  {
+    "id": 1942,
+    "name": "PORTO VALE DE CAVALEIROS"
+  },
+  {
+    "id": 1859,
+    "name": "PORTOCEL"
+  },
+  {
+    "id": 1386,
+    "name": "PORT-OF-SPAIN"
+  },
+  {
+    "id": 2753,
+    "name": "PORTOSCUSO (PORTO VESME)"
+  },
+  {
+    "id": 2300,
+    "name": "PORT-SAINT-LOUIS-DU-RHONE"
+  },
+  {
+    "id": 1572,
+    "name": "PORTSMOUTH"
+  },
+  {
+    "id": 2655,
+    "name": "PORTSMOUTH NH"
+  },
+  {
+    "id": 2656,
+    "name": "PORTSMOUTH VA"
+  },
+  {
+    "id": 2929,
+    "name": "PORVOO"
+  },
+  {
+    "id": 551,
+    "name": "POSADAS"
+  },
+  {
+    "id": 47510,
+    "name": "POSO, SULAWESI"
+  },
+  {
+    "id": 2182,
+    "name": "POSORJA"
+  },
+  {
+    "id": 1140,
+    "name": "POSYET"
+  },
+  {
+    "id": 2326,
+    "name": "POTI"
+  },
+  {
+    "id": 2400,
+    "name": "POTSDAM"
+  },
+  {
+    "id": 44310,
+    "name": "POZOS COLORADOS"
+  },
+  {
+    "id": 235,
+    "name": "POZZALLO"
+  },
+  {
+    "id": 236,
+    "name": "POZZUOLI"
+  },
+  {
+    "id": 2856,
+    "name": "PRACHUAP KHIRI KHAN"
+  },
+  {
+    "id": 2894,
+    "name": "PRAIA"
+  },
+  {
+    "id": 1079,
+    "name": "PRAIA DA VITORIA"
+  },
+  {
+    "id": 2301,
+    "name": "PRECY-SUR-MARNE"
+  },
+  {
+    "id": 1923,
+    "name": "PRESCOTT"
+  },
+  {
+    "id": 2113,
+    "name": "PRESTON"
+  },
+  {
+    "id": 2952,
+    "name": "PREVEZA/LEFKAS"
+  },
+  {
+    "id": 47582,
+    "name": "PRIGORODNOYE"
+  },
+  {
+    "id": 2838,
+    "name": "PRIMORSK (KOIVISTO)"
+  },
+  {
+    "id": 3067,
+    "name": "PRINCE RUPERT"
+  },
+  {
+    "id": 2754,
+    "name": "PRIOLO GARGALLO"
+  },
+  {
+    "id": 2742,
+    "name": "PROBOLINGGO, JAVA"
+  },
+  {
+    "id": 609,
+    "name": "PROGRESO"
+  },
+  {
+    "id": 721,
+    "name": "PRONY"
+  },
+  {
+    "id": 2302,
+    "name": "PROPRIANO"
+  },
+  {
+    "id": 2657,
+    "name": "PROVIDENCE"
+  },
+  {
+    "id": 1436,
+    "name": "PROVIDENCIALES"
+  },
+  {
+    "id": 1141,
+    "name": "PROVIDENIYA, BUKHTA"
+  },
+  {
+    "id": 47341,
+    "name": "PROVINCETOWN"
+  },
+  {
+    "id": 2440,
+    "name": "PSAKHNA"
+  },
+  {
+    "id": 12417,
+    "name": "PUEBLA DEL CARAMINAL"
+  },
+  {
+    "id": 552,
+    "name": "PUERTO ACEVEDO"
+  },
+  {
+    "id": 986,
+    "name": "PUERTO ARMUELLES"
+  },
+  {
+    "id": 12741,
+    "name": "PUERTO BAHIA"
+  },
+  {
+    "id": 2469,
+    "name": "PUERTO BARRIOS"
+  },
+  {
+    "id": 553,
+    "name": "PUERTO BELGRANO"
+  },
+  {
+    "id": 3090,
+    "name": "PUERTO BOLIVAR, CO"
+  },
+  {
+    "id": 2183,
+    "name": "PUERTO BOLIVAR, EC"
+  },
+  {
+    "id": 554,
+    "name": "PUERTO BORGHI"
+  },
+  {
+    "id": 15690,
+    "name": "PUERTO BRISA"
+  },
+  {
+    "id": 1635,
+    "name": "PUERTO CABELLO"
+  },
+  {
+    "id": 15607,
+    "name": "PUERTO CABEZAS"
+  },
+  {
+    "id": 49196,
+    "name": "PUERTO CARENERO"
+  },
+  {
+    "id": 1636,
+    "name": "PUERTO CARENERO"
+  },
+  {
+    "id": 2487,
+    "name": "PUERTO CASTILLA"
+  },
+  {
+    "id": 1958,
+    "name": "PUERTO CHACABUCO"
+  },
+  {
+    "id": 610,
+    "name": "PUERTO CHIAPAS"
+  },
+  {
+    "id": 1021,
+    "name": "PUERTO CHICAMA"
+  },
+  {
+    "id": 2488,
+    "name": "PUERTO CORTES"
+  },
+  {
+    "id": 1637,
+    "name": "PUERTO CUMAREBO"
+  },
+  {
+    "id": 3103,
+    "name": "PUERTO DA VITA"
+  },
+  {
+    "id": 1638,
+    "name": "PUERTO DE HIERRO"
+  },
+  {
+    "id": 555,
+    "name": "PUERTO DESEADO"
+  },
+  {
+    "id": 556,
+    "name": "PUERTO GALVAN"
+  },
+  {
+    "id": 557,
+    "name": "PUERTO INGENIERO ROCCA"
+  },
+  {
+    "id": 1639,
+    "name": "PUERTO LA CRUZ"
+  },
+  {
+    "id": 611,
+    "name": "PUERTO LIBERTAD"
+  },
+  {
+    "id": 2901,
+    "name": "PUERTO LIMON"
+  },
+  {
+    "id": 558,
+    "name": "PUERTO MADRYN"
+  },
+  {
+    "id": 2903,
+    "name": "PUERTO MANATI"
+  },
+  {
+    "id": 2082,
+    "name": "PUERTO MOIN"
+  },
+  {
+    "id": 1959,
+    "name": "PUERTO MONTT"
+  },
+  {
+    "id": 1960,
+    "name": "PUERTO NATALES"
+  },
+  {
+    "id": 1640,
+    "name": "PUERTO ORDAZ"
+  },
+  {
+    "id": 3101,
+    "name": "PUERTO PADRE"
+  },
+  {
+    "id": 1961,
+    "name": "PUERTO PATACHE"
+  },
+  {
+    "id": 3188,
+    "name": "PUERTO PLATA"
+  },
+  {
+    "id": 3376,
+    "name": "PUERTO PRINCESA"
+  },
+  {
+    "id": 3214,
+    "name": "PUERTO PRODECO"
+  },
+  {
+    "id": 559,
+    "name": "PUERTO QUEQUEN"
+  },
+  {
+    "id": 2470,
+    "name": "PUERTO QUETZAL"
+  },
+  {
+    "id": 560,
+    "name": "PUERTO ROSALES"
+  },
+  {
+    "id": 2849,
+    "name": "PUERTO ROSARIO"
+  },
+  {
+    "id": 2991,
+    "name": "PUERTO SANDINO"
+  },
+  {
+    "id": 1641,
+    "name": "PUERTO SUCRE"
+  },
+  {
+    "id": 2171,
+    "name": "PUERTO VIEJO DE AZUA"
+  },
+  {
+    "id": 1962,
+    "name": "PUERTO WILLIAMS"
+  },
+  {
+    "id": 2091,
+    "name": "PULA"
+  },
+  {
+    "id": 1205,
+    "name": "PULAN AYER CHAWAN"
+  },
+  {
+    "id": 1206,
+    "name": "PULAU BUKOM"
+  },
+  {
+    "id": 1207,
+    "name": "PULAU BUSING"
+  },
+  {
+    "id": 1208,
+    "name": "PULAU MERLIMAU"
+  },
+  {
+    "id": 2743,
+    "name": "PULAU SAMBU, RIAU"
+  },
+  {
+    "id": 1209,
+    "name": "PULAU SERAYA"
+  },
+  {
+    "id": 15605,
+    "name": "PULUPANDAN"
+  },
+  {
+    "id": 3076,
+    "name": "PUNTA ARENAS"
+  },
+  {
+    "id": 1642,
+    "name": "PUNTA CAMACHO"
+  },
+  {
+    "id": 1643,
+    "name": "PUNTA CARDON"
+  },
+  {
+    "id": 3194,
+    "name": "PUNTA CHUNGO"
+  },
+  {
+    "id": 561,
+    "name": "PUNTA COLORADA"
+  },
+  {
+    "id": 1644,
+    "name": "PUNTA CUCHILLO"
+  },
+  {
+    "id": 1611,
+    "name": "PUNTA DEL ESTE"
+  },
+  {
+    "id": 1022,
+    "name": "PUNTA LOBITOS"
+  },
+  {
+    "id": 562,
+    "name": "PUNTA LOYOLA"
+  },
+  {
+    "id": 2083,
+    "name": "PUNTA MORALES"
+  },
+  {
+    "id": 12558,
+    "name": "PUNTA PEREYRA"
+  },
+  {
+    "id": 563,
+    "name": "PUNTA QUILLA"
+  },
+  {
+    "id": 3252,
+    "name": "PUNTA TOTORALILLO"
+  },
+  {
+    "id": 612,
+    "name": "PUNTA VENADO"
+  },
+  {
+    "id": 1645,
+    "name": "PUNTO FIJO"
+  },
+  {
+    "id": 3242,
+    "name": "PUTIAN"
+  },
+  {
+    "id": 3331,
+    "name": "PUTTALAM"
+  },
+  {
+    "id": 2401,
+    "name": "PUTTGARDEN"
+  },
+  {
+    "id": 1788,
+    "name": "PUURS"
+  },
+  {
+    "id": 455,
+    "name": "PYEONGTAEK"
+  },
+  {
+    "id": 875,
+    "name": "QALHAT"
+  },
+  {
+    "id": 2460,
+    "name": "QAQORTOQ"
+  },
+  {
+    "id": 2461,
+    "name": "QEQERTARSUAQ"
+  },
+  {
+    "id": 140,
+    "name": "QESHM ISLAND"
+  },
+  {
+    "id": 2021,
+    "name": "QIANWAN"
+  },
+  {
+    "id": 2022,
+    "name": "QIDONG"
+  },
+  {
+    "id": 2023,
+    "name": "QINGDAO"
+  },
+  {
+    "id": 2024,
+    "name": "QINHUANGDAO"
+  },
+  {
+    "id": 2025,
+    "name": "QINZHOU"
+  },
+  {
+    "id": 12506,
+    "name": "QUANG BINH"
+  },
+  {
+    "id": 2026,
+    "name": "QUANZHOU"
+  },
+  {
+    "id": 1924,
+    "name": "QUEBEC"
+  },
+  {
+    "id": 564,
+    "name": "QUEBRACHO/SAN LORENZO"
+  },
+  {
+    "id": 647,
+    "name": "QUELIMANE"
+  },
+  {
+    "id": 3077,
+    "name": "QUEMCHI"
+  },
+  {
+    "id": 3379,
+    "name": "QUESON/SIAIN"
+  },
+  {
+    "id": 1671,
+    "name": "QUI NHON"
+  },
+  {
+    "id": 2303,
+    "name": "QUIBERON"
+  },
+  {
+    "id": 2938,
+    "name": "QUIMPER"
+  },
+  {
+    "id": 2658,
+    "name": "QUINCY MA"
+  },
+  {
+    "id": 3078,
+    "name": "QUINTERO"
+  },
+  {
+    "id": 1180,
+    "name": "QURAYYAH"
+  },
+  {
+    "id": 3121,
+    "name": "RAAHE (BRAHESTAD)"
+  },
+  {
+    "id": 1001,
+    "name": "RABAUL"
+  },
+  {
+    "id": 1181,
+    "name": "RABIGH"
+  },
+  {
+    "id": 3002,
+    "name": "RADES"
+  },
+  {
+    "id": 2304,
+    "name": "RADICATEL"
+  },
+  {
+    "id": 2236,
+    "name": "RAHJA"
+  },
+  {
+    "id": 2320,
+    "name": "RAIATEA"
+  },
+  {
+    "id": 2990,
+    "name": "RAMA"
+  },
+  {
+    "id": 565,
+    "name": "RAMALLO"
+  },
+  {
+    "id": 178,
+    "name": "RAMSEY"
+  },
+  {
+    "id": 1573,
+    "name": "RAMSGATE"
+  },
+  {
+    "id": 2150,
+    "name": "RANDERS"
+  },
+  {
+    "id": 652,
+    "name": "RANGOON"
+  },
+  {
+    "id": 1373,
+    "name": "RANONG"
+  },
+  {
+    "id": 70,
+    "name": "RANPAR"
+  },
+  {
+    "id": 961,
+    "name": "RAPID BAY"
+  },
+  {
+    "id": 3318,
+    "name": "RAS AL GHAR"
+  },
+  {
+    "id": 3319,
+    "name": "RAS AL KHAFJI"
+  },
+  {
+    "id": 1467,
+    "name": "RAS AL KHAIMAH"
+  },
+  {
+    "id": 1182,
+    "name": "RAS AL MA`AJJIZ TERMINAL"
+  },
+  {
+    "id": 1183,
+    "name": "RAS AL-KHAIR"
+  },
+  {
+    "id": 2195,
+    "name": "RAS BUDRAN"
+  },
+  {
+    "id": 1093,
+    "name": "RAS LAFFAN"
+  },
+  {
+    "id": 493,
+    "name": "RAS LANUF"
+  },
+  {
+    "id": 2196,
+    "name": "RAS SHUKHEIR"
+  },
+  {
+    "id": 2197,
+    "name": "RAS SUDR"
+  },
+  {
+    "id": 1184,
+    "name": "RAS TANURA"
+  },
+  {
+    "id": 3095,
+    "name": "RASA"
+  },
+  {
+    "id": 482,
+    "name": "RAS-SELATA"
+  },
+  {
+    "id": 167,
+    "name": "RATHMULLAN"
+  },
+  {
+    "id": 71,
+    "name": "RATNAGIRI"
+  },
+  {
+    "id": 832,
+    "name": "RAUBERGVIKA"
+  },
+  {
+    "id": 2930,
+    "name": "RAUMA (RAUMO)"
+  },
+  {
+    "id": 1789,
+    "name": "RAVELS"
+  },
+  {
+    "id": 237,
+    "name": "RAVENNA"
+  },
+  {
+    "id": 566,
+    "name": "RAWSON"
+  },
+  {
+    "id": 1374,
+    "name": "RAYONG"
+  },
+  {
+    "id": 2961,
+    "name": "RECALADA LIGHTSHIP"
+  },
+  {
+    "id": 1860,
+    "name": "RECIFE"
+  },
+  {
+    "id": 2659,
+    "name": "RED DOG AK"
+  },
+  {
+    "id": 72,
+    "name": "REDI"
+  },
+  {
+    "id": 2660,
+    "name": "REDWOOD CITY"
+  },
+  {
+    "id": 2402,
+    "name": "REGENSBURG"
+  },
+  {
+    "id": 2755,
+    "name": "REGGIO DI CALABRIA"
+  },
+  {
+    "id": 14614,
+    "name": "REKEFJORD"
+  },
+  {
+    "id": 2403,
+    "name": "RENDSBURG"
+  },
+  {
+    "id": 1450,
+    "name": "RENI"
+  },
+  {
+    "id": 1790,
+    "name": "RENORY"
+  },
+  {
+    "id": 3146,
+    "name": "RENSSELAER NY"
+  },
+  {
+    "id": 3365,
+    "name": "RESERVE LA"
+  },
+  {
+    "id": 2441,
+    "name": "RETHYMNON"
+  },
+  {
+    "id": 1094,
+    "name": "REUNION"
+  },
+  {
+    "id": 73,
+    "name": "REVDANDA"
+  },
+  {
+    "id": 2953,
+    "name": "REVITHOUSSA"
+  },
+  {
+    "id": 23,
+    "name": "REYDARFJORDUR"
+  },
+  {
+    "id": 24,
+    "name": "REYKJAVIK"
+  },
+  {
+    "id": 2442,
+    "name": "RHODES"
+  },
+  {
+    "id": 1260,
+    "name": "RIBADEO"
+  },
+  {
+    "id": 3327,
+    "name": "RIBEIRA"
+  },
+  {
+    "id": 1226,
+    "name": "RICHARDS BAY"
+  },
+  {
+    "id": 1574,
+    "name": "RICHBOROUGH"
+  },
+  {
+    "id": 2661,
+    "name": "RICHMOND"
+  },
+  {
+    "id": 2662,
+    "name": "RICHMOND VA"
+  },
+  {
+    "id": 1575,
+    "name": "RIDHAM DOCK"
+  },
+  {
+    "id": 2971,
+    "name": "RIDLEY ISLAND BC"
+  },
+  {
+    "id": 1791,
+    "name": "RIEME"
+  },
+  {
+    "id": 475,
+    "name": "RIGA"
+  },
+  {
+    "id": 2092,
+    "name": "RIJEKA"
+  },
+  {
+    "id": 1792,
+    "name": "RIJKEVORSEL"
+  },
+  {
+    "id": 1925,
+    "name": "RIMOUSKI"
+  },
+  {
+    "id": 259,
+    "name": "RIO BUENO"
+  },
+  {
+    "id": 567,
+    "name": "RIO CULLEN MARINE TERMINAL"
+  },
+  {
+    "id": 1861,
+    "name": "RIO DE JANEIRO"
+  },
+  {
+    "id": 568,
+    "name": "RIO GALLEGOS"
+  },
+  {
+    "id": 569,
+    "name": "RIO GRANDE, AR"
+  },
+  {
+    "id": 3030,
+    "name": "RIO GRANDE, BR"
+  },
+  {
+    "id": 2172,
+    "name": "RIO HAINA"
+  },
+  {
+    "id": 1054,
+    "name": "RIO TUBA"
+  },
+  {
+    "id": 833,
+    "name": "RISAVIKA"
+  },
+  {
+    "id": 2305,
+    "name": "RIVECOURT"
+  },
+  {
+    "id": 28444,
+    "name": "RIVERHEAD"
+  },
+  {
+    "id": 432,
+    "name": "RIWON"
+  },
+  {
+    "id": 1425,
+    "name": "RIZE"
+  },
+  {
+    "id": 2028,
+    "name": "RIZHAO"
+  },
+  {
+    "id": 185,
+    "name": "ROAD BAY"
+  },
+  {
+    "id": 1680,
+    "name": "ROAD TOWN, TORTOLA"
+  },
+  {
+    "id": 2979,
+    "name": "ROATAN"
+  },
+  {
+    "id": 2887,
+    "name": "ROBERT'S BANK"
+  },
+  {
+    "id": 2939,
+    "name": "ROCHEFORT"
+  },
+  {
+    "id": 1576,
+    "name": "ROCHESTER"
+  },
+  {
+    "id": 2663,
+    "name": "ROCHESTER NY"
+  },
+  {
+    "id": 2664,
+    "name": "ROCKLAND"
+  },
+  {
+    "id": 260,
+    "name": "ROCKY POINT"
+  },
+  {
+    "id": 2151,
+    "name": "RODBY"
+  },
+  {
+    "id": 2665,
+    "name": "RODEO CA"
+  },
+  {
+    "id": 1793,
+    "name": "ROESELARE"
+  },
+  {
+    "id": 834,
+    "name": "ROGNAN"
+  },
+  {
+    "id": 476,
+    "name": "ROJA"
+  },
+  {
+    "id": 2121,
+    "name": "ROMANO PORT"
+  },
+  {
+    "id": 2152,
+    "name": "RONNE"
+  },
+  {
+    "id": 1323,
+    "name": "RONNEBY"
+  },
+  {
+    "id": 47395,
+    "name": "ROOMASSAARE"
+  },
+  {
+    "id": 835,
+    "name": "RORVIK"
+  },
+  {
+    "id": 570,
+    "name": "ROSARIO"
+  },
+  {
+    "id": 613,
+    "name": "ROSARITO"
+  },
+  {
+    "id": 2306,
+    "name": "ROSCOFF"
+  },
+  {
+    "id": 2163,
+    "name": "ROSEAU"
+  },
+  {
+    "id": 2667,
+    "name": "ROSEDALE"
+  },
+  {
+    "id": 2666,
+    "name": "ROSETON NY"
+  },
+  {
+    "id": 2307,
+    "name": "ROSIERES-AUX-SALINES"
+  },
+  {
+    "id": 168,
+    "name": "ROSSLARE HARBOUR"
+  },
+  {
+    "id": 2404,
+    "name": "ROSTOCK"
+  },
+  {
+    "id": 2839,
+    "name": "ROSTOV-NA-DONU"
+  },
+  {
+    "id": 1577,
+    "name": "ROSYTH"
+  },
+  {
+    "id": 1261,
+    "name": "ROTA"
+  },
+  {
+    "id": 696,
+    "name": "ROTTERDAM"
+  },
+  {
+    "id": 2308,
+    "name": "ROUEN"
+  },
+  {
+    "id": 697,
+    "name": "ROZENBURG"
+  },
+  {
+    "id": 74,
+    "name": "ROZI PORT"
+  },
+  {
+    "id": 3243,
+    "name": "RUGAO"
+  },
+  {
+    "id": 1794,
+    "name": "RUISBROEK"
+  },
+  {
+    "id": 363,
+    "name": "RUMOI"
+  },
+  {
+    "id": 1795,
+    "name": "RUMST"
+  },
+  {
+    "id": 2225,
+    "name": "RUNAVIK"
+  },
+  {
+    "id": 3213,
+    "name": "RUNCORN"
+  },
+  {
+    "id": 1324,
+    "name": "RUNDVIK"
+  },
+  {
+    "id": 1872,
+    "name": "RUSE"
+  },
+  {
+    "id": 169,
+    "name": "RUSHBROOKE"
+  },
+  {
+    "id": 2863,
+    "name": "RUWAIS"
+  },
+  {
+    "id": 1142,
+    "name": "RYBINSK"
+  },
+  {
+    "id": 1578,
+    "name": "RYE"
+  },
+  {
+    "id": 1672,
+    "name": "SA DEC"
+  },
+  {
+    "id": 2744,
+    "name": "SABANG, SUMATRA"
+  },
+  {
+    "id": 3388,
+    "name": "SABETTA"
+  },
+  {
+    "id": 2668,
+    "name": "SABINE"
+  },
+  {
+    "id": 2669,
+    "name": "SACRAMENTO"
+  },
+  {
+    "id": 2198,
+    "name": "SAFAGA"
+  },
+  {
+    "id": 639,
+    "name": "SAFI"
+  },
+  {
+    "id": 364,
+    "name": "SAGANOSEKI"
+  },
+  {
+    "id": 2114,
+    "name": "SAGUA DE TANAMO"
+  },
+  {
+    "id": 1262,
+    "name": "SAGUNTO"
+  },
+  {
+    "id": 3156,
+    "name": "SAHABAT"
+  },
+  {
+    "id": 365,
+    "name": "SAIKI"
+  },
+  {
+    "id": 2309,
+    "name": "SAINT BRIEUC"
+  },
+  {
+    "id": 1684,
+    "name": "SAINT CROIX"
+  },
+  {
+    "id": 3226,
+    "name": "SAINT GEORGE"
+  },
+  {
+    "id": 2955,
+    "name": "SAINT GEORGE'S"
+  },
+  {
+    "id": 2772,
+    "name": "SAINT HELIER"
+  },
+  {
+    "id": 1579,
+    "name": "SAINT HELIER, CHANNEL ISLANDS"
+  },
+  {
+    "id": 2940,
+    "name": "SAINT HERBLAIN"
+  },
+  {
+    "id": 2670,
+    "name": "SAINT JAMES LA"
+  },
+  {
+    "id": 2842,
+    "name": "SAINT LUCIA APT"
+  },
+  {
+    "id": 3130,
+    "name": "SAINT MALO"
+  },
+  {
+    "id": 3131,
+    "name": "SAINT NAZAIRE"
+  },
+  {
+    "id": 3267,
+    "name": "SAINT NICOLAS"
+  },
+  {
+    "id": 2998,
+    "name": "SAINT PETERSBURG"
+  },
+  {
+    "id": 2671,
+    "name": "SAINT PETERSBURG FL"
+  },
+  {
+    "id": 2843,
+    "name": "SAINT PIERRE"
+  },
+  {
+    "id": 2941,
+    "name": "SAINT QUENTIN"
+  },
+  {
+    "id": 1685,
+    "name": "SAINT THOMAS"
+  },
+  {
+    "id": 2891,
+    "name": "SAINTE-CATHERINE"
+  },
+  {
+    "id": 2888,
+    "name": "SAINT-JOHN"
+  },
+  {
+    "id": 2889,
+    "name": "SAINT-JOHN'S"
+  },
+  {
+    "id": 3185,
+    "name": "SAINT-JOUIN-BRUNEVAL"
+  },
+  {
+    "id": 2942,
+    "name": "SAINT-WANDRILLE-RANCON"
+  },
+  {
+    "id": 2800,
+    "name": "SAIPAN"
+  },
+  {
+    "id": 366,
+    "name": "SAKAI"
+  },
+  {
+    "id": 367,
+    "name": "SAKAIDE"
+  },
+  {
+    "id": 368,
+    "name": "SAKAIMINATO"
+  },
+  {
+    "id": 369,
+    "name": "SAKATA"
+  },
+  {
+    "id": 2893,
+    "name": "SAL REI"
+  },
+  {
+    "id": 477,
+    "name": "SALACGRIVA"
+  },
+  {
+    "id": 876,
+    "name": "SALALAH"
+  },
+  {
+    "id": 1023,
+    "name": "SALAVERRY"
+  },
+  {
+    "id": 44446,
+    "name": "SALAYA"
+  },
+  {
+    "id": 1227,
+    "name": "SALDANHA BAY"
+  },
+  {
+    "id": 1694,
+    "name": "SALEEF PORT"
+  },
+  {
+    "id": 14606,
+    "name": "SALEM"
+  },
+  {
+    "id": 238,
+    "name": "SALERNO"
+  },
+  {
+    "id": 14631,
+    "name": "SALFORD"
+  },
+  {
+    "id": 3166,
+    "name": "SALINA CRUZ"
+  },
+  {
+    "id": 1612,
+    "name": "SALTO"
+  },
+  {
+    "id": 1862,
+    "name": "SALVADOR"
+  },
+  {
+    "id": 2405,
+    "name": "SALZGITTER"
+  },
+  {
+    "id": 47168,
+    "name": "SAMALAJU"
+  },
+  {
+    "id": 2173,
+    "name": "SAMANA"
+  },
+  {
+    "id": 1024,
+    "name": "SAMANCO"
+  },
+  {
+    "id": 2745,
+    "name": "SAMARINDA, KALIMANTAN"
+  },
+  {
+    "id": 456,
+    "name": "SAMCHEOK"
+  },
+  {
+    "id": 457,
+    "name": "SAMCHEONPO/SACHEON"
+  },
+  {
+    "id": 2443,
+    "name": "SAMOS"
+  },
+  {
+    "id": 2746,
+    "name": "SAMPIT, KALIMANTAN"
+  },
+  {
+    "id": 1426,
+    "name": "SAMSUN"
+  },
+  {
+    "id": 1963,
+    "name": "SAN ANTONIO"
+  },
+  {
+    "id": 571,
+    "name": "SAN ANTONIO ESTE"
+  },
+  {
+    "id": 614,
+    "name": "SAN CARLOS"
+  },
+  {
+    "id": 3323,
+    "name": "SAN CARLOS DE LA RAPITA"
+  },
+  {
+    "id": 1263,
+    "name": "SAN CIPRIAN"
+  },
+  {
+    "id": 2672,
+    "name": "SAN DIEGO"
+  },
+  {
+    "id": 572,
+    "name": "SAN FERNANDO"
+  },
+  {
+    "id": 2673,
+    "name": "SAN FRANCISCO"
+  },
+  {
+    "id": 3167,
+    "name": "SAN JOSE"
+  },
+  {
+    "id": 615,
+    "name": "SAN JUAN DE LA COSTA"
+  },
+  {
+    "id": 1025,
+    "name": "SAN JUAN, PE"
+  },
+  {
+    "id": 1088,
+    "name": "SAN JUAN, PR"
+  },
+  {
+    "id": 573,
+    "name": "SAN JULIAN"
+  },
+  {
+    "id": 2184,
+    "name": "SAN LORENZO, EC"
+  },
+  {
+    "id": 2489,
+    "name": "SAN LORENZO, HN"
+  },
+  {
+    "id": 574,
+    "name": "SAN NICOLAS DE LOS ARROYOS"
+  },
+  {
+    "id": 2799,
+    "name": "SAN NICOLAS, AW"
+  },
+  {
+    "id": 1026,
+    "name": "SAN NICOLAS, PE"
+  },
+  {
+    "id": 575,
+    "name": "SAN PEDRO"
+  },
+  {
+    "id": 2674,
+    "name": "SAN PEDRO CA"
+  },
+  {
+    "id": 2174,
+    "name": "SAN PEDRO DE MACORIS"
+  },
+  {
+    "id": 576,
+    "name": "SAN SEBASTIAN"
+  },
+  {
+    "id": 3079,
+    "name": "SAN VICENTE"
+  },
+  {
+    "id": 2175,
+    "name": "SANCHEZ"
+  },
+  {
+    "id": 2675,
+    "name": "SAND POINT AK"
+  },
+  {
+    "id": 2786,
+    "name": "SANDAKAN, SABAH"
+  },
+  {
+    "id": 836,
+    "name": "SANDEFJORD"
+  },
+  {
+    "id": 837,
+    "name": "SANDNES"
+  },
+  {
+    "id": 838,
+    "name": "SANDNESSJOEN"
+  },
+  {
+    "id": 2676,
+    "name": "SANDWICH MA"
+  },
+  {
+    "id": 75,
+    "name": "SANGHI"
+  },
+  {
+    "id": 47268,
+    "name": "SANGKULIRANG"
+  },
+  {
+    "id": 3093,
+    "name": "SAN-PEDRO"
+  },
+  {
+    "id": 12377,
+    "name": "SANT ANTIOCO"
+  },
+  {
+    "id": 47396,
+    "name": "SANTA CLARA DO SUL"
+  },
+  {
+    "id": 1055,
+    "name": "SANTA CRUZ (MARINDUQUE ISLAND)"
+  },
+  {
+    "id": 1264,
+    "name": "SANTA CRUZ DE LA PALMA"
+  },
+  {
+    "id": 1265,
+    "name": "SANTA CRUZ DE TENERIFE"
+  },
+  {
+    "id": 2825,
+    "name": "SANTA CRUZ/SUAL"
+  },
+  {
+    "id": 577,
+    "name": "SANTA FE"
+  },
+  {
+    "id": 2075,
+    "name": "SANTA MARTA"
+  },
+  {
+    "id": 239,
+    "name": "SANTA PANAGIA"
+  },
+  {
+    "id": 616,
+    "name": "SANTA ROSALIA"
+  },
+  {
+    "id": 3031,
+    "name": "SANTANA"
+  },
+  {
+    "id": 1266,
+    "name": "SANTANDER"
+  },
+  {
+    "id": 1863,
+    "name": "SANTAREM"
+  },
+  {
+    "id": 3102,
+    "name": "SANTIAGO DE CUBA"
+  },
+  {
+    "id": 1614,
+    "name": "SANTO"
+  },
+  {
+    "id": 2176,
+    "name": "SANTO DOMINGO"
+  },
+  {
+    "id": 2471,
+    "name": "SANTO TOMAS DE CASTILLA"
+  },
+  {
+    "id": 1864,
+    "name": "SANTOS"
+  },
+  {
+    "id": 3083,
+    "name": "SANYA"
+  },
+  {
+    "id": 1865,
+    "name": "SAO FRANCISCO DO SUL"
+  },
+  {
+    "id": 1866,
+    "name": "SAO SEBASTIAO"
+  },
+  {
+    "id": 1173,
+    "name": "SAO TOME ISLAND"
+  },
+  {
+    "id": 2895,
+    "name": "SAO VINCENT"
+  },
+  {
+    "id": 753,
+    "name": "SAPELE"
+  },
+  {
+    "id": 2122,
+    "name": "SARANDE"
+  },
+  {
+    "id": 1143,
+    "name": "SARATOV"
+  },
+  {
+    "id": 1427,
+    "name": "SARAYLAR"
+  },
+  {
+    "id": 1056,
+    "name": "SARIAYA"
+  },
+  {
+    "id": 1428,
+    "name": "SARISEKI"
+  },
+  {
+    "id": 1926,
+    "name": "SARNIA"
+  },
+  {
+    "id": 839,
+    "name": "SARPSBORG"
+  },
+  {
+    "id": 370,
+    "name": "SASEBO"
+  },
+  {
+    "id": 2406,
+    "name": "SASSNITZ"
+  },
+  {
+    "id": 371,
+    "name": "SATSUMASENDAI"
+  },
+  {
+    "id": 1375,
+    "name": "SATTAHIP"
+  },
+  {
+    "id": 3277,
+    "name": "SATUI"
+  },
+  {
+    "id": 840,
+    "name": "SAUDA"
+  },
+  {
+    "id": 3068,
+    "name": "SAULT-SAINTE-MARIE"
+  },
+  {
+    "id": 2677,
+    "name": "SAVANNAH GA"
+  },
+  {
+    "id": 240,
+    "name": "SAVONA"
+  },
+  {
+    "id": 2931,
+    "name": "SAVONLINNA (NYSLOTT)"
+  },
+  {
+    "id": 3332,
+    "name": "SAWAKIN"
+  },
+  {
+    "id": 698,
+    "name": "SCHEVENINGEN"
+  },
+  {
+    "id": 699,
+    "name": "SCHIEDAM"
+  },
+  {
+    "id": 1796,
+    "name": "SCHILDE"
+  },
+  {
+    "id": 1797,
+    "name": "SCHOTEN"
+  },
+  {
+    "id": 1580,
+    "name": "SCRABSTER"
+  },
+  {
+    "id": 1449,
+    "name": "SE STEVEDORING COMPANY OLVIA (EX. OKTYABRSK)"
+  },
+  {
+    "id": 1581,
+    "name": "SEAHAM"
+  },
+  {
+    "id": 2678,
+    "name": "SEARSPORT"
+  },
+  {
+    "id": 2679,
+    "name": "SEATTLE"
+  },
+  {
+    "id": 3193,
+    "name": "SEBUKU"
+  },
+  {
+    "id": 2890,
+    "name": "SECHELT"
+  },
+  {
+    "id": 515,
+    "name": "SEJINGKAT"
+  },
+  {
+    "id": 13432,
+    "name": "SEKONDI"
+  },
+  {
+    "id": 3275,
+    "name": "SEKUPANG"
+  },
+  {
+    "id": 3292,
+    "name": "SELJE"
+  },
+  {
+    "id": 20198,
+    "name": "SEMANGKA BAY, ST"
+  },
+  {
+    "id": 111,
+    "name": "SEMARANG"
+  },
+  {
+    "id": 3184,
+    "name": "SEMBAWANG PORT"
+  },
+  {
+    "id": 3302,
+    "name": "SEMIRARA"
+  },
+  {
+    "id": 433,
+    "name": "SENBONG"
+  },
+  {
+    "id": 372,
+    "name": "SENDAI, MIYAGI"
+  },
+  {
+    "id": 47575,
+    "name": "SENIPAH"
+  },
+  {
+    "id": 841,
+    "name": "SENJAHOPEN"
+  },
+  {
+    "id": 458,
+    "name": "SEOGWIPO"
+  },
+  {
+    "id": 459,
+    "name": "SEONGSAN-PO"
+  },
+  {
+    "id": 2787,
+    "name": "SEPANG, SELANGOR"
+  },
+  {
+    "id": 1927,
+    "name": "SEPT-ILES"
+  },
+  {
+    "id": 1798,
+    "name": "SERAING"
+  },
+  {
+    "id": 40649,
+    "name": "SERIA"
+  },
+  {
+    "id": 2310,
+    "name": "SETE"
+  },
+  {
+    "id": 3288,
+    "name": "SETODA"
+  },
+  {
+    "id": 1080,
+    "name": "SETUBAL"
+  },
+  {
+    "id": 1451,
+    "name": "SEVASTOPOL"
+  },
+  {
+    "id": 1144,
+    "name": "SEVERODVINSK"
+  },
+  {
+    "id": 1267,
+    "name": "SEVILLA"
+  },
+  {
+    "id": 2680,
+    "name": "SEWARD"
+  },
+  {
+    "id": 3368,
+    "name": "SEWAREN NJ"
+  },
+  {
+    "id": 617,
+    "name": "SEYBA PLAYA"
+  },
+  {
+    "id": 1390,
+    "name": "SFAX"
+  },
+  {
+    "id": 1145,
+    "name": "SHAKHTERSK"
+  },
+  {
+    "id": 3168,
+    "name": "SHANGHAI"
+  },
+  {
+    "id": 170,
+    "name": "SHANNON"
+  },
+  {
+    "id": 2029,
+    "name": "SHANTOU"
+  },
+  {
+    "id": 3084,
+    "name": "SHANWEI"
+  },
+  {
+    "id": 1582,
+    "name": "SHARPNESS"
+  },
+  {
+    "id": 3383,
+    "name": "SHATIAN"
+  },
+  {
+    "id": 1583,
+    "name": "SHEERNESS"
+  },
+  {
+    "id": 1928,
+    "name": "SHEET HARBOUR"
+  },
+  {
+    "id": 3244,
+    "name": "SHEKOU"
+  },
+  {
+    "id": 1929,
+    "name": "SHELBURNE"
+  },
+  {
+    "id": 3254,
+    "name": "SHEN HU"
+  },
+  {
+    "id": 18922,
+    "name": "SHENAO"
+  },
+  {
+    "id": 2123,
+    "name": "SHENGJIN"
+  },
+  {
+    "id": 2030,
+    "name": "SHENZHEN"
+  },
+  {
+    "id": 3321,
+    "name": "SHERBRO"
+  },
+  {
+    "id": 700,
+    "name": "S-HERTOGENBOSCH"
+  },
+  {
+    "id": 373,
+    "name": "SHIBUSHI"
+  },
+  {
+    "id": 2031,
+    "name": "SHIDAO"
+  },
+  {
+    "id": 3245,
+    "name": "SHIHU"
+  },
+  {
+    "id": 374,
+    "name": "SHIMABARA"
+  },
+  {
+    "id": 375,
+    "name": "SHIMAMA"
+  },
+  {
+    "id": 376,
+    "name": "SHIMIZU"
+  },
+  {
+    "id": 377,
+    "name": "SHIMODA, KOCHI"
+  },
+  {
+    "id": 378,
+    "name": "SHIMODA, SHIZUOKA"
+  },
+  {
+    "id": 379,
+    "name": "SHIMONOSEKI"
+  },
+  {
+    "id": 380,
+    "name": "SHIMOTSU"
+  },
+  {
+    "id": 381,
+    "name": "SHINGU"
+  },
+  {
+    "id": 382,
+    "name": "SHIOGAMA"
+  },
+  {
+    "id": 2032,
+    "name": "SHIQIAO"
+  },
+  {
+    "id": 383,
+    "name": "SHIRAKATA"
+  },
+  {
+    "id": 384,
+    "name": "SHIRAOI"
+  },
+  {
+    "id": 1185,
+    "name": "SHOAIBA"
+  },
+  {
+    "id": 1584,
+    "name": "SHOREHAM"
+  },
+  {
+    "id": 470,
+    "name": "SHUAIBA"
+  },
+  {
+    "id": 2033,
+    "name": "SHUIDONG"
+  },
+  {
+    "id": 1186,
+    "name": "SHUQAIQ"
+  },
+  {
+    "id": 471,
+    "name": "SHUWAIKH"
+  },
+  {
+    "id": 3345,
+    "name": "SIAM BANGKOK PORT"
+  },
+  {
+    "id": 2093,
+    "name": "SIBENIK"
+  },
+  {
+    "id": 2747,
+    "name": "SIBOLGA, SUMATRA"
+  },
+  {
+    "id": 3171,
+    "name": "SIDI KERIR TERMINAL"
+  },
+  {
+    "id": 2986,
+    "name": "SIDON"
+  },
+  {
+    "id": 25,
+    "name": "SIGLUFJORD"
+  },
+  {
+    "id": 1874,
+    "name": "SIHANOUKVILLE"
+  },
+  {
+    "id": 45610,
+    "name": "SIILINJARVI"
+  },
+  {
+    "id": 76,
+    "name": "SIKKA"
+  },
+  {
+    "id": 2219,
+    "name": "SILLAMAE"
+  },
+  {
+    "id": 1585,
+    "name": "SILLOTH"
+  },
+  {
+    "id": 1228,
+    "name": "SIMON'S TOWN"
+  },
+  {
+    "id": 3337,
+    "name": "SIMRISHAMN"
+  },
+  {
+    "id": 1081,
+    "name": "SINES"
+  },
+  {
+    "id": 1210,
+    "name": "SINGAPORE"
+  },
+  {
+    "id": 434,
+    "name": "SINPO"
+  },
+  {
+    "id": 2876,
+    "name": "SINT JOZEF OLEN"
+  },
+  {
+    "id": 2877,
+    "name": "SINT LENAARTS"
+  },
+  {
+    "id": 3289,
+    "name": "SIPITANG, SABAH"
+  },
+  {
+    "id": 141,
+    "name": "SIRRI ISLAND"
+  },
+  {
+    "id": 494,
+    "name": "SIRTE (SURT)"
+  },
+  {
+    "id": 2462,
+    "name": "SISIMIUT"
+  },
+  {
+    "id": 2851,
+    "name": "SITRAH"
+  },
+  {
+    "id": 1452,
+    "name": "SKADOVSK"
+  },
+  {
+    "id": 2153,
+    "name": "SKAERBAEK"
+  },
+  {
+    "id": 2154,
+    "name": "SKAGEN"
+  },
+  {
+    "id": 2681,
+    "name": "SKAGWAY"
+  },
+  {
+    "id": 2444,
+    "name": "SKARAMANGAS"
+  },
+  {
+    "id": 34618,
+    "name": "SKATTKARR"
+  },
+  {
+    "id": 1325,
+    "name": "SKELLEFTEHAMN"
+  },
+  {
+    "id": 18344,
+    "name": "SKIEN"
+  },
+  {
+    "id": 2920,
+    "name": "SKIKDA"
+  },
+  {
+    "id": 47391,
+    "name": "SKIVE"
+  },
+  {
+    "id": 1326,
+    "name": "SKOGHALL"
+  },
+  {
+    "id": 3374,
+    "name": "SKOGN"
+  },
+  {
+    "id": 842,
+    "name": "SKUDENESHAVN"
+  },
+  {
+    "id": 478,
+    "name": "SKULTE"
+  },
+  {
+    "id": 1327,
+    "name": "SKUTSKAR"
+  },
+  {
+    "id": 843,
+    "name": "SLAGENTANGEN"
+  },
+  {
+    "id": 1146,
+    "name": "SLAVYANKA"
+  },
+  {
+    "id": 171,
+    "name": "SLIGO"
+  },
+  {
+    "id": 1328,
+    "name": "SLITE"
+  },
+  {
+    "id": 701,
+    "name": "SLUISKIL"
+  },
+  {
+    "id": 702,
+    "name": "SMALLINGERLAND"
+  },
+  {
+    "id": 2682,
+    "name": "SMITH`S BLUFF TX"
+  },
+  {
+    "id": 844,
+    "name": "SMOLA"
+  },
+  {
+    "id": 1147,
+    "name": "SOCHI"
+  },
+  {
+    "id": 385,
+    "name": "SODEGAURA"
+  },
+  {
+    "id": 1329,
+    "name": "SODERHAMN"
+  },
+  {
+    "id": 1330,
+    "name": "SODERTALJE"
+  },
+  {
+    "id": 3219,
+    "name": "SOGNE"
+  },
+  {
+    "id": 877,
+    "name": "SOHAR"
+  },
+  {
+    "id": 2914,
+    "name": "SOKHNA PORT"
+  },
+  {
+    "id": 3135,
+    "name": "SOKHUMI"
+  },
+  {
+    "id": 1799,
+    "name": "SOLRE-SUR-SAMBRE"
+  },
+  {
+    "id": 1331,
+    "name": "SOLVESBORG"
+  },
+  {
+    "id": 36149,
+    "name": "SOMBRA"
+  },
+  {
+    "id": 845,
+    "name": "SOMMAROY"
+  },
+  {
+    "id": 45513,
+    "name": "SON DUONG PORT"
+  },
+  {
+    "id": 2155,
+    "name": "SONDERBORG"
+  },
+  {
+    "id": 435,
+    "name": "SONGJIN"
+  },
+  {
+    "id": 1376,
+    "name": "SONGKHLA"
+  },
+  {
+    "id": 2034,
+    "name": "SONGXIA"
+  },
+  {
+    "id": 1930,
+    "name": "SOREL"
+  },
+  {
+    "id": 112,
+    "name": "SORONG"
+  },
+  {
+    "id": 846,
+    "name": "SORREISA"
+  },
+  {
+    "id": 847,
+    "name": "SORTLAND"
+  },
+  {
+    "id": 48078,
+    "name": "SORVAGUR"
+  },
+  {
+    "id": 848,
+    "name": "SOTRA"
+  },
+  {
+    "id": 2977,
+    "name": "SOUDA"
+  },
+  {
+    "id": 386,
+    "name": "SOUMA"
+  },
+  {
+    "id": 1391,
+    "name": "SOUSSE"
+  },
+  {
+    "id": 1203,
+    "name": "SOUTH RIDING POINT"
+  },
+  {
+    "id": 1586,
+    "name": "SOUTH SHIELDS"
+  },
+  {
+    "id": 962,
+    "name": "SOUTH TREES"
+  },
+  {
+    "id": 1587,
+    "name": "SOUTHAMPTON"
+  },
+  {
+    "id": 3366,
+    "name": "SOUTHPORT NC"
+  },
+  {
+    "id": 1588,
+    "name": "SOUTHWOLD"
+  },
+  {
+    "id": 1148,
+    "name": "SOVETSKAYA GAVAN"
+  },
+  {
+    "id": 3295,
+    "name": "SOVIKNES"
+  },
+  {
+    "id": 9,
+    "name": "SOYO"
+  },
+  {
+    "id": 703,
+    "name": "SPIJKENISSE"
+  },
+  {
+    "id": 849,
+    "name": "SPJELKAVIK"
+  },
+  {
+    "id": 2094,
+    "name": "SPLIT"
+  },
+  {
+    "id": 963,
+    "name": "SPRING BAY"
+  },
+  {
+    "id": 1931,
+    "name": "SQUAMISH"
+  },
+  {
+    "id": 1377,
+    "name": "SRIRACHA"
+  },
+  {
+    "id": 1825,
+    "name": "ST EUSTATIUS"
+  },
+  {
+    "id": 1589,
+    "name": "ST PETER PORT"
+  },
+  {
+    "id": 2684,
+    "name": "ST ROSE"
+  },
+  {
+    "id": 2683,
+    "name": "ST. BERNARD"
+  },
+  {
+    "id": 2685,
+    "name": "ST. GABRIEL LA"
+  },
+  {
+    "id": 499,
+    "name": "ST. JOHN'S"
+  },
+  {
+    "id": 3139,
+    "name": "STADE"
+  },
+  {
+    "id": 964,
+    "name": "STANLEY"
+  },
+  {
+    "id": 1590,
+    "name": "STANLOW"
+  },
+  {
+    "id": 1800,
+    "name": "STASEGEM"
+  },
+  {
+    "id": 850,
+    "name": "STAVANGER"
+  },
+  {
+    "id": 2445,
+    "name": "STAVROS"
+  },
+  {
+    "id": 2686,
+    "name": "STEAMBOAT BAY AK"
+  },
+  {
+    "id": 851,
+    "name": "STEINKJAR"
+  },
+  {
+    "id": 852,
+    "name": "STEINSHAMN"
+  },
+  {
+    "id": 853,
+    "name": "STEINSVIK"
+  },
+  {
+    "id": 1332,
+    "name": "STENUNGSUND"
+  },
+  {
+    "id": 1932,
+    "name": "STEPHENVILLE"
+  },
+  {
+    "id": 2156,
+    "name": "STEVNS PIER"
+  },
+  {
+    "id": 3069,
+    "name": "STEWART"
+  },
+  {
+    "id": 3172,
+    "name": "STIGSNAESVAERKETS HAVN"
+  },
+  {
+    "id": 1333,
+    "name": "STILLERYD HARBOUR"
+  },
+  {
+    "id": 854,
+    "name": "STJORDAL"
+  },
+  {
+    "id": 1334,
+    "name": "STOCKHOLM"
+  },
+  {
+    "id": 2687,
+    "name": "STOCKTON CA"
+  },
+  {
+    "id": 3338,
+    "name": "STOCKVIK"
+  },
+  {
+    "id": 855,
+    "name": "STOKMARKNES"
+  },
+  {
+    "id": 1335,
+    "name": "STORA VIKA"
+  },
+  {
+    "id": 856,
+    "name": "STORABO"
+  },
+  {
+    "id": 857,
+    "name": "STORASUND"
+  },
+  {
+    "id": 1591,
+    "name": "STORNOWAY"
+  },
+  {
+    "id": 3339,
+    "name": "STORUGNS"
+  },
+  {
+    "id": 14668,
+    "name": "STRA"
+  },
+  {
+    "id": 2407,
+    "name": "STRALSUND"
+  },
+  {
+    "id": 2311,
+    "name": "STRASBOURG"
+  },
+  {
+    "id": 2446,
+    "name": "STRATONI"
+  },
+  {
+    "id": 2408,
+    "name": "STRAUBING"
+  },
+  {
+    "id": 26,
+    "name": "STRAUMSVIK"
+  },
+  {
+    "id": 2157,
+    "name": "STRUER"
+  },
+  {
+    "id": 2158,
+    "name": "STUBBEKOBING"
+  },
+  {
+    "id": 2908,
+    "name": "STUDSTRUPVARKETS HAVN"
+  },
+  {
+    "id": 2808,
+    "name": "STURA"
+  },
+  {
+    "id": 15768,
+    "name": "STYKKISHOLMUR - HOFN"
+  },
+  {
+    "id": 2447,
+    "name": "STYLIS (STYLIDA)"
+  },
+  {
+    "id": 1057,
+    "name": "SUAL"
+  },
+  {
+    "id": 1356,
+    "name": "SUAO"
+  },
+  {
+    "id": 3169,
+    "name": "SUAPE"
+  },
+  {
+    "id": 1058,
+    "name": "SUBIC BAY"
+  },
+  {
+    "id": 2915,
+    "name": "SUEZ (AS SUWAYS)"
+  },
+  {
+    "id": 3181,
+    "name": "SUEZ CANAL"
+  },
+  {
+    "id": 3387,
+    "name": "SULINA (PORT ET ZONE FRANCHE)"
+  },
+  {
+    "id": 1592,
+    "name": "SULLOM VOE"
+  },
+  {
+    "id": 3070,
+    "name": "SUMMERSIDE"
+  },
+  {
+    "id": 1593,
+    "name": "SUNDERLAND"
+  },
+  {
+    "id": 1336,
+    "name": "SUNDSVALL"
+  },
+  {
+    "id": 3273,
+    "name": "SUNGAI PAKNING"
+  },
+  {
+    "id": 516,
+    "name": "SUNGAI UDANG"
+  },
+  {
+    "id": 858,
+    "name": "SUNNDALSORA"
+  },
+  {
+    "id": 3358,
+    "name": "SUNNY POINT TERMINAL NC"
+  },
+  {
+    "id": 1027,
+    "name": "SUPE"
+  },
+  {
+    "id": 113,
+    "name": "SURABAYA"
+  },
+  {
+    "id": 2966,
+    "name": "SURAT"
+  },
+  {
+    "id": 12418,
+    "name": "SURAT THANI"
+  },
+  {
+    "id": 2826,
+    "name": "SURIGAO, MINDANAO"
+  },
+  {
+    "id": 1337,
+    "name": "SURTE"
+  },
+  {
+    "id": 387,
+    "name": "SUSAKI"
+  },
+  {
+    "id": 1594,
+    "name": "SUTTON BRIDGE"
+  },
+  {
+    "id": 2230,
+    "name": "SUVA"
+  },
+  {
+    "id": 859,
+    "name": "SVELGEN"
+  },
+  {
+    "id": 2159,
+    "name": "SVENDBORG"
+  },
+  {
+    "id": 1149,
+    "name": "SVETLY"
+  },
+  {
+    "id": 3033,
+    "name": "SVISTOV"
+  },
+  {
+    "id": 860,
+    "name": "SVOLVAR"
+  },
+  {
+    "id": 1595,
+    "name": "SWANSEA"
+  },
+  {
+    "id": 1069,
+    "name": "SWINOUJSCIE"
+  },
+  {
+    "id": 965,
+    "name": "SYDNEY"
+  },
+  {
+    "id": 1933,
+    "name": "SYDNEY NS"
+  },
+  {
+    "id": 2954,
+    "name": "SYROS (SYRA)"
+  },
+  {
+    "id": 1070,
+    "name": "SZCZECIN"
+  },
+  {
+    "id": 2827,
+    "name": "TABACO/LEGASPI"
+  },
+  {
+    "id": 987,
+    "name": "TABOGUILLA"
+  },
+  {
+    "id": 388,
+    "name": "TACHIBANA"
+  },
+  {
+    "id": 2828,
+    "name": "TACLOBAN, LEYTE"
+  },
+  {
+    "id": 2688,
+    "name": "TACOMA"
+  },
+  {
+    "id": 2689,
+    "name": "TACONITE HARBOR"
+  },
+  {
+    "id": 389,
+    "name": "TADOTSU"
+  },
+  {
+    "id": 460,
+    "name": "TAEAN-GUN"
+  },
+  {
+    "id": 2690,
+    "name": "TAFT LA"
+  },
+  {
+    "id": 3304,
+    "name": "TAGANITO"
+  },
+  {
+    "id": 1150,
+    "name": "TAGANROG"
+  },
+  {
+    "id": 2829,
+    "name": "TAGBILARAN, BOHOL"
+  },
+  {
+    "id": 495,
+    "name": "TAGIURA"
+  },
+  {
+    "id": 14626,
+    "name": "TAGOLOAN"
+  },
+  {
+    "id": 390,
+    "name": "TAGONOURA"
+  },
+  {
+    "id": 391,
+    "name": "TAHARA"
+  },
+  {
+    "id": 2035,
+    "name": "TAICANG PT"
+  },
+  {
+    "id": 1357,
+    "name": "TAICHUNG"
+  },
+  {
+    "id": 1358,
+    "name": "TAIPEI"
+  },
+  {
+    "id": 12423,
+    "name": "TAISHAN"
+  },
+  {
+    "id": 2036,
+    "name": "TAIXING"
+  },
+  {
+    "id": 2037,
+    "name": "TAIZHOU"
+  },
+  {
+    "id": 392,
+    "name": "TAKAMATSU"
+  },
+  {
+    "id": 393,
+    "name": "TAKEHARA"
+  },
+  {
+    "id": 394,
+    "name": "TAKETOYO"
+  },
+  {
+    "id": 2417,
+    "name": "TAKORADI"
+  },
+  {
+    "id": 395,
+    "name": "TAKUMA"
+  },
+  {
+    "id": 241,
+    "name": "TALAMONE"
+  },
+  {
+    "id": 1028,
+    "name": "TALARA"
+  },
+  {
+    "id": 1965,
+    "name": "TALCAHUANO"
+  },
+  {
+    "id": 2220,
+    "name": "TALLINN"
+  },
+  {
+    "id": 1151,
+    "name": "TAMAN"
+  },
+  {
+    "id": 505,
+    "name": "TAMATAVE"
+  },
+  {
+    "id": 1029,
+    "name": "TAMBO DE MORA"
+  },
+  {
+    "id": 1801,
+    "name": "TAMINES"
+  },
+  {
+    "id": 2691,
+    "name": "TAMPA"
+  },
+  {
+    "id": 618,
+    "name": "TAMPICO"
+  },
+  {
+    "id": 640,
+    "name": "TAN TAN"
+  },
+  {
+    "id": 1363,
+    "name": "TANGA"
+  },
+  {
+    "id": 2792,
+    "name": "TANGER MED"
+  },
+  {
+    "id": 641,
+    "name": "TANGIER"
+  },
+  {
+    "id": 47416,
+    "name": "TANGKIANG"
+  },
+  {
+    "id": 2038,
+    "name": "TANGSHAN"
+  },
+  {
+    "id": 396,
+    "name": "TANIYAMA"
+  },
+  {
+    "id": 517,
+    "name": "TANJONG BIN"
+  },
+  {
+    "id": 518,
+    "name": "TANJONG KIDURONG"
+  },
+  {
+    "id": 3282,
+    "name": "TANJUNG BAKAU"
+  },
+  {
+    "id": 2748,
+    "name": "TANJUNG BARA, KL"
+  },
+  {
+    "id": 114,
+    "name": "TANJUNG BULI"
+  },
+  {
+    "id": 3157,
+    "name": "TANJUNG MANIS"
+  },
+  {
+    "id": 115,
+    "name": "TANJUNG PANDAN"
+  },
+  {
+    "id": 519,
+    "name": "TANJUNG PELEPAS"
+  },
+  {
+    "id": 116,
+    "name": "TANJUNG PEMANCINGAN"
+  },
+  {
+    "id": 2749,
+    "name": "TANJUNG PINANG, RIAU"
+  },
+  {
+    "id": 47340,
+    "name": "TANJUNG SETAPA"
+  },
+  {
+    "id": 117,
+    "name": "TANJUNG UBAN"
+  },
+  {
+    "id": 118,
+    "name": "TANJUNG WANGI"
+  },
+  {
+    "id": 397,
+    "name": "TANOURA/KITAKYUSHU"
+  },
+  {
+    "id": 119,
+    "name": "TARAKAN, KALIMANTAN"
+  },
+  {
+    "id": 242,
+    "name": "TARANTO"
+  },
+  {
+    "id": 426,
+    "name": "TARAWA"
+  },
+  {
+    "id": 172,
+    "name": "TARBERT"
+  },
+  {
+    "id": 642,
+    "name": "TARFAYA"
+  },
+  {
+    "id": 3276,
+    "name": "TARJUN"
+  },
+  {
+    "id": 1268,
+    "name": "TARRAGONA"
+  },
+  {
+    "id": 2853,
+    "name": "TARTUS"
+  },
+  {
+    "id": 2463,
+    "name": "TASIILAQ"
+  },
+  {
+    "id": 1429,
+    "name": "TASUCU"
+  },
+  {
+    "id": 861,
+    "name": "TAU"
+  },
+  {
+    "id": 737,
+    "name": "TAURANGA"
+  },
+  {
+    "id": 3350,
+    "name": "TAVSANLI"
+  },
+  {
+    "id": 520,
+    "name": "TAWAU, SABAH"
+  },
+  {
+    "id": 1596,
+    "name": "TEESPORT"
+  },
+  {
+    "id": 1597,
+    "name": "TEIGNMOUTH"
+  },
+  {
+    "id": 1430,
+    "name": "TEKIRDAG"
+  },
+  {
+    "id": 44291,
+    "name": "TEKNECIK"
+  },
+  {
+    "id": 184,
+    "name": "TEL AVIV-YAFO"
+  },
+  {
+    "id": 3144,
+    "name": "TELA"
+  },
+  {
+    "id": 2967,
+    "name": "TELUK BAYUR"
+  },
+  {
+    "id": 120,
+    "name": "TELUK BUNGUS"
+  },
+  {
+    "id": 2418,
+    "name": "TEMA"
+  },
+  {
+    "id": 1152,
+    "name": "TEMRYUK"
+  },
+  {
+    "id": 3017,
+    "name": "TEMSE"
+  },
+  {
+    "id": 2214,
+    "name": "TENES"
+  },
+  {
+    "id": 1802,
+    "name": "TERGNEE"
+  },
+  {
+    "id": 243,
+    "name": "TERMINI IMERESE"
+  },
+  {
+    "id": 48477,
+    "name": "TERMOLI"
+  },
+  {
+    "id": 121,
+    "name": "TERNATE, HALMAHERA"
+  },
+  {
+    "id": 704,
+    "name": "TERNEUZEN"
+  },
+  {
+    "id": 1803,
+    "name": "TERTRE"
+  },
+  {
+    "id": 1804,
+    "name": "TESSENDERLO"
+  },
+  {
+    "id": 2692,
+    "name": "TEXAS CITY"
+  },
+  {
+    "id": 45593,
+    "name": "THA SALA"
+  },
+  {
+    "id": 3253,
+    "name": "THAMES HAVEN"
+  },
+  {
+    "id": 1536,
+    "name": "THAMESPORT"
+  },
+  {
+    "id": 1673,
+    "name": "THANH HOA"
+  },
+  {
+    "id": 186,
+    "name": "THE FOREST"
+  },
+  {
+    "id": 2693,
+    "name": "THEODORE AL"
+  },
+  {
+    "id": 2448,
+    "name": "THESSALONIKI"
+  },
+  {
+    "id": 966,
+    "name": "THEVENARD"
+  },
+  {
+    "id": 967,
+    "name": "THEVENARD ISLAND"
+  },
+  {
+    "id": 1674,
+    "name": "THI VAI"
+  },
+  {
+    "id": 653,
+    "name": "THILAWA"
+  },
+  {
+    "id": 722,
+    "name": "THIO"
+  },
+  {
+    "id": 2312,
+    "name": "THIONVILLE"
+  },
+  {
+    "id": 2449,
+    "name": "THISVI"
+  },
+  {
+    "id": 1934,
+    "name": "THOROLD"
+  },
+  {
+    "id": 27,
+    "name": "THORSHOFN"
+  },
+  {
+    "id": 1675,
+    "name": "THUAN AN"
+  },
+  {
+    "id": 1935,
+    "name": "THUNDER BAY"
+  },
+  {
+    "id": 2039,
+    "name": "TIANJIN XINGANG PT"
+  },
+  {
+    "id": 3018,
+    "name": "TIELRODE"
+  },
+  {
+    "id": 13988,
+    "name": "TIEN GIANG"
+  },
+  {
+    "id": 14613,
+    "name": "TIESHAN"
+  },
+  {
+    "id": 1153,
+    "name": "TIKSI"
+  },
+  {
+    "id": 3183,
+    "name": "TILBURY"
+  },
+  {
+    "id": 3072,
+    "name": "TILBURY IS"
+  },
+  {
+    "id": 1805,
+    "name": "TILLEUR"
+  },
+  {
+    "id": 738,
+    "name": "TIMARU"
+  },
+  {
+    "id": 578,
+    "name": "TIMBUES"
+  },
+  {
+    "id": 754,
+    "name": "TINCAN/LAGOS"
+  },
+  {
+    "id": 756,
+    "name": "TINIAN"
+  },
+  {
+    "id": 1806,
+    "name": "TISSELT"
+  },
+  {
+    "id": 627,
+    "name": "TIVAT"
+  },
+  {
+    "id": 739,
+    "name": "TIWAI POINT/BLUFF PORT"
+  },
+  {
+    "id": 862,
+    "name": "TJELDBERGODDEN"
+  },
+  {
+    "id": 398,
+    "name": "TOBA"
+  },
+  {
+    "id": 399,
+    "name": "TOBATA/KITAKYUSHU"
+  },
+  {
+    "id": 1966,
+    "name": "TOCOPILLA"
+  },
+  {
+    "id": 863,
+    "name": "TOFTE I HURUM"
+  },
+  {
+    "id": 2226,
+    "name": "TOFTIR"
+  },
+  {
+    "id": 400,
+    "name": "TOKACHI"
+  },
+  {
+    "id": 401,
+    "name": "TOKUYAMA"
+  },
+  {
+    "id": 402,
+    "name": "TOKYO"
+  },
+  {
+    "id": 2694,
+    "name": "TOLEDO"
+  },
+  {
+    "id": 1059,
+    "name": "TOLEDO/CEBU"
+  },
+  {
+    "id": 705,
+    "name": "TOLKAMER"
+  },
+  {
+    "id": 1060,
+    "name": "TOLOSA/TACLOBAN"
+  },
+  {
+    "id": 3091,
+    "name": "TOLU"
+  },
+  {
+    "id": 1154,
+    "name": "TOLYATTI"
+  },
+  {
+    "id": 403,
+    "name": "TOMAKOMAI"
+  },
+  {
+    "id": 34609,
+    "name": "TOMBAK"
+  },
+  {
+    "id": 623,
+    "name": "TOMIL HARBOUR"
+  },
+  {
+    "id": 404,
+    "name": "TOMIOKA, TOKUSHIMA"
+  },
+  {
+    "id": 864,
+    "name": "TOMREFJORD"
+  },
+  {
+    "id": 461,
+    "name": "TONGHAE"
+  },
+  {
+    "id": 2040,
+    "name": "TONGLING"
+  },
+  {
+    "id": 462,
+    "name": "TONGYEONG"
+  },
+  {
+    "id": 2313,
+    "name": "TONNAY-CHARENTE"
+  },
+  {
+    "id": 865,
+    "name": "TONSBERG"
+  },
+  {
+    "id": 619,
+    "name": "TOPOLOBAMPO"
+  },
+  {
+    "id": 3122,
+    "name": "TORNIO (TORNEA)"
+  },
+  {
+    "id": 122,
+    "name": "TOROBULU"
+  },
+  {
+    "id": 1936,
+    "name": "TORONTO"
+  },
+  {
+    "id": 2860,
+    "name": "TOROS GUBRE TERMINAL, GUBRE"
+  },
+  {
+    "id": 244,
+    "name": "TORRE ANNUNZIATA"
+  },
+  {
+    "id": 968,
+    "name": "TORRES STRAIT AND GREAT BARRIER REEF"
+  },
+  {
+    "id": 1269,
+    "name": "TORREVIEJA"
+  },
+  {
+    "id": 2975,
+    "name": "TORSHAVN"
+  },
+  {
+    "id": 2943,
+    "name": "TOULON"
+  },
+  {
+    "id": 969,
+    "name": "TOWNSVILLE"
+  },
+  {
+    "id": 405,
+    "name": "TOYAMA"
+  },
+  {
+    "id": 28441,
+    "name": "TOYAMASHINKO"
+  },
+  {
+    "id": 406,
+    "name": "TOYOHASHI"
+  },
+  {
+    "id": 1431,
+    "name": "TRABZON"
+  },
+  {
+    "id": 2809,
+    "name": "TRAENA"
+  },
+  {
+    "id": 43143,
+    "name": "TRAMANDAI"
+  },
+  {
+    "id": 43322,
+    "name": "TRAMANDAI"
+  },
+  {
+    "id": 245,
+    "name": "TRAPANI"
+  },
+  {
+    "id": 2409,
+    "name": "TRAVEMUNDE"
+  },
+  {
+    "id": 2314,
+    "name": "TREGUIER"
+  },
+  {
+    "id": 1338,
+    "name": "TRELLEBORG"
+  },
+  {
+    "id": 246,
+    "name": "TRIESTE"
+  },
+  {
+    "id": 1275,
+    "name": "TRINCOMALEE"
+  },
+  {
+    "id": 483,
+    "name": "TRIPOLI, LB"
+  },
+  {
+    "id": 496,
+    "name": "TRIPOLI, LY"
+  },
+  {
+    "id": 3071,
+    "name": "TROIS-RIVIERES"
+  },
+  {
+    "id": 866,
+    "name": "TROMSO"
+  },
+  {
+    "id": 867,
+    "name": "TRONDHEIM"
+  },
+  {
+    "id": 1598,
+    "name": "TRURO"
+  },
+  {
+    "id": 3266,
+    "name": "TSINGELI"
+  },
+  {
+    "id": 407,
+    "name": "TSU"
+  },
+  {
+    "id": 408,
+    "name": "TSUKUMI"
+  },
+  {
+    "id": 409,
+    "name": "TSUNEISHI"
+  },
+  {
+    "id": 410,
+    "name": "TSURUGA"
+  },
+  {
+    "id": 1155,
+    "name": "TUAPSE"
+  },
+  {
+    "id": 123,
+    "name": "TUBAN, JV"
+  },
+  {
+    "id": 1867,
+    "name": "TUBARAO"
+  },
+  {
+    "id": 13434,
+    "name": "TUBAY"
+  },
+  {
+    "id": 1937,
+    "name": "TUKTOYAKTUK"
+  },
+  {
+    "id": 2997,
+    "name": "TULCEA"
+  },
+  {
+    "id": 2778,
+    "name": "TULEAR (TOLIARA)"
+  },
+  {
+    "id": 15871,
+    "name": "TUMACO"
+  },
+  {
+    "id": 45605,
+    "name": "TUNA"
+  },
+  {
+    "id": 3189,
+    "name": "TURBO"
+  },
+  {
+    "id": 1435,
+    "name": "TURKMENBASHI"
+  },
+  {
+    "id": 2932,
+    "name": "TURKU"
+  },
+  {
+    "id": 77,
+    "name": "TUTICORIN"
+  },
+  {
+    "id": 2861,
+    "name": "TUTUNCIFTLIK"
+  },
+  {
+    "id": 620,
+    "name": "TUXPAN"
+  },
+  {
+    "id": 12420,
+    "name": "TUZLA"
+  },
+  {
+    "id": 2227,
+    "name": "TVOROYRI"
+  },
+  {
+    "id": 2909,
+    "name": "TYBORON"
+  },
+  {
+    "id": 868,
+    "name": "TYSSEDAL"
+  },
+  {
+    "id": 411,
+    "name": "UBE"
+  },
+  {
+    "id": 412,
+    "name": "UCHIURA, FUKUI"
+  },
+  {
+    "id": 1339,
+    "name": "UDDEVALLA"
+  },
+  {
+    "id": 28437,
+    "name": "UECKERMUNDE"
+  },
+  {
+    "id": 3312,
+    "name": "UGLEGORSK"
+  },
+  {
+    "id": 463,
+    "name": "ULSAN"
+  },
+  {
+    "id": 869,
+    "name": "ULSTEINVIK"
+  },
+  {
+    "id": 1340,
+    "name": "UMEA"
+  },
+  {
+    "id": 1468,
+    "name": "UMM AL NAR"
+  },
+  {
+    "id": 1469,
+    "name": "UMM AL QAIWAIN"
+  },
+  {
+    "id": 145,
+    "name": "UMM QASR"
+  },
+  {
+    "id": 2832,
+    "name": "UMM SA'ID (MESAIEED)"
+  },
+  {
+    "id": 413,
+    "name": "UNO"
+  },
+  {
+    "id": 1432,
+    "name": "UNYE"
+  },
+  {
+    "id": 2464,
+    "name": "UPERNAVIK"
+  },
+  {
+    "id": 3286,
+    "name": "URAGA"
+  },
+  {
+    "id": 706,
+    "name": "URMOND"
+  },
+  {
+    "id": 970,
+    "name": "USELESS LOOP"
+  },
+  {
+    "id": 579,
+    "name": "USHUAIA"
+  },
+  {
+    "id": 3230,
+    "name": "USIBA"
+  },
+  {
+    "id": 1071,
+    "name": "USTKA"
+  },
+  {
+    "id": 1156,
+    "name": "UST-LUGA"
+  },
+  {
+    "id": 1341,
+    "name": "UTANSJO"
+  },
+  {
+    "id": 2933,
+    "name": "UUSIKAUPUNKI"
+  },
+  {
+    "id": 2237,
+    "name": "VAASA (VASA)"
+  },
+  {
+    "id": 247,
+    "name": "VADA"
+  },
+  {
+    "id": 47613,
+    "name": "VADHEIM"
+  },
+  {
+    "id": 78,
+    "name": "VADINAR"
+  },
+  {
+    "id": 248,
+    "name": "VADO LIGURE"
+  },
+  {
+    "id": 48081,
+    "name": "VAGUR"
+  },
+  {
+    "id": 2878,
+    "name": "VAL SINT-LAMBERT"
+  },
+  {
+    "id": 2695,
+    "name": "VALDEZ"
+  },
+  {
+    "id": 1270,
+    "name": "VALENCIA"
+  },
+  {
+    "id": 2315,
+    "name": "VALENCIENNES"
+  },
+  {
+    "id": 523,
+    "name": "VALLETTA"
+  },
+  {
+    "id": 1938,
+    "name": "VALLEYFIELD"
+  },
+  {
+    "id": 1342,
+    "name": "VALLVIK"
+  },
+  {
+    "id": 1967,
+    "name": "VALPARAISO"
+  },
+  {
+    "id": 19609,
+    "name": "VAN PHONG"
+  },
+  {
+    "id": 1939,
+    "name": "VANCOUVER (CANADA)"
+  },
+  {
+    "id": 2696,
+    "name": "VANCOUVER (U.S.A.)"
+  },
+  {
+    "id": 1002,
+    "name": "VANIMO"
+  },
+  {
+    "id": 1157,
+    "name": "VANINO"
+  },
+  {
+    "id": 49168,
+    "name": "VARANDEY"
+  },
+  {
+    "id": 1343,
+    "name": "VARBERG"
+  },
+  {
+    "id": 870,
+    "name": "VARDO"
+  },
+  {
+    "id": 1873,
+    "name": "VARNA"
+  },
+  {
+    "id": 2810,
+    "name": "VAROY"
+  },
+  {
+    "id": 2119,
+    "name": "VASILIKOS"
+  },
+  {
+    "id": 1344,
+    "name": "VASTERAS"
+  },
+  {
+    "id": 3340,
+    "name": "VASTERVIK"
+  },
+  {
+    "id": 249,
+    "name": "VASTO"
+  },
+  {
+    "id": 1676,
+    "name": "VAT CACH"
+  },
+  {
+    "id": 2450,
+    "name": "VATHI"
+  },
+  {
+    "id": 723,
+    "name": "VAVOUTO"
+  },
+  {
+    "id": 1345,
+    "name": "VAXHOLM"
+  },
+  {
+    "id": 49049,
+    "name": "VEGA TERMINAL"
+  },
+  {
+    "id": 2160,
+    "name": "VEJLE"
+  },
+  {
+    "id": 707,
+    "name": "VELSEN"
+  },
+  {
+    "id": 3221,
+    "name": "VENE-BALTI"
+  },
+  {
+    "id": 250,
+    "name": "VENEZIA"
+  },
+  {
+    "id": 479,
+    "name": "VENTSPILS"
+  },
+  {
+    "id": 621,
+    "name": "VERACRUZ"
+  },
+  {
+    "id": 49124,
+    "name": "VERAVAL"
+  },
+  {
+    "id": 3019,
+    "name": "VERBRANDE BRUG"
+  },
+  {
+    "id": 871,
+    "name": "VERDAL"
+  },
+  {
+    "id": 48082,
+    "name": "VESTMANHAVN"
+  },
+  {
+    "id": 28,
+    "name": "VESTMANNAEYJAR"
+  },
+  {
+    "id": 1807,
+    "name": "VEURNE"
+  },
+  {
+    "id": 1082,
+    "name": "VIANA DO CASTELO"
+  },
+  {
+    "id": 251,
+    "name": "VIBO VALENTIA"
+  },
+  {
+    "id": 3073,
+    "name": "VICTORIA, CA"
+  },
+  {
+    "id": 1091,
+    "name": "VIENNA"
+  },
+  {
+    "id": 2410,
+    "name": "VIEROW"
+  },
+  {
+    "id": 1166,
+    "name": "VIEUX FORT"
+  },
+  {
+    "id": 1271,
+    "name": "VIGO"
+  },
+  {
+    "id": 79,
+    "name": "VIJAYDURG"
+  },
+  {
+    "id": 1868,
+    "name": "VILA DO CONDE"
+  },
+  {
+    "id": 3308,
+    "name": "VILA DO PORTO"
+  },
+  {
+    "id": 580,
+    "name": "VILLA CONSTITUCION"
+  },
+  {
+    "id": 2850,
+    "name": "VILLAGARCIA DE AROSA"
+  },
+  {
+    "id": 1061,
+    "name": "VILLANUEVA"
+  },
+  {
+    "id": 3324,
+    "name": "VILLANUEVA Y GELTRU"
+  },
+  {
+    "id": 2944,
+    "name": "VILLEFRANCHE-SUR-MER"
+  },
+  {
+    "id": 2316,
+    "name": "VILLEFRANCHE-SUR-SAONE"
+  },
+  {
+    "id": 1808,
+    "name": "VILVOORDE"
+  },
+  {
+    "id": 80,
+    "name": "VISAKHAPATNAM"
+  },
+  {
+    "id": 1346,
+    "name": "VISBY"
+  },
+  {
+    "id": 3175,
+    "name": "VITINO"
+  },
+  {
+    "id": 3170,
+    "name": "VITORIA"
+  },
+  {
+    "id": 3325,
+    "name": "VIVEIRO"
+  },
+  {
+    "id": 708,
+    "name": "VLAARDINGEN"
+  },
+  {
+    "id": 1158,
+    "name": "VLADIVOSTOK"
+  },
+  {
+    "id": 709,
+    "name": "VLISSINGEN"
+  },
+  {
+    "id": 2124,
+    "name": "VLORE"
+  },
+  {
+    "id": 2451,
+    "name": "VOLOS"
+  },
+  {
+    "id": 1677,
+    "name": "VOPAK PORT (LONG THAU)"
+  },
+  {
+    "id": 29,
+    "name": "VOPNAFJORDUR"
+  },
+  {
+    "id": 2161,
+    "name": "VORDINGBORG"
+  },
+  {
+    "id": 2840,
+    "name": "VOSTOCHNYY PORT"
+  },
+  {
+    "id": 1678,
+    "name": "VUNG ANG"
+  },
+  {
+    "id": 14615,
+    "name": "VUNG RO"
+  },
+  {
+    "id": 1679,
+    "name": "VUNG TAU"
+  },
+  {
+    "id": 1159,
+    "name": "VYBORG"
+  },
+  {
+    "id": 1160,
+    "name": "VYSOTSK"
+  },
+  {
+    "id": 2750,
+    "name": "WAINGAPU, SUMBA"
+  },
+  {
+    "id": 47390,
+    "name": "WAIRIKI"
+  },
+  {
+    "id": 414,
+    "name": "WAKAYAMA"
+  },
+  {
+    "id": 3147,
+    "name": "WAKE ISLAND"
+  },
+  {
+    "id": 415,
+    "name": "WAKKANAI"
+  },
+  {
+    "id": 971,
+    "name": "WALLAROO"
+  },
+  {
+    "id": 1347,
+    "name": "WALLHAMN"
+  },
+  {
+    "id": 710,
+    "name": "WALSOORDEN"
+  },
+  {
+    "id": 655,
+    "name": "WALVIS BAY"
+  },
+  {
+    "id": 464,
+    "name": "WANDO-GUN"
+  },
+  {
+    "id": 1809,
+    "name": "WANDRE"
+  },
+  {
+    "id": 740,
+    "name": "WANGANUI"
+  },
+  {
+    "id": 1810,
+    "name": "WARCOING"
+  },
+  {
+    "id": 1811,
+    "name": "WARNETON"
+  },
+  {
+    "id": 1599,
+    "name": "WARRENPOINT"
+  },
+  {
+    "id": 755,
+    "name": "WARRI"
+  },
+  {
+    "id": 173,
+    "name": "WATERFORD"
+  },
+  {
+    "id": 2411,
+    "name": "WEDEL"
+  },
+  {
+    "id": 48905,
+    "name": "WEIFANG PT"
+  },
+  {
+    "id": 2041,
+    "name": "WEIHAI"
+  },
+  {
+    "id": 972,
+    "name": "WEIPA"
+  },
+  {
+    "id": 3236,
+    "name": "WELLAND CANAL ON"
+  },
+  {
+    "id": 741,
+    "name": "WELLINGTON"
+  },
+  {
+    "id": 973,
+    "name": "WELSHPOOL"
+  },
+  {
+    "id": 2042,
+    "name": "WENZHOU"
+  },
+  {
+    "id": 2412,
+    "name": "WESEL"
+  },
+  {
+    "id": 1600,
+    "name": "WEST THURROCK"
+  },
+  {
+    "id": 974,
+    "name": "WESTERNPORT"
+  },
+  {
+    "id": 711,
+    "name": "WEST-TERSCHELLING"
+  },
+  {
+    "id": 1003,
+    "name": "WEWAK"
+  },
+  {
+    "id": 174,
+    "name": "WHITEGATE"
+  },
+  {
+    "id": 975,
+    "name": "WHYALLA"
+  },
+  {
+    "id": 1601,
+    "name": "WICK"
+  },
+  {
+    "id": 175,
+    "name": "WICKLOW"
+  },
+  {
+    "id": 1812,
+    "name": "WIJGMAAL"
+  },
+  {
+    "id": 1813,
+    "name": "WIJNEGEM"
+  },
+  {
+    "id": 2413,
+    "name": "WILHELMSHAVEN"
+  },
+  {
+    "id": 3020,
+    "name": "WILLEBROEK"
+  },
+  {
+    "id": 2697,
+    "name": "WILMINGTON CA"
+  },
+  {
+    "id": 2698,
+    "name": "WILMINGTON DE"
+  },
+  {
+    "id": 2699,
+    "name": "WILMINGTON NC"
+  },
+  {
+    "id": 1940,
+    "name": "WINDSOR"
+  },
+  {
+    "id": 1602,
+    "name": "WISBECH"
+  },
+  {
+    "id": 2414,
+    "name": "WISMAR"
+  },
+  {
+    "id": 976,
+    "name": "WITHNELL BAY"
+  },
+  {
+    "id": 2415,
+    "name": "WOLFSBURG"
+  },
+  {
+    "id": 2416,
+    "name": "WOLGAST"
+  },
+  {
+    "id": 436,
+    "name": "WONSAN"
+  },
+  {
+    "id": 2164,
+    "name": "WOODBRIDGE BAY"
+  },
+  {
+    "id": 1941,
+    "name": "WOODFIBRE"
+  },
+  {
+    "id": 1603,
+    "name": "WORKINGTON"
+  },
+  {
+    "id": 712,
+    "name": "WORKUM"
+  },
+  {
+    "id": 2043,
+    "name": "WUHAN"
+  },
+  {
+    "id": 2044,
+    "name": "WUHU"
+  },
+  {
+    "id": 977,
+    "name": "WYNDHAM"
+  },
+  {
+    "id": 2045,
+    "name": "XIAMEN"
+  },
+  {
+    "id": 2046,
+    "name": "XIAOHUDAO"
+  },
+  {
+    "id": 3149,
+    "name": "XINCHANG XIAN"
+  },
+  {
+    "id": 2047,
+    "name": "XINGANG (ANHUI)"
+  },
+  {
+    "id": 2048,
+    "name": "XINGANG (GUANGDONG)"
+  },
+  {
+    "id": 2049,
+    "name": "XINHE"
+  },
+  {
+    "id": 2050,
+    "name": "XINHUI"
+  },
+  {
+    "id": 2051,
+    "name": "XINSHA"
+  },
+  {
+    "id": 2017,
+    "name": "XIUYU"
+  },
+  {
+    "id": 2052,
+    "name": "XIXIAKOU SHIPYARD"
+  },
+  {
+    "id": 1089,
+    "name": "YABUCOA"
+  },
+  {
+    "id": 2452,
+    "name": "YALI ISLAND"
+  },
+  {
+    "id": 3177,
+    "name": "YALOVA"
+  },
+  {
+    "id": 416,
+    "name": "YANAI"
+  },
+  {
+    "id": 1187,
+    "name": "YANBU AL-BAHR"
+  },
+  {
+    "id": 1188,
+    "name": "YANBU INDUSTRIAL CITY"
+  },
+  {
+    "id": 1215,
+    "name": "YANDINA, RUSSELL ISLAND"
+  },
+  {
+    "id": 2053,
+    "name": "YANGJIANG"
+  },
+  {
+    "id": 47389,
+    "name": "YANGKOU"
+  },
+  {
+    "id": 2054,
+    "name": "YANGPU"
+  },
+  {
+    "id": 2055,
+    "name": "YANGSHAN"
+  },
+  {
+    "id": 12619,
+    "name": "YANGZHONG"
+  },
+  {
+    "id": 2056,
+    "name": "YANGZHOU"
+  },
+  {
+    "id": 2057,
+    "name": "YANTAI"
+  },
+  {
+    "id": 3085,
+    "name": "YANTIAN"
+  },
+  {
+    "id": 1433,
+    "name": "YARIMCA"
+  },
+  {
+    "id": 1161,
+    "name": "YAROSLAVL"
+  },
+  {
+    "id": 417,
+    "name": "YATSUSHIRO"
+  },
+  {
+    "id": 418,
+    "name": "YAWATA/KITAKYUSHU"
+  },
+  {
+    "id": 465,
+    "name": "YEONGHEUNG"
+  },
+  {
+    "id": 466,
+    "name": "YEOSU"
+  },
+  {
+    "id": 15767,
+    "name": "YESILOVACIK"
+  },
+  {
+    "id": 3352,
+    "name": "YESILYURT"
+  },
+  {
+    "id": 1453,
+    "name": "YEVPATORIYA"
+  },
+  {
+    "id": 1162,
+    "name": "YEYSK"
+  },
+  {
+    "id": 2058,
+    "name": "YICHENG"
+  },
+  {
+    "id": 2059,
+    "name": "YINGKOU"
+  },
+  {
+    "id": 47743,
+    "name": "YINGKOU PT"
+  },
+  {
+    "id": 2060,
+    "name": "YIZHENG"
+  },
+  {
+    "id": 419,
+    "name": "YOKKAICHI"
+  },
+  {
+    "id": 420,
+    "name": "YOKOHAMA"
+  },
+  {
+    "id": 421,
+    "name": "YOKOSUKA"
+  },
+  {
+    "id": 3369,
+    "name": "YONKERS NY"
+  },
+  {
+    "id": 49178,
+    "name": "YORKTOWN VA"
+  },
+  {
+    "id": 2700,
+    "name": "YORKTOWN VA"
+  },
+  {
+    "id": 176,
+    "name": "YOUGHAL"
+  },
+  {
+    "id": 1348,
+    "name": "YSTAD"
+  },
+  {
+    "id": 2061,
+    "name": "YUEYANG"
+  },
+  {
+    "id": 3343,
+    "name": "YUNG-AN"
+  },
+  {
+    "id": 422,
+    "name": "YURA, WAKAYAMA"
+  },
+  {
+    "id": 3315,
+    "name": "YUZHNO-KURIL'SK"
+  },
+  {
+    "id": 1454,
+    "name": "YUZHNYY"
+  },
+  {
+    "id": 713,
+    "name": "ZAANDAM"
+  },
+  {
+    "id": 2095,
+    "name": "ZADAR"
+  },
+  {
+    "id": 1062,
+    "name": "ZAMBOANGA"
+  },
+  {
+    "id": 1814,
+    "name": "ZANDVLIET"
+  },
+  {
+    "id": 2978,
+    "name": "ZANTE"
+  },
+  {
+    "id": 1364,
+    "name": "ZANZIBAR"
+  },
+  {
+    "id": 28436,
+    "name": "ZAPORIZHIA"
+  },
+  {
+    "id": 581,
+    "name": "ZARATE"
+  },
+  {
+    "id": 1163,
+    "name": "ZARUBINO"
+  },
+  {
+    "id": 1392,
+    "name": "ZARZIS"
+  },
+  {
+    "id": 1815,
+    "name": "ZEEBRUGGE"
+  },
+  {
+    "id": 2916,
+    "name": "ZEIT BAY"
+  },
+  {
+    "id": 46663,
+    "name": "ZELENIKA"
+  },
+  {
+    "id": 1816,
+    "name": "ZELZATE"
+  },
+  {
+    "id": 3086,
+    "name": "ZHANGJIABU"
+  },
+  {
+    "id": 2062,
+    "name": "ZHANGJIAGANG"
+  },
+  {
+    "id": 2063,
+    "name": "ZHANGZHOU"
+  },
+  {
+    "id": 2064,
+    "name": "ZHANJIANG"
+  },
+  {
+    "id": 2065,
+    "name": "ZHAPU PT"
+  },
+  {
+    "id": 2066,
+    "name": "ZHENHAI"
+  },
+  {
+    "id": 2067,
+    "name": "ZHENJIANG"
+  },
+  {
+    "id": 3087,
+    "name": "ZHONGSHAN"
+  },
+  {
+    "id": 2068,
+    "name": "ZHOUSHAN"
+  },
+  {
+    "id": 3257,
+    "name": "ZHUANGYUANAO"
+  },
+  {
+    "id": 2069,
+    "name": "ZHUHAI"
+  },
+  {
+    "id": 1193,
+    "name": "ZIGUINCHOR"
+  },
+  {
+    "id": 47667,
+    "name": "ZIRKU ISLAND"
+  },
+  {
+    "id": 1434,
+    "name": "ZONGULDAK"
+  },
+  {
+    "id": 497,
+    "name": "ZUARA"
+  },
+  {
+    "id": 1817,
+    "name": "ZULTE"
+  },
+  {
+    "id": 1189,
+    "name": "ZULUF"
+  },
+  {
+    "id": 1818,
+    "name": "ZUTENDAAL"
+  },
+  {
+    "id": 714,
+    "name": "ZWARTSLUIS"
+  },
+  {
+    "id": 715,
+    "name": "ZWIJNDRECHT"
+  },
+  {
+    "id": 1819,
+    "name": "ZWIJNDRECHT"
+  }
+]
