@@ -22,7 +22,7 @@ def getToken():
     if lastTokenRead is None or ( lastTokenRead < (datetime.now() + timedelta(hours=-1))):
         lastTokenRead = datetime.now()
         body = '{"username": "NIELS","password": "Password"}'
-        response = requests.post(PPT_API + 'users/atlis/sessions?', headers=headers, data=body, verify=False)
+        response = requests.post(PPT_API + 'users/niels/sessions?', headers=headers, data=body, verify=False)
         return response.text[1:-1]
     else:
         return token
